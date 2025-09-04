@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CITY one-word domains still available to buy.
 
-This dataset contains 3,900 .CITY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,927 .CITY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CITY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=city-oneword-domains&utm_content=description.top) (3,642) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.CITY one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/city-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.csv"><b>⬇️ CSV (3.9K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.json"><b>⬇️ JSON (3.9K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.csv"><b>⬇️ CSV (3.93K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.json"><b>⬇️ JSON (3.93K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=city-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.64K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.city  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.city      | available | 43       | 2%     | 5      |           |         |         |
-| abashed.city    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.city     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.city   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.city     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.city    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.city   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.city  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.city  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.city | available | 56       | 1%     | 10     |           |         |         |
-| abducens.city   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.city   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.city  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.city    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.city | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.city   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.city    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.city  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.city    | available | 106      | 5%     | 7      |           |         |         |
-| abient.city     | available | 54       | 1%     | 6      |           |         |         |
-| abit.city       | available | 66       | 16%    | 5      |           |         |         |
-| abject.city     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.city     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.city  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.city     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.city  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.city    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.city   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.city     | available | 72       | 6%     | 6      |           |         |         |
+| Domain          | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
+| --------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
+| abactinal.city  | available | 50       | 1%     | 9      |                                                         |                  |                  |
+| abaft.city      | available | 43       | 2%     | 5      |                                                         |                  |                  |
+| abashed.city    | available | 60       | 2%     | 7      |                                                         |                  |                  |
+| abasic.city     | available | 54       | 2%     | 6      |                                                         |                  |                  |
+| abatable.city   | available | 54       | 1%     | 8      |                                                         |                  |                  |
+| abatic.city     | available | 54       | 2%     | 6      |                                                         |                  |                  |
+| abaxial.city    | available | 54       | 2%     | 7      |                                                         |                  |                  |
+| abbatial.city   | available | 50       | 1%     | 8      |                                                         |                  |                  |
+| abc.city        | resell    | 102      | 41%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 25/10/2018 23:23 | 25/10/2025 23:23 |
+| abdicable.city  | available | 50       | 1%     | 9      |                                                         |                  |                  |
+| abdominal.city  | available | 82       | 1%     | 9      |                                                         |                  |                  |
+| abdominous.city | available | 56       | 1%     | 10     |                                                         |                  |                  |
+| abducens.city   | available | 54       | 1%     | 8      |                                                         |                  |                  |
+| abducent.city   | available | 68       | 1%     | 8      |                                                         |                  |                  |
+| abducting.city  | available | 50       | 1%     | 9      |                                                         |                  |                  |
+| abenaki.city    | available | 82       | 3%     | 7      |                                                         |                  |                  |
+| aberdonian.city | available | 68       | 1%     | 10     |                                                         |                  |                  |
+| aberrant.city   | available | 74       | 7%     | 8      |                                                         |                  |                  |
+| abeyant.city    | available | 56       | 2%     | 7      |                                                         |                  |                  |
+| abhorrent.city  | available | 54       | 1%     | 9      |                                                         |                  |                  |
+| abiding.city    | available | 106      | 5%     | 7      |                                                         |                  |                  |
+| abient.city     | available | 54       | 1%     | 6      |                                                         |                  |                  |
+| ability.city    | available | 92       | 18%    | 7      |                                                         |                  |                  |
+| abit.city       | available | 66       | 16%    | 5      |                                                         |                  |                  |
+| abject.city     | available | 94       | 8%     | 6      |                                                         |                  |                  |
+| abkhas.city     | available | 68       | 1%     | 6      |                                                         |                  |                  |
+| abkhasian.city  | available | 78       | 1%     | 9      |                                                         |                  |                  |
+| abkhaz.city     | available | 82       | 2%     | 6      |                                                         |                  |                  |
+| abkhazian.city  | available | 78       | 1%     | 9      |                                                         |                  |                  |
+| ablated.city    | available | 52       | 2%     | 7      |                                                         |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/city-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.csv"><b>⬇️ CSV (3.9K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.json"><b>⬇️ JSON (3.9K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.csv"><b>⬇️ CSV (3.93K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/city-oneword-domains/blob/main/city.json"><b>⬇️ JSON (3.93K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=city-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.64K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
