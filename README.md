@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CITY one-word domains still available to buy.
 
-This dataset contains 4,091 .CITY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,088 .CITY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CITY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=city-oneword-domains&utm_content=description.top) (4,090) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.CITY one word domains
 | abbatial.city   | available | 50       | 1%     | 8      |                                                         |                  |                  |
 | abc.city        | resell    | 102      | 41%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 25/10/2018 23:23 | 25/10/2025 23:23 |
 | abdicable.city  | available | 50       | 1%     | 9      |                                                         |                  |                  |
-| abdominal.city  | available | 82       | 1%     | 9      |                                                         |                  |                  |
+| abdominal.city  | available | 82       | 5%     | 9      |                                                         |                  |                  |
 | abdominous.city | available | 56       | 1%     | 10     |                                                         |                  |                  |
 | abducens.city   | available | 54       | 1%     | 8      |                                                         |                  |                  |
 | abducent.city   | available | 68       | 1%     | 8      |                                                         |                  |                  |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.CITY one word domains
 | aberdonian.city | available | 68       | 1%     | 10     |                                                         |                  |                  |
 | aberrant.city   | available | 74       | 7%     | 8      |                                                         |                  |                  |
 | abeyant.city    | available | 56       | 2%     | 7      |                                                         |                  |                  |
-| abhorrent.city  | available | 54       | 1%     | 9      |                                                         |                  |                  |
+| abhorrent.city  | available | 54       | 3%     | 9      |                                                         |                  |                  |
 | abiding.city    | available | 106      | 5%     | 7      |                                                         |                  |                  |
 | abient.city     | available | 54       | 1%     | 6      |                                                         |                  |                  |
 | ability.city    | available | 92       | 18%    | 7      |                                                         |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CITY one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
