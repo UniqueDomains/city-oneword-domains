@@ -105,7 +105,7 @@ c46149f2-3c35-428b-ba3c-1734aa3b5c85,acaudal.city,available,50,1,7,,,
 71036ff2-6564-402e-a29e-5c5d96e4f401,acaudate.city,available,46,1,8,,,
 4c3edfc0-5dc8-441e-b381-4da7b30263ed,accented.city,available,58,2,8,,,
 0c66ecec-c4e3-4107-9818-141a5afeab08,accentual.city,available,54,2,9,,,
-8aa04110-eda9-4f2e-ad0d-545da0c215b8,accept.city,available,103,15,6,,,
+8aa04110-eda9-4f2e-ad0d-545da0c215b8,accept.city,available,103,14,6,,,
 64598f72-20c7-46dd-a0d5-37432c9812dd,acceptable.city,available,78,5,10,,,
 34b3a192-9949-4c91-8d07-82c0758074a4,acceptant.city,available,78,1,9,,,
 f90e6ecf-003d-45a2-b9d0-72a8ffeac572,accepted.city,available,78,5,8,,,
@@ -1796,7 +1796,7 @@ ea853c68-3e42-4f96-a246-76152d8a0736,billbird.city,available,64,2,9,,,
 ea170cc2-30d0-4304-839e-6992859edd9f,binary.city,resell,96,29,6,"Chengdu West Dimension Digital Technology Co., Ltd.",02/03/2018 08:07,02/03/2026 08:07
 8926fb4a-1617-4814-9d5a-d00ddd6e8e32,binding.city,available,92,5,7,,,
 bb646eb6-33c9-40fd-a9b0-06de4fdbb711,biological.city,available,92,5,10,,,
-f813c9aa-e6eb-4d62-a2a3-927d9f430494,bird.city,resell,72,39,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2019 23:23,05/03/2026 23:23
+f813c9aa-e6eb-4d62-a2a3-927d9f430494,bird.city,resell,72,38,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2019 23:23,05/03/2026 23:23
 2b3f5ded-835f-48af-9049-6a2c26032928,birthcertificate.city,available,66,4,17,,,
 dbd3ff1d-af07-460a-b1fc-ceeeb8f51f03,biteme.city,available,62,11,7,,,
 f67a38f3-819b-4a7e-b09a-2d77b79b00e5,biting.city,available,72,2,6,,,
@@ -1849,7 +1849,7 @@ ec9982e1-1c7a-4299-93e7-dbf5434f4a9e,bogus.city,available,39,11,5,,,
 d0b7afd8-8a51-4f73-a435-d79ea73f96b2,bond.city,resell,74,32,4,"DNSPod, Inc.",18/04/2021 01:52,18/04/2026 01:52
 d7bdf4b6-f8c1-4076-b864-0600b234ea97,bone.city,available,64,20,4,,,
 1ce3b371-1da2-4f91-aabb-0ab5d3dc01cb,bones.city,available,52,12,5,,,
-24aa6521-b7a0-46fa-8680-35870aaa68fe,bonus.city,resell,78,32,5,"Sav.com, LLC",06/02/2025 17:09,06/02/2026 17:09
+24aa6521-b7a0-46fa-8680-35870aaa68fe,bonus.city,resell,78,30,5,"Sav.com, LLC",06/02/2025 17:09,06/02/2026 17:09
 9a641746-5489-4480-a28e-4d9534509fbe,boo.city,available,100,23,3,,,
 ab8dcce6-cd25-4384-a878-9312c34e64e2,booklist.city,available,70,5,8,,,
 fa55f602-eedf-4a56-8394-d6416f70c371,boost.city,resell,96,38,5,"Chengdu West Dimension Digital Technology Co., Ltd.",29/01/2024 15:15,29/01/2026 15:15
@@ -1895,10 +1895,10 @@ b80b5e41-44d2-4b62-9fb1-9896873575dc,braless.city,available,36,4,7,,,
 0f3d3804-ceff-44a9-8944-4675da89b5a0,brandnew.city,available,72,11,9,,,
 6667020b-847e-4840-b9f5-ffb9f3b1a387,bravery.city,available,80,10,7,,,
 35c49969-a399-45ec-bc06-77d69087ae1f,bravo.city,available,66,14,5,,,
-728242f7-d574-4e77-b5c0-3a7664c55b4e,bread.city,resell,102,31,5,"DNSPod, Inc.",23/02/2018 02:13,23/02/2026 02:13
+728242f7-d574-4e77-b5c0-3a7664c55b4e,bread.city,resell,102,30,5,"DNSPod, Inc.",23/02/2018 02:13,23/02/2026 02:13
 4d3add03-edef-401f-a213-12e0398eff3f,break.city,resell,82,15,5,"NameCheap, Inc.",08/10/2014 16:16,08/10/2026 16:16
 f59d323f-9e24-4392-94e0-2499663a0a00,breakeven.city,available,82,5,10,,,
-80b0253c-8d08-4b88-8a74-f5edec5469eb,breakfast.city,available,96,17,9,,,
+80b0253c-8d08-4b88-8a74-f5edec5469eb,breakfast.city,available,96,16,9,,,
 61f9cea5-1fe5-4940-bfeb-3f77182748f1,breakinto.city,available,68,2,10,,,
 fec706f9-d6c0-4ab6-b5a8-621cf8765119,breakoutroom.city,available,66,2,13,,,
 6d01dc4f-18a5-4514-91c3-332f0a07838b,breakroom.city,available,66,6,10,,,
@@ -1907,21 +1907,21 @@ fec706f9-d6c0-4ab6-b5a8-621cf8765119,breakoutroom.city,available,66,2,13,,,
 d1d76f97-b056-444d-b7d0-a0e48eb143ff,breathtaking.city,available,70,7,12,,,
 b701476d-4b8e-4749-89a3-3f244f914a67,breezy.city,available,76,16,6,,,
 9c7d969a-3562-4564-a5ce-83ccb71bac28,briary.city,available,48,2,6,,,
-8e9e5c81-7918-42ef-9ecf-f60c61e797c0,bridget.city,available,86,9,7,,,
-b06a910e-5e98-4e94-b8b4-649d269023fc,brie.city,available,70,9,4,,,
-dc78ec51-2c0a-495c-a32c-059bd7292450,briefcase.city,available,70,9,9,,,
+8e9e5c81-7918-42ef-9ecf-f60c61e797c0,bridget.city,available,86,8,7,,,
+b06a910e-5e98-4e94-b8b4-649d269023fc,brie.city,available,70,8,4,,,
+dc78ec51-2c0a-495c-a32c-059bd7292450,briefcase.city,available,70,10,9,,,
 c21cd009-37b2-431f-b173-ec7f5b298455,briefing.city,available,66,8,8,,,
 aa7fa6b2-4d37-4384-affa-f703ec4d00fd,briefingnote.city,available,70,1,13,,,
 bd02552b-1bd5-4388-936a-c05861f79427,briefly.city,available,65,11,7,,,
-42bb6faf-dcd3-4a2b-8e4e-4880caf95f3e,briefs.city,available,74,8,6,,,
+42bb6faf-dcd3-4a2b-8e4e-4880caf95f3e,briefs.city,available,74,7,6,,,
 04ee7309-a2cd-4bfa-bffe-41d5244518ae,briery.city,available,66,1,6,,,
 e3adcea0-d112-468a-95a8-c90bd2b76e4e,bright.city,resell,74,32,6,"GoDaddy.com, LLC",10/05/2016 16:39,10/05/2026 16:39
 22d6b843-a871-4178-9cfb-65b3c7834cb3,brighten.city,available,80,7,8,,,
-a3cecfd1-84d3-420a-aadf-b8d91136bd3e,brightness.city,available,72,6,10,,,
+a3cecfd1-84d3-420a-aadf-b8d91136bd3e,brightness.city,available,72,5,10,,,
 7678f7c8-111f-4276-ac1d-0618748c0727,bringback.city,available,66,3,10,,,
 91f8e2a7-6359-408c-b748-cec237161f7c,bringhome.city,available,72,5,10,,,
 8c3569d8-6ae3-41cc-ac0e-7f252a07e142,bringin.city,available,74,3,8,,,
-36442588-6343-4818-994b-50088d5e0092,bringing.city,available,66,1,8,,,
+36442588-6343-4818-994b-50088d5e0092,bringing.city,available,66,2,8,,,
 b735e6e0-4fe6-4787-9a0a-a2895dbdf05a,bringit.city,available,98,8,8,,,
 fe5fd5e4-e377-4216-9a9f-96f73c11e19f,bringon.city,available,70,2,8,,,
 972929a3-40e7-49d6-ac60-baced7c269fb,bringto.city,available,70,2,8,,,
@@ -1946,14 +1946,14 @@ d974d656-92c9-4c93-b325-1aba4c59b352,brushing.city,available,80,2,8,,,
 25b5f303-01c2-41cf-911e-28aa4f3e895d,brutal.city,available,48,16,6,,,
 ede57f84-8ce2-489c-8950-55950ae6c5f7,brute.city,available,96,11,5,,,
 b1197084-d310-4fce-9971-b33754da89c1,btw.city,available,70,21,3,,,
-5828d996-5b9a-43c0-a51b-e673cc400043,buck.city,available,62,27,4,,,
+5828d996-5b9a-43c0-a51b-e673cc400043,buck.city,available,62,26,4,,,
 22ae7dff-e4b0-48f7-93e1-6c37a046235e,bucket.city,available,62,16,6,,,
 6af36ed7-9e53-44f6-82a6-6c50596a9843,buffer.city,available,98,14,6,,,
 7f432f50-1f62-4aa2-b99a-b0192425e42e,buffet.city,resell,103,9,6,"DNSPod, Inc.",07/03/2022 13:15,07/03/2026 13:15
 5d746fa1-f432-47a3-b80e-288ba44cfb11,bug.city,available,76,28,3,,,
 b1b61a7e-081c-4555-9539-47832b293132,bugged.city,available,56,3,6,,,
 5e28d6c8-fee5-4edf-94b1-ea097515da0d,buggy.city,available,84,16,5,,,
-28068453-79fe-4208-b1e6-0c6a60973353,builder.city,resell,76,30,7,"DNSPod, Inc.",19/04/2019 23:20,19/04/2026 23:20
+28068453-79fe-4208-b1e6-0c6a60973353,builder.city,resell,76,29,7,"DNSPod, Inc.",19/04/2019 23:20,19/04/2026 23:20
 693ca0d4-76da-44df-ac04-5b3a07a47774,builtin.city,available,91,7,8,,,
 c0e0d300-3691-46d5-9319-f208de5774e1,buirdly.city,available,46,1,7,,,
 59912e54-745c-4908-891b-7d800b436e50,bulk.city,resell,110,19,4,"Sav.com, LLC",21/02/2025 17:10,21/02/2026 17:10
@@ -1964,7 +1964,6 @@ c0e0d300-3691-46d5-9319-f208de5774e1,buirdly.city,available,46,1,7,,,
 4e48fbb3-f333-4eee-b6c1-5f15fe148f55,bully.city,available,118,12,5,,,
 c7cec0d3-d536-4b91-8533-db3d5f700662,bullying.city,available,52,5,8,,,
 24bd26b5-47ed-4aaa-ae45-cf899e46e0f4,bum.city,available,100,16,3,,,
-4f4ed88d-e16b-4450-8baa-693babcad78b,bump.city,resell,68,22,4,"Xiamen ChinaSource Internet Service Co., Ltd",14/01/2025 15:15,14/01/2026 15:15
 6eb45763-8d45-41fe-bba5-a38c04945a6a,bumpinto.city,available,68,1,9,,,
 1f44d810-6ffc-417a-b0a0-a421a4655c99,bunch.city,available,64,16,5,,,
 62898475-c1bd-453f-b68f-378f57db3112,bundle.city,resell,94,22,6,Dynadot Inc,27/02/2025 17:00,27/02/2026 17:00
@@ -1990,7 +1989,7 @@ a6a427bc-16f3-4744-8c40-f7f3430da2ba,businesstrip.city,available,74,3,13,,,
 ee25bc1f-3c0a-424d-b2ae-323ce04fe28e,but.city,available,70,14,3,,,
 bc6b95b3-b1ea-428e-84a5-fb59a0714feb,butcher.city,available,60,9,7,,,
 bc5adc75-9362-4f61-93f3-9ec7998cab1e,butif.city,available,44,1,6,,,
-0105e376-8731-435b-b8e7-f35a502f05fa,butterfly.city,resell,96,34,9,Dynadot Inc,30/05/2025 17:00,30/05/2026 17:00
+0105e376-8731-435b-b8e7-f35a502f05fa,butterfly.city,resell,96,31,9,Dynadot Inc,30/05/2025 17:00,30/05/2026 17:00
 bd0a96eb-fade-4247-aa5e-7b2ea8f42cea,butterflykeyboard.city,available,76,1,18,,,
 d394d0e4-a648-44a7-a03f-b9aaba3929a0,butthen.city,available,56,1,8,,,
 eda06fac-7f5d-4ee5-ac0d-966bfe80dd30,butthenagain.city,available,42,1,14,,,
@@ -2001,7 +2000,7 @@ d2c66a11-f043-4b45-bd04-6ae355263826,buttons.city,available,78,11,7,,,
 3869a6ac-cf20-4c48-80d5-0c7e8c5958b2,buttony.city,available,68,2,7,,,
 1e808155-69ad-4220-b569-03042a665ddb,buyer.city,resell,74,18,5,"DNSPod, Inc.",21/10/2018 09:25,21/10/2026 09:25
 1803083d-c08d-4a96-b2bc-5edae7ad729f,buyfood.city,available,72,2,8,,,
-daed0b08-2515-4102-8979-10e1dfcfc5c2,buying.city,available,74,16,6,,,
+daed0b08-2515-4102-8979-10e1dfcfc5c2,buying.city,available,74,15,6,,,
 72306fbb-7df7-43c6-b229-cd9555df3e82,buzzing.city,available,66,7,7,,,
 211e05c4-e3d0-45ce-9496-618d54b92779,bychance.city,available,56,5,9,,,
 a35e87ad-f654-4307-87fc-9c1119d1d6ed,bye.city,available,72,12,3,,,
@@ -2011,12 +2010,12 @@ ae21f5ac-3e3a-449d-b01c-2e3cf198eee0,byhand.city,available,60,4,7,,,
 059f57f6-04cd-4394-9b81-2c7fd284b718,bytheway.city,available,58,8,10,,,
 50261eee-f3c9-453a-9b37-c0d2d5a71b6f,cafe.city,resell,78,27,4,"Spaceship, Inc.",24/05/2018 08:35,24/05/2026 08:35
 2b5da887-9bc7-4e7e-bfa7-1e1a92b9a413,cafeterrace.city,available,76,1,12,,,
-d4d16647-f8d1-4835-918b-98702778d1b1,cake.city,available,102,29,4,,,
+d4d16647-f8d1-4835-918b-98702778d1b1,cake.city,available,102,28,4,,,
 04330e36-bc6d-4990-9c0e-c316ca2d3793,calculation.city,available,66,7,11,,,
 c8f88f30-cf61-42d7-8374-54c55e8f1999,calendarclock.city,available,72,1,14,,,
-5cfefeb9-2a86-415d-b0dd-01a1fa2c0c5d,calender.city,available,92,5,8,,,
+5cfefeb9-2a86-415d-b0dd-01a1fa2c0c5d,calender.city,available,92,4,8,,,
 0950efa1-1d3b-4752-b2e8-41babb505aa0,calf.city,available,74,7,4,,,
-bafb6400-625b-477b-9f57-c332356c9c64,cali.city,available,72,25,4,,,
+bafb6400-625b-477b-9f57-c332356c9c64,cali.city,available,72,24,4,,,
 b1e2d47e-869d-4c14-9aac-443481b7b8c6,Californiakilowatt.city,available,70,1,19,,,
 8fe0a5cf-d734-4eaf-8497-0d96085da727,Californian.city,available,88,4,11,,,
 c57f5fb6-b359-4708-bcf4-d9083a528c89,callcentre.city,available,66,5,11,,,
@@ -2025,22 +2024,22 @@ d22d3d9a-42bf-400a-947c-8d6049e26be1,calloff.city,available,67,2,8,,,
 1f438352-d014-4ae3-aa0c-f74b450b7ee6,callon.city,available,72,3,7,,,
 4ce03a05-1b6a-4065-bd3d-411eff9f8b68,calm.city,available,118,27,4,,,
 987a431c-6531-49a9-ab57-62288c0c56da,came.city,available,70,9,4,,,
-5f065227-33f0-44a4-a19c-4634cd9d5353,camera.city,available,78,23,6,,,
+5f065227-33f0-44a4-a19c-4634cd9d5353,camera.city,available,78,22,6,,,
 c4ecaae9-ee49-4730-a149-cc8b215b793e,cameraman.city,available,77,4,9,,,
 2f87a28c-3292-4499-8f1c-0b899ba30bb0,cameroon.city,available,81,3,8,,,
 af0ce832-1d29-421c-adb2-3209d5e86cb3,camouflage.city,available,90,8,10,,,
 722ec1de-a80e-4671-aa56-1d9aeadbee3e,campaigner.city,available,69,5,10,,,
 339cd993-940c-458d-a6ad-ca6798b59d77,campaigning.city,available,68,6,11,,,
 1f0d9438-7b78-4501-88cf-e60c8c4a2ffd,camper.city,available,69,12,6,,,
-693864ea-7de5-4d7a-8ebf-8af7b437df0e,camping.city,available,80,32,7,,,
+693864ea-7de5-4d7a-8ebf-8af7b437df0e,camping.city,available,80,30,7,,,
 ff478b2c-a896-4f90-a1d9-22d9e3451067,can.city,available,68,5,3,,,
 9a25801d-cf02-4636-ac89-2443bbe531be,canada.city,available,83,5,6,,,
 a8219e9e-833a-4c39-af3a-dd220e077fdb,canal.city,resell,63,19,5,"DNSPod, Inc.",04/09/2023 15:15,04/09/2026 15:15
 b0bd76e8-bb36-43ae-aed5-d080e1eed911,cancel.city,available,64,16,6,,,
-a95d06ef-d2fb-4d1d-b371-472306578663,candidacy.city,available,73,1,9,,,
+a95d06ef-d2fb-4d1d-b371-472306578663,candidacy.city,available,73,2,9,,,
 2c17020b-ae15-4f80-be5b-d2486a67331c,candidate.city,available,99,14,9,,,
-3e1f83f9-3317-4c39-9cd6-361fff224ba6,candy.city,available,75,34,5,,,
-b3baaf01-69af-45ba-a715-86f772e4bc02,candybar.city,available,73,4,9,,,
+3e1f83f9-3317-4c39-9cd6-361fff224ba6,candy.city,available,75,33,5,,,
+b3baaf01-69af-45ba-a715-86f772e4bc02,candybar.city,available,73,3,9,,,
 13ae7d41-5d62-40de-9cba-471b0c5d745a,cane.city,available,63,9,4,,,
 6a446713-10d0-479d-9b9b-259bc552893a,cannot.city,available,72,6,6,,,
 3af62a45-71d4-4c29-992a-6df5046830fe,canoe.city,available,98,12,5,,,
@@ -2054,7 +2053,7 @@ ebc65957-2a31-4832-a9d6-e0b0af44d947,capital.city,resell,92,31,7,"Sav.com, LLC",
 a3bac40b-7631-4ea1-a2c5-b5ef300b97a1,capitalism.city,available,68,13,10,,,
 1a85d735-19f0-468b-8b7a-b3de605261af,capitalize.city,available,72,9,10,,,
 3ff33756-d01b-4d44-922a-e65649425a48,capone.city,available,54,6,6,,,
-37a27132-fe03-4a9b-8ca4-0fdbfcda882c,captain.city,available,76,24,7,,,
+37a27132-fe03-4a9b-8ca4-0fdbfcda882c,captain.city,available,76,23,7,,,
 794ee3b8-0750-4954-8e9e-fa273b3091ce,captivated.city,available,52,5,10,,,
 ed2f354c-6d26-430c-a467-21a923da9868,captive.city,available,102,14,7,,,
 09f200ab-4f54-4ba6-b2ed-460e1f130a1b,car.city,resell,94,40,3,"Sav.com, LLC",18/10/2015 23:29,18/10/2026 23:29
@@ -2080,7 +2079,7 @@ d151038e-3221-494e-8db8-a2832483b0f7,carrying.city,available,70,2,8,,,
 1148c82f-7179-4247-aacd-33ed4ebaf96d,carryon.city,available,93,9,8,,,
 56d0213e-a325-4954-95d6-f429a0690f89,carryout.city,available,72,3,9,,,
 b83b7b37-0362-4324-ae35-a1b957dd1717,carsick.city,available,52,3,7,,,
-0cbb1058-fb38-45a8-8e81-84e5cdf273b1,case.city,resell,90,31,4,"Chengdu West Dimension Digital Technology Co., Ltd.",28/02/2024 15:15,28/02/2026 15:15
+0cbb1058-fb38-45a8-8e81-84e5cdf273b1,case.city,resell,90,30,4,"Chengdu West Dimension Digital Technology Co., Ltd.",28/02/2024 15:15,28/02/2026 15:15
 da4ffe49-8606-49cb-ab9e-f79ec066fb8d,cashmachine.city,available,68,5,12,,,
 a7593e9b-7389-4061-bfbe-9070b528070d,casket.city,available,84,7,6,,,
 5b92b771-80f6-4bd1-9a0c-7c931d9d9769,cassette.city,available,66,11,8,,,
@@ -2095,8 +2094,8 @@ e350f232-8f84-406f-aca1-ebdb377f5e1f,categorically.city,available,54,2,13,,,
 8ee5b094-9d24-42d8-863b-dae723286755,caustic.city,available,66,4,7,,,
 1116e633-dbfe-4725-817b-fa9951d1a17e,cautionary.city,available,60,2,10,,,
 04fc2131-6cb1-48ba-8b03-7e95975a21f6,cavitied.city,available,50,1,8,,,
-56923142-3822-49ce-a09d-5c474d3340ce,cell.city,resell,94,25,4,"Xiamen ChinaSource Internet Service Co., Ltd",01/11/2018 01:12,01/11/2026 01:12
-ef410b74-8f2d-40f7-92ee-42885ac00deb,cement.city,resell,68,10,6,"DNSPod, Inc.",21/07/2024 15:15,21/07/2026 15:15
+56923142-3822-49ce-a09d-5c474d3340ce,cell.city,resell,94,24,4,"Xiamen ChinaSource Internet Service Co., Ltd",01/11/2018 01:12,01/11/2026 01:12
+ef410b74-8f2d-40f7-92ee-42885ac00deb,cement.city,resell,68,9,6,"DNSPod, Inc.",21/07/2024 15:15,21/07/2026 15:15
 5037bd3a-799a-42f7-968b-4553df18bc22,centesimal.city,available,58,1,10,,,
 9cfc6ab1-c021-4b36-ad39-b37852525ef5,centralised.city,available,66,2,11,,,
 59103a41-f8b9-4e9b-8f05-4f15d02ab19b,centre.city,resell,66,15,6,"Spaceship, Inc.",31/10/2020 16:01,31/10/2026 16:01
@@ -2106,23 +2105,23 @@ ef410b74-8f2d-40f7-92ee-42885ac00deb,cement.city,resell,68,10,6,"DNSPod, Inc.",2
 454fcb52-05ae-4234-a561-9a1cbc70c63e,chain.city,resell,64,28,5,"Xiamen ChinaSource Internet Service Co., Ltd",20/12/2019 08:29,20/12/2027 08:29
 eb3864fe-30b9-4208-b54e-82681fc08484,chair.city,available,66,14,5,,,
 9a7438a8-0636-4569-b5f9-3b2f2f0c1b5b,chairman.city,available,86,7,8,,,
-0a7ddbb9-f464-490a-9f22-604a98b3fb4d,chairwoman.city,available,66,2,10,,,
+0a7ddbb9-f464-490a-9f22-604a98b3fb4d,chairwoman.city,available,66,1,10,,,
 0c94a497-6c80-4d91-9b52-1242c306a656,challenging.city,available,82,5,11,,,
 16dfd6ae-f630-4780-8b0c-339b4f1639c5,chambers.city,available,60,16,8,,,
 af30b1f1-d73f-4cde-86fd-46cd241183b2,champagne.city,available,106,20,9,,,
 42e1f284-f914-477d-b226-7b4f6c124ac9,champion.city,resell,72,25,8,"DNSPod, Inc.",23/03/2023 15:15,23/03/2026 15:15
 bc68e7f3-4d60-4395-b97f-e27774a2f1e8,changing.city,available,64,8,8,,,
-abed165a-9b9b-469c-bccb-1ac86d77be78,channel.city,available,62,28,7,,,
-153dbab4-14c0-44cc-b6f1-b72ec3b592df,channels.city,available,68,14,8,,,
+abed165a-9b9b-469c-bccb-1ac86d77be78,channel.city,available,62,26,7,,,
+153dbab4-14c0-44cc-b6f1-b72ec3b592df,channels.city,available,68,13,8,,,
 17657b5d-b0fb-43e9-ad38-dd174c3ba647,channukah.city,available,68,1,9,,,
 e0172614-af37-4a92-80e4-7122c3403745,channukkah.city,available,68,1,10,,,
 0cb8d68e-f545-463d-85ff-7fc01b4f8742,chanukah.city,available,68,5,8,,,
-29558673-e275-4365-8197-5403e5797508,chanukkah.city,available,68,1,9,,,
+29558673-e275-4365-8197-5403e5797508,chanukkah.city,available,68,2,9,,,
 2a78ab32-a635-4057-a5da-6b14fdbba2e1,characteristic.city,available,84,2,14,,,
 f615878c-dc15-418d-a514-bd641be0c35c,characteristics.city,available,56,2,15,,,
 f16157a9-d01b-4604-81b1-c98d2f9186bd,characters.city,available,56,10,10,,,
 b2b46ef9-9311-4307-88ea-711b92968cc3,charactertrait.city,available,70,1,15,,,
-61d54d4c-be3b-4187-b46f-ebb76bfc7187,charles.city,available,70,31,7,,,
+61d54d4c-be3b-4187-b46f-ebb76bfc7187,charles.city,available,70,30,7,,,
 c3fea8c0-732a-42e4-bae2-84b5d8000b9a,chase.city,available,66,22,5,,,
 00cc7903-a305-42ce-8fa1-5ab00e549f93,chased.city,available,70,4,6,,,
 a9398b23-c937-43e7-a4ff-a01e954a1644,cheap.city,available,110,19,5,,,
@@ -2131,7 +2130,7 @@ d15b23a6-d754-48de-82d4-7bb6b8a2b13b,checkinto.city,available,70,1,10,,,
 41282e4c-b081-4c7c-8d83-50f77a9d5525,checkover.city,available,70,1,10,,,
 03ff018e-cc88-4951-a8fe-5b51887fa6e1,cheerfully.city,available,72,2,10,,,
 fa700f38-a108-4317-b6a4-c9cb33cfc491,cheerily.city,available,68,1,8,,,
-1e6ebec2-5dd0-4cd2-a1e0-4ff4f17e0079,cheese.city,resell,116,24,6,"Sav.com, LLC",02/12/2024 17:06,02/12/2026 17:06
+1e6ebec2-5dd0-4cd2-a1e0-4ff4f17e0079,cheese.city,resell,116,23,6,"Sav.com, LLC",02/12/2024 17:06,02/12/2026 17:06
 83d64959-2e21-436e-aa1b-27ef2403414b,cheesefood.city,available,64,1,11,,,
 943b27cd-f312-4b7a-964d-cfb6626dff3e,cheeses.city,available,94,5,7,,,
 4400a98a-64cd-47fb-ad05-c8ffdda3648e,cheesy.city,available,60,8,6,,,
@@ -2141,7 +2140,7 @@ c3ec0d87-fa75-4fdc-92ff-d5fd8af9189d,chemicalweapon.city,available,52,1,15,,,
 03d73cda-d18a-4a29-a4f0-b1a37e2bfaf5,chemistry.city,available,74,18,9,,,
 0174686f-73eb-4e2b-9c56-31ed7ac0ef51,chestnut.city,available,60,9,8,,,
 1be97b88-8d93-44e5-9257-33d77d9545df,chesty.city,available,52,3,6,,,
-5f766e5f-2fac-43cc-9546-d5549b368660,chew.city,available,64,17,4,,,
+5f766e5f-2fac-43cc-9546-d5549b368660,chew.city,available,64,16,4,,,
 1a910fc4-303d-46ab-8b9a-ac18d90c6db0,chiaseed.city,available,74,3,9,,,
 7776d72b-ee6d-43b3-98ba-9bf08c648444,chicken.city,resell,68,30,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/01/2024 15:15,20/01/2026 15:15
 c58e49b7-e622-4a75-b59e-a7e19222b62f,chickendance.city,available,70,2,13,,,
@@ -2149,57 +2148,56 @@ c58e49b7-e622-4a75-b59e-a7e19222b62f,chickendance.city,available,70,2,13,,,
 5ef29c7d-d76a-4d4f-9b00-8b34eae2dc6f,chiefexecutive.city,available,78,5,15,,,
 12f87119-114b-49ec-953d-02f2bec77b92,chiefjustice.city,available,68,1,13,,,
 56edf531-8332-4f8f-90eb-18638ee5bfbf,chiefly.city,available,80,3,7,,,
-b6557ed8-e6e8-4ab6-9d6f-57402c0dd378,childhood.city,available,78,8,9,,,
+b6557ed8-e6e8-4ab6-9d6f-57402c0dd378,childhood.city,available,78,9,9,,,
 26863b31-d8ec-4f72-bd50-92c4b4645ec4,childlanguage.city,available,64,1,14,,,
 75187920-ed63-465b-a975-7331dc16910a,chiliad.city,available,62,2,7,,,
 fd6b9de3-5f3c-4715-9fa9-64bb9c48e200,chill.city,resell,72,28,5,"DNSPod, Inc.",16/03/2020 17:39,16/03/2026 17:39
 f906fab7-b6a8-4505-ab26-a572ebff5339,chime.city,available,94,15,5,,,
-c59364ea-3b7c-46bc-8f0f-82f3a6e9007e,chimney.city,available,90,12,7,,,
+c59364ea-3b7c-46bc-8f0f-82f3a6e9007e,chimney.city,available,90,11,7,,,
 842a1ba7-d24a-4f04-bfd8-bd750c973a2b,china.city,available,84,5,5,,,
 cb79644b-20ec-474d-8f67-a31c1b446624,chip.city,resell,76,24,4,"Chengdu West Dimension Digital Technology Co., Ltd.",19/06/2024 15:15,19/06/2026 15:15
-5103af05-17bc-4326-a741-a3735701da2e,chips.city,resell,84,22,5,"Spaceship, Inc.",01/11/2025 15:17,01/11/2026 15:17
+5103af05-17bc-4326-a741-a3735701da2e,chips.city,resell,84,21,5,"Spaceship, Inc.",01/11/2025 15:17,01/11/2026 15:17
 07270b30-6380-4eff-a03c-6e92b59253ee,chirping.city,available,72,4,8,,,
 2275a2ed-6c7f-4366-8287-10cd7091d9c5,chiseling.city,available,60,1,9,,,
 78256555-2f75-4da9-9d28-2289e5927111,chocolate.city,available,118,29,9,,,
 7a03e526-e7c3-49ed-b7de-a7a22db5d736,chocolatetruffle.city,available,80,1,17,,,
 0d014316-c61c-4ee1-be6b-45a15a556b73,choice.city,resell,74,27,6,"Sav.com, LLC",05/03/2021 05:16,05/03/2026 05:16
 11ada0c9-4728-45b8-88ff-9558663e2b71,choir.city,available,70,11,5,,,
-cb0bbbcb-d2fb-418f-930d-036b7daedde8,chop.city,resell,62,17,4,"Sav.com, LLC - 3",13/01/2025 15:15,13/01/2026 15:15
 d20088dc-dbc6-4ddd-9c35-f2544df5073a,choppy.city,available,62,5,6,,,
-1c953fc0-e3a2-463f-b131-14c886decd09,chorus.city,available,70,19,6,,,
+1c953fc0-e3a2-463f-b131-14c886decd09,chorus.city,available,70,18,6,,,
 5e925a0a-1044-4011-9e7f-a794192583ed,chose.city,available,78,5,5,,,
-1117d536-1a4e-464b-9c43-49cc533db6ba,christ.city,resell,86,24,6,"Spaceship, Inc.",18/07/2021 08:19,18/07/2026 08:19
+1117d536-1a4e-464b-9c43-49cc533db6ba,christ.city,resell,86,23,6,"Spaceship, Inc.",18/07/2021 08:19,18/07/2026 08:19
 78cd949b-726e-4099-bb91-e8d84b9b9467,Christalive.city,available,72,3,12,,,
 171f8fb7-fde2-4878-b526-080750b6c788,Christalmighty.city,available,72,1,15,,,
 7f3b7754-d211-46f5-b318-89f61aea29a3,Christianname.city,available,70,1,14,,,
+de6eae2a-6221-45fb-88db-6b13fb6c1336,christmas.city,available,146,26,9,,,
 a5f621d0-e936-4b75-a886-789ffd10d9d0,Christmascard.city,available,76,3,14,,,
 14ec0574-81b2-4a2b-a2ec-71e3dd85ca99,Christmascarol.city,available,76,3,15,,,
-6f54f07e-d157-4303-ad21-c2510e20f452,church.city,resell,72,36,6,"GoDaddy.com, LLC",08/10/2014 17:56,08/10/2026 17:56
-e000ee36-8876-4ff3-9c1c-dbd9c6b382dd,cinderella.city,available,78,12,10,,,
+6f54f07e-d157-4303-ad21-c2510e20f452,church.city,resell,72,35,6,"GoDaddy.com, LLC",08/10/2014 17:56,08/10/2026 17:56
+e000ee36-8876-4ff3-9c1c-dbd9c6b382dd,cinderella.city,available,78,11,10,,,
 72732776-5eb6-4520-b0c9-5e3c20a0a7f2,Cindy.city,available,80,13,5,,,
-52ba1e7f-8c63-45ae-ae14-772c8ca557c2,cinema.city,resell,84,26,6,GoDaddy Online Services Cayman Islands Ltd.,02/08/2015 16:00,02/08/2033 16:00
+52ba1e7f-8c63-45ae-ae14-772c8ca557c2,cinema.city,resell,84,25,6,GoDaddy Online Services Cayman Islands Ltd.,02/08/2015 16:00,02/08/2033 16:00
 f5c09cea-2f40-48e6-b489-3db64afbb902,cinque.city,available,50,7,6,,,
 f633e432-9b7b-49aa-8786-7cf54b7c3879,circinate.city,available,56,1,9,,,
-59d860a3-a84b-4b7d-bd70-dd4d9bdafdfd,circuit.city,resell,90,25,7,"Sav.com, LLC - 38",10/11/2024 15:15,10/11/2026 15:15
-8ae9c83c-aa6b-4e1d-9e4e-9ee30837f187,circus.city,available,98,23,6,,,
+8ae9c83c-aa6b-4e1d-9e4e-9ee30837f187,circus.city,available,98,22,6,,,
 bfff1914-ef2d-44fb-87a9-8648ad226fd8,Citibank.city,available,70,18,8,,,
 fb8c6dcf-6b1c-42ca-8e0e-087c748a206b,citizen.city,resell,74,27,7,"DNSPod, Inc.",10/06/2017 03:00,10/06/2026 03:00
 991a39bd-d5e8-4f66-b30c-0996e55a2753,civiltime.city,available,64,1,10,,,
 add33119-321d-47b1-81b0-53f45f520142,civilwar.city,available,60,6,9,,,
 5b227dd2-c4bf-42e6-8cf9-656b196d93a1,claimform.city,available,66,3,10,,,
 e51dcb20-df78-47b5-8ef4-542d80dd4cd6,clap.city,available,94,21,4,,,
-4d557228-ba22-4e00-8ae1-17d61b5f3766,clarity.city,resell,76,44,7,Gandi SAS,19/03/2019 11:29,19/03/2026 11:29
+4d557228-ba22-4e00-8ae1-17d61b5f3766,clarity.city,resell,76,43,7,Gandi SAS,19/03/2019 11:29,19/03/2026 11:29
 77be0e53-bb33-4350-977c-a86ccaf2eff0,classicalguitar.city,available,80,6,16,,,
 fdfd3d48-d413-46b8-bf2b-168b2723aa56,classroom.city,available,70,19,9,,,
-e5a33a03-c6dc-4afa-b120-b25c1faa86e0,clay.city,resell,80,32,4,"DNSPod, Inc.",12/03/2019 23:21,12/03/2026 23:21
+e5a33a03-c6dc-4afa-b120-b25c1faa86e0,clay.city,resell,80,31,4,"DNSPod, Inc.",12/03/2019 23:21,12/03/2026 23:21
 051b82c1-6b38-4319-8d41-8195cbfbc9b1,clayey.city,available,50,1,6,,,
-c00d5526-89a3-4152-9bae-14ec7f4a3dbb,cleaner.city,resell,70,16,7,"DNSPod, Inc.",27/08/2024 17:00,27/08/2026 17:00
+c00d5526-89a3-4152-9bae-14ec7f4a3dbb,cleaner.city,resell,70,15,7,"DNSPod, Inc.",27/08/2024 17:00,27/08/2026 17:00
 5c6e96cf-1779-4a61-b6f6-51b7087048df,cleansing.city,available,82,4,9,,,
 8a0f0f1f-81fa-490e-9abe-26cf03aa1b38,clearance.city,available,66,11,9,,,
 e6c02297-7d46-4eaa-ad99-a68540a54eed,cleared.city,available,74,7,7,,,
 b6d7fe31-dd9a-4d7c-9cb4-607dc04cf0be,clearly.city,available,77,14,7,,,
 98cf4f8b-aa6f-4ede-b74d-bdda295c019d,cleaver.city,available,56,9,7,,,
-6918b79d-6eac-43d8-9c32-29e33e7d5619,cleopatra.city,available,76,13,9,,,
+6918b79d-6eac-43d8-9c32-29e33e7d5619,cleopatra.city,available,76,12,9,,,
 6fdcc27f-d98c-4dc8-845c-763f6267f87a,clergy.city,available,66,6,6,,,
 f9401d4b-2bd1-4fde-bf49-0f54a2d55d6b,clerk.city,available,60,12,5,,,
 08216b40-2076-4bb5-b6ee-a1da0a02b918,clever.city,resell,74,30,6,"Chengdu West Dimension Digital Technology Co., Ltd.",10/03/2019 23:18,10/03/2026 23:18
@@ -2208,10 +2206,8 @@ d0c11518-abac-4d7f-86ac-468ff9f67ddd,cleverly.city,available,69,7,8,,,
 b56d1a6a-88e5-4297-b0d2-8742b07e558f,clickbait.city,available,80,12,9,,,
 69abc1ac-fc82-41f3-82fb-8af0f5a38f71,clicking.city,available,66,7,8,,,
 ff784382-3088-474a-81a9-bd8b4dc36c7b,climbable.city,available,54,1,9,,,
-a3988c91-8728-407b-b5b5-34fa981b590a,clinic.city,resell,70,19,6,"Sav.com, LLC",10/01/2020 23:51,10/01/2026 23:51
 6518a98c-84c0-4d23-8011-9c2c7266bdee,clinically.city,available,56,8,10,,,
 1729ccbe-10dc-487a-9d60-6132b7f539ab,clitlicker.city,available,62,1,10,,,
-ce073da0-8e08-489f-b81d-221bac875c92,clock.city,resell,62,21,5,"Xiamen ChinaSource Internet Service Co., Ltd",12/01/2025 15:15,12/01/2026 15:15
 fe99d8a9-716a-4969-b408-708a51827e9d,closely.city,available,68,4,7,,,
 aa5abd81-f0b8-415f-b1e4-19cd618bb907,closeto.city,available,58,3,8,,,
 85f8c96b-fbe4-4f1b-9ca3-fa19011fcbe0,clothes.city,available,82,16,7,,,
@@ -2228,13 +2224,14 @@ a9ce784e-d6cc-477d-920b-61de1758e022,clxxv.city,available,60,1,5,,,
 f3392f50-56d9-49a5-82cf-003189f87a72,clxxx.city,available,60,1,5,,,
 69344bd7-8f14-41f5-8bb2-3079b98946e5,coach.city,resell,108,34,5,"Spaceship, Inc.",11/07/2022 13:15,11/07/2026 13:15
 2cee5810-c049-4a5d-bda8-92e80d18d0f3,coalesced.city,available,54,2,9,,,
-86b228c4-f387-4a73-a0ca-4a5c14aa198c,coast.city,resell,94,22,5,"Xiamen ChinaSource Internet Service Co., Ltd",05/10/2014 16:00,05/10/2026 16:00
+86b228c4-f387-4a73-a0ca-4a5c14aa198c,coast.city,resell,94,21,5,"Xiamen ChinaSource Internet Service Co., Ltd",05/10/2014 16:00,05/10/2026 16:00
 d133e685-e791-4caa-bd8a-84ccb69a3273,coat.city,available,100,7,4,,,
 d9009bfd-f45c-425b-8170-64bae802eb71,cockeyed.city,available,44,1,8,,,
 87e6278b-998d-4d47-850a-e8f0be3459af,cockmaster.city,available,52,1,10,,,
 6c5f8888-1193-4552-b511-f4ccbfbf92f3,cockpit.city,available,74,19,7,,,
 09b15fc1-cf1d-4024-a2f3-8a7e964ea671,cocksucker.city,available,44,4,10,,,
-a0f37d38-6d23-41c7-ac16-705db1fff650,cocktail.city,available,114,22,8,,,
+a0f37d38-6d23-41c7-ac16-705db1fff650,cocktail.city,available,114,21,8,,,
+46248735-3138-4edb-95d9-7d709c54b8fa,coconut.city,resell,78,23,7,Porkbun LLC,13/08/2025 22:54,13/08/2026 22:54
 cec4c79c-f5ae-4589-b917-0872251ff26b,Codes.city,available,45,18,5,,,
 f583d62b-52be-4a66-90ef-1f1ba7fdb354,coefficient.city,available,90,11,11,,,
 2bf985e2-56f1-4de6-8f1f-72387682c907,coffeebreak.city,available,82,8,12,,,
@@ -2314,7 +2311,7 @@ a2c5e9ba-e432-429b-a970-8259e10f0696,competent.city,available,73,7,9,,,
 a220f064-121d-42b1-81a5-63215e23673d,complacently.city,available,50,1,12,,,
 fe3f3d0c-9031-4982-95b7-90137d5ad43f,complain.city,available,65,6,8,,,
 8b70a1a2-f1b5-49fa-a758-c7eb03e3522a,complaint.city,available,62,7,9,,,
-3f905c79-6136-4f59-8148-502cd80598cd,complement.city,available,96,8,10,,,
+3f905c79-6136-4f59-8148-502cd80598cd,complement.city,available,96,7,10,,,
 c74cdce3-c217-4e72-af5c-6bfa3d2607c4,completed.city,available,74,5,9,,,
 e60ea360-dd89-43bc-90f4-0644347bc184,completely.city,available,66,5,10,,,
 1b08e457-9085-4933-9953-adc064cda9c7,completing.city,available,68,2,10,,,
@@ -2340,26 +2337,26 @@ aaf096a5-941c-4da8-b167-faee186f5800,computerlanguage.city,available,78,1,17,,,
 ea319002-719d-462b-9c59-36c245f6f845,concentrated.city,available,62,5,12,,,
 fe6b9815-a05c-4b35-9a70-87bb5ed5199d,concern.city,available,86,7,7,,,
 46e3beb5-80f9-495f-955e-9ee45da21efc,concerned.city,available,66,4,9,,,
-252b6b40-d2a7-485a-bd6f-5485f82e89f0,concert.city,resell,106,19,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2018 07:45,03/04/2026 07:45
+252b6b40-d2a7-485a-bd6f-5485f82e89f0,concert.city,resell,106,18,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2018 07:45,03/04/2026 07:45
 c457c279-1c57-416a-b0c9-81b03bd9a497,concise.city,available,93,10,7,,,
 34479735-10ff-43af-b735-e8a6f34f5d79,concluded.city,available,62,2,9,,,
 77cf7d93-27c4-4171-a180-0acbe67953c7,conclusion.city,available,78,7,10,,,
 c054c341-3b53-4bcb-ad32-366c6551360e,conclusive.city,available,69,5,10,,,
 0844c9fb-67b1-4cd7-a237-bc2e25c13206,concoct.city,available,109,4,7,,,
 eb267932-e23d-450e-b428-7b16dfafda92,concourse.city,available,69,12,9,,,
-41ae5bdb-b459-41ca-a3cc-7b52584efd50,concussion.city,available,60,10,10,,,
+41ae5bdb-b459-41ca-a3cc-7b52584efd50,concussion.city,available,60,9,10,,,
 3c117ea3-3278-4b0c-bcf1-868a0f848ea4,condemn.city,available,66,3,7,,,
 d3406224-baba-4121-8930-4963b7056294,condense.city,available,84,6,8,,,
-9bb993d5-c942-47aa-865b-b8242181c501,condiment.city,available,95,4,9,,,
+9bb993d5-c942-47aa-865b-b8242181c501,condiment.city,available,95,3,9,,,
 d6e7ae04-e670-400a-acf3-778e7c3a516f,condition.city,available,92,9,9,,,
 fd4eaa90-27a9-4c9c-a86a-2e14c80cb81e,conditions.city,available,68,4,10,,,
-ee3f8de4-c5dc-4e63-a056-d0bb48959e45,condo.city,available,70,24,5,,,
+ee3f8de4-c5dc-4e63-a056-d0bb48959e45,condo.city,available,70,23,5,,,
 5b5c5b47-e999-481a-b421-384502833157,condolence.city,available,64,2,10,,,
 1ab274fe-8323-45af-a83e-039366b1539a,condolences.city,available,76,3,11,,,
 6265c9a4-b1b8-4190-9c43-5c265e91898a,condone.city,available,74,3,7,,,
 350eb161-6270-45b6-bbf8-b691e318dc61,conducting.city,available,68,4,10,,,
 0eee0df6-7a02-47a0-aad1-5b1a0e8b7ff7,conduction.city,available,84,4,10,,,
-03ea2c7f-c680-4178-8664-6aac7fc715ae,conductor.city,available,74,17,9,,,
+03ea2c7f-c680-4178-8664-6aac7fc715ae,conductor.city,available,74,15,9,,,
 a92621d3-59a9-48ce-bd62-36e9cdbeee72,confess.city,available,76,9,7,,,
 2909ea65-21a5-4d60-a3ca-00ea3c38970a,confession.city,available,68,9,10,,,
 59fe2643-f940-437d-b62e-35d04bfe9f8b,confetti.city,available,95,14,8,,,
@@ -2393,7 +2390,7 @@ eabd1a8a-f8cd-40f9-a42a-471fae4d0f25,consistently.city,available,60,4,12,,,
 703e91da-fca6-49c4-8ceb-d39cdf4e3739,constructive.city,available,66,13,12,,,
 291b6022-bd89-4ae1-9f93-eafd09af1a51,consult.city,resell,101,26,7,"DNSPod, Inc.",01/11/2018 10:05,01/11/2026 10:05
 1e2334f4-2f15-47a1-8b1c-4722ced83641,consultive.city,available,62,3,10,,,
-eb1cc86a-fc1e-4415-b636-985e60cd59de,consumer.city,resell,72,18,8,"Sav.com, LLC - 19",07/06/2025 15:16,07/06/2026 15:16
+eb1cc86a-fc1e-4415-b636-985e60cd59de,consumer.city,resell,72,17,8,"Sav.com, LLC - 19",07/06/2025 15:16,07/06/2026 15:16
 d3ba38db-5c45-431b-84b6-a11d95903f85,consuming.city,available,82,2,9,,,
 ecd49129-67ae-4e15-a9bd-fb5b5c80103e,consummate.city,available,88,2,10,,,
 bfadaca8-4cf2-4990-9b03-8ac785d49373,consumption.city,available,68,5,11,,,
@@ -2403,7 +2400,7 @@ a85377a1-a860-4553-a1dc-ace36ac5ff31,contaminated.city,available,54,2,12,,,
 9854c6a6-5527-4d85-96d5-1b3e0ef99c8a,contend.city,available,72,5,7,,,
 a71e9bec-4c5d-41ee-af36-923c27d8dd1f,content.city,resell,138,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",07/03/2024 15:15,07/03/2026 15:15
 edfd2764-ad1e-433e-b467-463fee70f862,contented.city,available,70,6,9,,,
-d356498e-6e92-40fb-a004-16d6f69449e7,contents.city,available,68,12,8,,,
+d356498e-6e92-40fb-a004-16d6f69449e7,contents.city,available,68,11,8,,,
 d5526247-65cf-48e9-a413-41e5f41c0a58,contingent.city,available,80,6,10,,,
 3032fdb0-0d99-4f9f-be56-e9e5f8ef7658,continual.city,available,66,5,9,,,
 8222da96-6918-4b92-9e5e-bf4c3bc7dc8e,continually.city,available,60,1,11,,,
@@ -2435,7 +2432,7 @@ e1da2ca3-708a-4fe0-b7d9-ac61031c5830,coolly.city,available,74,3,6,,,
 7e371f0e-f061-435e-908d-51d43d81a951,copewith.city,available,75,1,9,,,
 d8714c76-edea-4a7e-b0f7-a1ea727acb0a,copypronoun.city,available,72,1,12,,,
 94360827-a8a4-40dc-ae6b-1b9337449a81,copyrightsymbol.city,available,66,2,16,,,
-fb65d55f-ec38-4f93-adc6-321562ccc575,cord.city,available,90,16,4,,,
+fb65d55f-ec38-4f93-adc6-321562ccc575,cord.city,available,90,17,4,,,
 a905b93d-4fe2-470e-b7b3-9a2cfaae5abd,cordial.city,available,98,9,7,,,
 28da6de4-f848-40fa-8f8e-42b78297206f,cordlesstelephone.city,available,76,1,18,,,
 ef634bd2-a6a5-46ce-90ab-0b97af71980e,core.city,resell,68,40,4,"Global Domains International, Inc. DBA DomainCostClub.com",07/08/2025 15:15,07/08/2026 15:15
@@ -2472,6 +2469,7 @@ bd117597-c408-4592-b27f-af18d623dbe2,couple.city,available,108,16,6,,,
 a11fd29a-1887-453e-b07a-651dcd97a8db,courteous.city,available,70,2,9,,,
 42b742d8-a0e5-4285-97c5-ce00bb296de7,courtroom.city,available,66,6,9,,,
 770b689d-ef5f-4647-ad83-52432b2bbe5c,courtyard.city,available,70,10,9,,,
+e6ba9818-c4ba-41fc-a031-211a0cfbce20,covenant.city,resell,95,21,8,"DNSPod, Inc.",17/12/2023 15:15,17/12/2026 15:15
 4b76a221-ee99-44aa-8b59-ac61f2bd64c8,coverage.city,available,72,14,8,,,
 eb1956d0-1a29-4a3c-b7df-f2d5bc4f3123,covered.city,available,74,11,7,,,
 9ae67a13-b584-43ab-9f88-727e2c5627fa,covering.city,available,66,5,8,,,
@@ -2480,7 +2478,7 @@ eb1956d0-1a29-4a3c-b7df-f2d5bc4f3123,covered.city,available,74,11,7,,,
 ebc2f63a-7cf8-406e-b162-6cf875f39d12,coveted.city,available,72,4,7,,,
 2ff2e1a1-663a-479d-8ed6-a9556b70eec9,covetous.city,available,54,1,8,,,
 ae5ea65d-8fb7-4074-8295-5e7fd6df0c1d,covid.city,available,74,22,5,,,
-6bc81067-8056-40e2-9bf0-7f658b189cad,cow.city,resell,74,24,3,"Spaceship, Inc.",13/07/2022 13:22,13/07/2026 13:22
+6bc81067-8056-40e2-9bf0-7f658b189cad,cow.city,resell,74,23,3,"Spaceship, Inc.",13/07/2022 13:22,13/07/2026 13:22
 0e426c8f-59a1-4c13-ab70-2a2461bbb77d,cows.city,available,60,10,4,,,
 40042332-9fb0-4746-9aa2-9c7d3eb58ed4,coy.city,available,64,8,3,,,
 ed7b9b7c-0a2c-4b51-acf6-3850eba9995e,cozy.city,resell,110,33,4,"Sav.com, LLC - 21",21/03/2025 15:15,21/03/2026 15:15
@@ -2492,7 +2490,7 @@ edcfca2c-97a7-46cd-9f19-fb8466554bf4,crack.city,resell,100,19,5,"DNSPod, Inc.",0
 087167e8-2026-4778-a32b-0f03b03fbdae,cracking.city,available,82,6,8,,,
 7510b893-550c-46c6-bdab-c009d336b401,craft.city,resell,70,36,5,"Spaceship, Inc.",05/11/2015 19:00,05/11/2026 19:00
 f893be0a-5c8c-4053-8d97-1ba57def0d80,crap.city,available,56,16,4,,,
-ba18b987-c974-4945-9094-885954268139,crash.city,available,98,28,5,,,
+ba18b987-c974-4945-9094-885954268139,crash.city,available,98,27,5,,,
 2a9b154e-2e24-4430-9eea-04a0de93c3e5,Crayola.city,available,80,10,7,,,
 10493a35-a4bc-45bb-9177-958ce13119f9,creaky.city,available,54,3,6,,,
 6f20ec08-9abe-4617-b413-d9ce63b84a5e,creation.city,resell,82,19,8,"Chengdu West Dimension Digital Technology Co., Ltd.",21/01/2024 15:15,21/01/2026 15:15
@@ -2501,13 +2499,13 @@ bdca662e-9722-4102-b1e2-bdaaa21c1113,creatively.city,available,66,5,10,,,
 52716bb8-24f9-4ba8-a7f4-04b6824408af,creator.city,resell,70,36,7,"Chengdu West Dimension Digital Technology Co., Ltd.",27/06/2022 13:15,27/06/2026 13:15
 cc2cc5f1-caf3-4e1c-92d0-5f189ab40718,credible.city,available,54,13,8,,,
 191322b1-6bfe-41aa-8d86-6d188f4e9f59,credit.city,resell,66,32,6,"GoDaddy.com, LLC",11/10/2014 12:10,11/10/2026 12:10
-b27cb85c-972e-4c00-8fc4-d5adfb54cab6,creek.city,resell,100,16,5,"DNSPod, Inc.",29/08/2019 11:23,29/08/2026 11:23
+b27cb85c-972e-4c00-8fc4-d5adfb54cab6,creek.city,resell,100,15,5,"DNSPod, Inc.",29/08/2019 11:23,29/08/2026 11:23
 d1ea44ae-7a43-4dc4-9cfb-3da663677576,creepy.city,available,60,11,6,,,
-67e9466d-c852-4b7d-bad4-3e23b823c644,cricket.city,available,104,23,7,,,
+67e9466d-c852-4b7d-bad4-3e23b823c644,cricket.city,available,104,22,7,,,
 0f1908e8-31d8-400a-839b-00345f955f4c,cricketscore.city,available,72,3,13,,,
 64766cf6-eae4-4888-9cf2-abad17bef45d,crimes.city,available,64,10,6,,,
 a1183c7b-5ac9-4059-9a95-3b4507312732,criterion.city,available,84,9,9,,,
-c0dd1d3d-3e44-4726-a117-49635e74562b,critic.city,available,90,9,6,,,
+c0dd1d3d-3e44-4726-a117-49635e74562b,critic.city,available,90,8,6,,,
 bd98bd99-9c5e-4e32-9526-0373917f4a98,critical.city,available,82,20,8,,,
 94421956-9a5f-4e07-bde9-e807958cf1c7,critically.city,available,60,2,10,,,
 4d3ec353-81cb-46b6-978c-80746e1ecbb9,criticise.city,available,66,2,9,,,
@@ -2515,7 +2513,7 @@ af3cb9da-a466-4643-b4d9-3e90cb752556,criticism.city,available,64,3,9,,,
 b5aa085b-3f3e-42a0-b1fe-86dff39cb382,criticize.city,available,66,2,9,,,
 1841ef80-9f6d-45ff-bab8-a298bed9ad4a,critique.city,available,84,8,8,,,
 36bba082-db10-4e91-9cd1-5cde44b04372,croptop.city,available,76,4,8,,,
-13753b63-8a46-4927-9cdb-9d674f0b40b7,crossroads.city,available,68,29,10,,,
+13753b63-8a46-4927-9cdb-9d674f0b40b7,crossroads.city,available,68,27,10,,,
 2947663b-5ded-4695-b090-dd677dc4c00d,crosswordpuzzle.city,available,72,2,16,,,
 9cf33f21-49ad-47ac-a4ca-cc33ebb520b5,crucial.city,available,80,15,7,,,
 909e8159-d274-48c2-9cae-6ae3d3deec51,crude.city,available,86,8,5,,,
@@ -2523,8 +2521,8 @@ b5aa085b-3f3e-42a0-b1fe-86dff39cb382,criticize.city,available,66,2,9,,,
 1d351340-b714-4592-ace0-25e4707a5c45,crying.city,available,82,5,6,,,
 f79fd627-de31-4b46-a3b4-9c2077a1eb19,cryout.city,available,72,2,7,,,
 a5295b2a-98c2-4d13-b704-14046dca819d,cuba.city,available,66,5,4,,,
-84372849-f65f-442b-b123-01ef932f9ec0,cucumber.city,available,70,12,8,,,
-d4f510d1-f8dd-4991-ae7b-fc3e02d8e180,cue.city,available,66,30,3,,,
+84372849-f65f-442b-b123-01ef932f9ec0,cucumber.city,available,70,11,8,,,
+d4f510d1-f8dd-4991-ae7b-fc3e02d8e180,cue.city,available,66,29,3,,,
 0a3513a4-c253-40ef-bb8e-fe9089229cf5,cultivable.city,available,58,1,10,,,
 6e15b4c2-be0f-46e5-bfc9-b29b31f7a20f,cumulative.city,available,62,3,10,,,
 87b4feb2-475c-4b31-b44f-4ef4a8590df9,cunning.city,available,60,6,7,,,
@@ -2574,8 +2572,8 @@ d77c7abe-aade-45a4-a19e-123277000d98,dankmeme.city,available,70,2,9,,,
 6fa190e4-c700-4dfa-9ae2-53c61114890d,dating.city,resell,78,26,6,Epik LLC,05/10/2014 16:00,05/10/2026 16:00
 b3348e5e-df4e-4386-8d92-0d55d7c1f6be,daughter.city,available,76,6,8,,,
 b09cdea1-17c7-4571-8e4c-ca40560cfa92,david.city,resell,74,45,5,"DNSPod, Inc.",07/12/2019 23:54,07/12/2026 23:54
-edb08a43-e620-489d-86ac-5070126d5c31,daylight.city,available,94,27,8,,,
-c5b434c0-d601-4af6-a969-cdd22563ad4b,days.city,resell,92,20,4,"DNSPod, Inc.",29/05/2023 15:15,29/05/2026 15:15
+edb08a43-e620-489d-86ac-5070126d5c31,daylight.city,available,94,26,8,,,
+c5b434c0-d601-4af6-a969-cdd22563ad4b,days.city,resell,92,19,4,"DNSPod, Inc.",29/05/2023 15:15,29/05/2026 15:15
 159db569-08d9-4ce0-a89b-b5e45aff14fc,daytime.city,available,92,7,7,,,
 b3a8f138-b0f5-4e99-b151-2d9e66676ca3,dead.city,resell,74,24,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/07/2023 15:15,12/07/2026 15:15
 533d2856-8af8-4afd-9daf-7d2affc8717b,deadline.city,available,90,13,8,,,
@@ -2601,7 +2599,7 @@ f6e469bc-a5b4-480b-948b-b1826d4cdaf5,dedicate.city,available,106,7,8,,,
 84f3e6fb-023d-4dbc-ab1d-090d121cd17c,deejay.city,available,100,11,6,,,
 81436220-7bb0-445d-bda1-ead234cae26b,deepdown.city,available,61,3,9,,,
 9d3e24f4-55f3-492b-b2e1-4c7d7d369f30,deepsleep.city,available,76,12,10,,,
-6cce4a85-fa46-4ee1-ac49-30b4a409e623,defence.city,available,90,18,7,,,
+6cce4a85-fa46-4ee1-ac49-30b4a409e623,defence.city,available,90,17,7,,,
 f839d01c-c815-454e-89ac-e8a574926720,defend.city,resell,76,12,6,"Sav.com, LLC",16/05/2025 10:18,16/05/2026 10:18
 c2ff9a3b-d4d0-404a-8967-77da37d48ac6,deficit.city,available,70,5,7,,,
 9db63cea-2d5d-4eb8-8432-bc1c1d26fdfc,defined.city,available,68,9,7,,,
@@ -2629,9 +2627,9 @@ eaacfa48-8503-439d-a1fc-cf9af3a32f35,departure.city,available,68,9,9,,,
 3bf0b6be-59ce-4e09-be12-aade18ce2470,dependon.city,available,71,2,9,,,
 26f76f56-ca56-403b-b551-8f04a89b651b,deposit.city,available,90,12,7,,,
 430f526d-67d4-4978-a76a-bbdff90d2dae,deposits.city,available,46,5,8,,,
-662ac452-3c9d-4207-9776-8020c66bb984,depress.city,available,66,4,7,,,
+662ac452-3c9d-4207-9776-8020c66bb984,depress.city,available,66,3,7,,,
 f566a461-59b8-44a1-a058-e2367f2fc855,depression.city,available,48,11,10,,,
-c82246bb-3b24-457e-a0ca-f9356b00ab48,deputy.city,available,92,8,6,,,
+c82246bb-3b24-457e-a0ca-f9356b00ab48,deputy.city,available,92,9,6,,,
 ea66c3f5-bf04-4fb2-8a2f-3f4511ed74f2,derriere.city,available,40,3,8,,,
 1969d87e-7b5a-49a0-804e-fa07a47627a6,descend.city,available,94,3,7,,,
 cdd1b849-9f79-495a-b007-56d17e53ff5a,describe.city,available,76,8,8,,,
@@ -2649,7 +2647,7 @@ dd0f0012-7aa7-4a2d-b59a-bcd46142c396,deskorganizer.city,available,66,1,14,,,
 0db02595-b085-41f2-9d74-7ec924ba1e06,desktopcomputer.city,available,76,2,16,,,
 bb8b2b98-cf87-4d04-9d18-60e5a3ecf625,desolate.city,available,60,5,8,,,
 069f83c5-2981-4c0b-80f8-29adf5a34cf1,despise.city,available,66,3,7,,,
-6b00d61c-c2b9-4c5e-b516-bfb9828b0975,despite.city,available,90,4,7,,,
+6b00d61c-c2b9-4c5e-b516-bfb9828b0975,despite.city,available,90,5,7,,,
 66056ecb-2752-4bd8-84aa-04f2405554c9,despiteof.city,available,46,1,10,,,
 76a5089b-b132-42db-a9b2-5aa06426105b,despondent.city,available,47,1,10,,,
 8e5be217-30c9-4890-b129-4aeb91e77a8d,despotic.city,available,48,1,8,,,
@@ -2663,7 +2661,7 @@ c7bb922e-d899-48af-8978-fdbf50a637e6,detached.city,available,56,5,8,,,
 6f099f5a-2073-4ccc-9dd1-e5824328975c,detailing.city,available,68,14,9,,,
 80804f10-d466-40d7-83c5-53520c3f7824,details.city,available,78,17,7,,,
 a150b497-310c-4b11-8784-a7e3589440f6,detected.city,available,62,5,8,,,
-2ff8a258-4a54-48c3-863e-895604c1834b,detecting.city,available,68,4,9,,,
+2ff8a258-4a54-48c3-863e-895604c1834b,detecting.city,available,68,3,9,,,
 12b6a6d5-139a-49c9-ac71-3a1ab3f098d4,detection.city,available,68,9,9,,,
 c1a599cb-12b3-43d2-9c9b-3bdc3d2e1883,detergent.city,available,80,4,9,,,
 28bb9ad0-2367-413d-9ca6-16dbcbf18929,deterioration.city,available,52,1,13,,,
@@ -2677,7 +2675,7 @@ f6d88e30-7569-4c1f-b2b5-aaffc01c57df,detroit.city,resell,62,26,7,"Sav.com, LLC",
 7db34f62-289e-4d85-b338-6332d87655b5,deuceace.city,available,54,1,9,,,
 6b892e79-2ce3-4692-ae6f-631455350e11,develop.city,resell,80,25,7,"Xiamen ChinaSource Internet Service Co., Ltd",10/10/2025 15:16,10/10/2026 15:16
 6402f358-607c-4662-b51f-61874b700426,developed.city,available,72,4,9,,,
-b2814f41-cb01-4033-aac5-adbafc1d9dc1,developer.city,resell,72,33,9,"DNSPod, Inc.",06/09/2023 15:15,06/09/2026 15:15
+b2814f41-cb01-4033-aac5-adbafc1d9dc1,developer.city,resell,72,31,9,"DNSPod, Inc.",06/09/2023 15:15,06/09/2026 15:15
 ed1c8279-082e-41c5-a015-c3100446719e,deviant.city,available,64,11,7,,,
 f1fd84ed-adc1-41db-ad2d-a044c4185216,deviate.city,available,84,12,7,,,
 2593abeb-4089-4db3-9d58-fe06df9304bf,devices.city,available,80,11,7,,,
@@ -2703,13 +2701,12 @@ df7377f8-9249-43b4-9fce-b9ba7b8ebafb,digitally.city,available,60,10,9,,,
 dc73106c-9766-4145-b352-f437ab7003ae,dignified.city,available,66,5,9,,,
 39746e66-435a-458e-bae9-69dd1d3735a5,dignitary.city,available,90,2,9,,,
 c72a7343-207a-4649-acd1-6c858df0ee51,dignity.city,available,87,19,7,,,
-b57cbe5b-dc03-4b94-9e5e-04e7c93d9fc0,dilemma.city,available,69,9,7,,,
+b57cbe5b-dc03-4b94-9e5e-04e7c93d9fc0,dilemma.city,available,69,10,7,,,
 402c3ae9-4a19-413f-963b-ff6a99c3e836,diligent.city,available,68,16,8,,,
 aea9e9f2-a739-4385-bc35-9f2b7520ecc6,dilute.city,available,92,3,6,,,
 44f16f25-53f0-4f65-8313-0bb4813ca2fb,diminished.city,available,44,1,10,,,
 5624604d-cf97-4f94-88b0-af86df6ce230,diminishing.city,available,77,2,11,,,
 aaf2a748-4b98-43d1-ad4a-9d9887e717c9,diminutive.city,available,70,2,10,,,
-5818045a-379c-47fb-b58d-ccfd10bd9355,diner.city,resell,85,9,5,"Sav.com, LLC - 46",13/01/2025 15:15,13/01/2026 15:15
 0523a776-ff9f-4418-abba-6b5fcab414e0,dingy.city,available,82,3,5,,,
 01e99a49-4a00-4fdf-9470-795773d2c756,dip.city,available,70,19,3,,,
 aa5d7a1f-3815-4976-bc32-7a3cae1772b9,diplomat.city,available,73,13,8,,,
@@ -2726,7 +2723,7 @@ c58d5607-89a6-461b-a943-2cfd26333846,director.city,available,76,15,8,,,
 8330b38f-5549-44c6-8bdc-d0c3da803b49,disagree.city,available,68,5,8,,,
 86e2d59a-5510-4bde-a12f-35c7a5ac758f,disappointed.city,available,58,4,12,,,
 52f8743a-3823-42af-a1f4-efc83ea9acac,disassemble.city,available,64,3,11,,,
-56d3f736-cc13-4f2c-a12d-49790693b8c6,discard.city,available,88,5,7,,,
+56d3f736-cc13-4f2c-a12d-49790693b8c6,discard.city,available,88,6,7,,,
 e89d3b5f-4ace-4a79-a5c5-393324cfad70,discbrake.city,available,66,2,10,,,
 11baba91-9790-4d95-8d6a-5cc3a58b72b8,discdrive.city,available,72,1,10,,,
 a73fcd96-dd38-4b9a-a89f-ed85985438ec,discerning.city,available,72,4,10,,,
@@ -2734,7 +2731,7 @@ a73fcd96-dd38-4b9a-a89f-ed85985438ec,discerning.city,available,72,4,10,,,
 eadbdc74-f68d-4751-af01-36d5032b6720,discjockey.city,available,78,6,11,,,
 b757ed75-ec90-417a-9035-0d893f66cfa7,disclosed.city,available,58,3,9,,,
 e3093b65-b0ba-4b7a-99ce-cacff2f6fa59,disclosure.city,available,67,11,10,,,
-96d4411c-1ebe-42df-b2de-708518426568,disco.city,resell,104,31,5,"DNSPod, Inc.",18/03/2019 05:49,18/03/2026 05:49
+96d4411c-1ebe-42df-b2de-708518426568,disco.city,resell,104,30,5,"DNSPod, Inc.",18/03/2019 05:49,18/03/2026 05:49
 8fe5b2a8-f4da-4a57-a271-1ec297472253,discomfort.city,available,82,4,10,,,
 29183648-48b1-4a0f-9053-4fe4aaeaa66b,disconnect.city,available,88,12,10,,,
 f67a23a6-4fc8-43d8-ae4a-dfd418e0e2fc,discount.city,available,102,22,8,,,
@@ -2762,14 +2759,14 @@ e219b42c-98e8-4fca-897b-a1449427ca51,dishup.city,available,78,3,7,,,
 a99d8466-89dd-4d73-aa15-fe77a5b4a131,dismay.city,available,82,2,6,,,
 8f6a1425-f100-4807-9e54-a6e5bb7324ae,dismayed.city,available,54,1,8,,,
 eb1ded3a-6807-4730-b8ef-5cd74a76fe66,dismaying.city,available,52,1,9,,,
-71eb288a-1dd4-4f98-a291-0456a77ad045,dismiss.city,available,72,4,7,,,
+71eb288a-1dd4-4f98-a291-0456a77ad045,dismiss.city,available,72,5,7,,,
 c62c78f8-6b5d-40db-b95f-da0138086d06,dismissal.city,available,66,3,9,,,
 05dca5a3-769c-421d-985b-6da305d8b2fd,dismissed.city,available,50,3,9,,,
 85ae2ae9-839a-4663-83d1-13399faacbb2,disney.city,available,82,24,6,,,
 a992ea15-8962-40d6-9f9f-94917283ca11,disneyland.city,available,96,10,10,,,
 8cbff571-0326-4e78-af64-bb3e6afc7521,disorganised.city,available,54,1,12,,,
 1110169e-77fa-4c51-b061-7b34935b06a9,disorganized.city,available,54,3,12,,,
-c63ef87a-aa78-471a-b683-f9d4dca0e3dd,disparity.city,available,62,4,9,,,
+c63ef87a-aa78-471a-b683-f9d4dca0e3dd,disparity.city,available,62,3,9,,,
 7796ab27-3804-4151-a5cd-46f37b4bb854,dispatching.city,available,66,4,11,,,
 497e9e1a-b482-4b5f-8d7b-fa93c0f61f77,display.city,resell,102,23,7,"Chengdu West Dimension Digital Technology Co., Ltd.",01/03/2024 15:15,01/03/2026 15:15
 c2247ce8-f336-47fc-bd48-5bc5315ef3d9,dispose.city,available,88,5,7,,,
@@ -2786,7 +2783,7 @@ d3a0d8ed-9bdc-464b-b27b-79b81228662e,distinguished.city,available,66,10,13,,,
 5d6b17a0-383d-4f68-91e3-911204884650,distress.city,available,84,7,8,,,
 dce0178f-3d4a-4f0e-b6d8-05ff518837c0,distribute.city,available,68,8,10,,,
 d0b6dfa1-8e0c-4d19-b292-24c27e414e52,disturb.city,available,82,6,7,,,
-e6f47cd0-4f65-4ee0-a976-8a41c95b68e6,dive.city,resell,94,31,4,"Sav.com, LLC - 41",19/11/2024 15:15,19/11/2026 15:15
+e6f47cd0-4f65-4ee0-a976-8a41c95b68e6,dive.city,resell,94,30,4,"Sav.com, LLC - 41",19/11/2024 15:15,19/11/2026 15:15
 c23f9411-33de-4192-99a8-fbc61f7ebfcd,divers.city,resell,70,12,6,"Chengdu West Dimension Digital Technology Co., Ltd.",29/05/2023 15:15,29/05/2026 15:15
 13365a47-b970-48d9-a913-5551e3d9750d,diversify.city,available,74,8,9,,,
 0a9731e7-5342-4fc4-a70b-41325be62c2f,divert.city,available,70,7,6,,,
@@ -2808,7 +2805,7 @@ ea8cf15f-7b83-4841-8f43-d613bb1fff25,documented.city,available,66,5,10,,,
 15beac44-f799-4577-84f0-441cdaa8df44,dogsofwar.city,available,76,3,11,,,
 a237e719-235a-4b41-ba20-4d5c6e2a5890,dogtoothgrass.city,available,90,1,14,,,
 e9633d84-41bc-46aa-ae7b-31308ed14090,doledout.city,available,41,2,9,,,
-9a398224-b65c-4b72-b3b2-b09601db1d6a,dollar.city,resell,70,28,6,"Spaceship, Inc.",17/02/2017 19:18,17/02/2026 19:18
+9a398224-b65c-4b72-b3b2-b09601db1d6a,dollar.city,resell,70,29,6,"Spaceship, Inc.",17/02/2017 19:18,17/02/2026 19:18
 a6f26ea3-84d9-443b-a48f-9e2974745fa0,dollarsign.city,available,68,4,11,,,
 2f09cde0-c6ec-43da-801f-54a37273a5d7,domain.city,resell,80,39,6,"Global Domains International, Inc. DBA DomainCostClub.com",05/08/2015 16:00,05/08/2027 16:00
 f96f8f0a-baa7-4813-82b7-733545f7bfbd,domestic.city,available,90,7,8,,,
@@ -2817,9 +2814,9 @@ e0dd7f4c-5a1e-441f-8e82-0cd4693085b5,dominance.city,available,68,7,9,,,
 a27fc8b5-04d8-45d3-be6e-63fdec195dfe,dominated.city,available,56,2,9,,,
 d8837a53-b13e-44e9-af5a-fc8b053bf27a,dominating.city,available,46,3,10,,,
 edbd1867-17c2-42cf-a78c-c54a3092ac9b,donation.city,available,76,16,8,,,
-d52fd89d-16bb-40b3-8ce4-67eb2f8e9ad7,donkey.city,available,64,23,6,,,
-e3876ec4-dafe-4b2d-9f9e-f8d6f63bb3f9,donut.city,resell,80,24,5,"DNSPod, Inc.",21/01/2021 08:30,21/01/2026 08:30
-8be5ef38-71a9-44bd-a70b-eb4cc1283854,door.city,resell,100,25,4,"DNSPod, Inc.",02/02/2019 23:16,02/02/2026 23:16
+d52fd89d-16bb-40b3-8ce4-67eb2f8e9ad7,donkey.city,available,64,22,6,,,
+e3876ec4-dafe-4b2d-9f9e-f8d6f63bb3f9,donut.city,resell,80,23,5,"DNSPod, Inc.",21/01/2021 08:30,21/01/2026 08:30
+8be5ef38-71a9-44bd-a70b-eb4cc1283854,door.city,resell,100,24,4,"DNSPod, Inc.",02/02/2019 23:16,02/02/2026 23:16
 70661c3a-9a38-445f-9e19-25d5e819f25b,dormant.city,available,78,5,7,,,
 b5cac4d6-bd2f-43e7-97f3-ea189796c415,dorsal.city,available,80,6,6,,,
 b6568f98-7fd4-41df-a3fa-17269138725b,dorsum.city,available,57,3,6,,,
@@ -2842,7 +2839,6 @@ d2b40201-0c73-49d3-bae1-e34624c9cfaf,dozen.city,available,82,9,5,,,
 f6f64c9f-f3c0-461f-8965-9b09fa771d1b,dragout.city,available,60,1,8,,,
 9465006e-3eba-4b6c-a4bd-91c96280274c,dragrace.city,available,96,3,9,,,
 9b5accb2-01b0-46d5-beb2-380d67e54ea0,dramatic.city,available,68,5,8,,,
-9366e025-0db4-48de-98bf-4983514a08b5,drawing.city,resell,82,14,7,"Sav.com, LLC",10/01/2025 17:10,10/01/2026 17:10
 99049fd9-58fb-4f90-9b52-9f892e9677bc,drawup.city,available,74,3,7,,,
 4fedf648-b97a-4822-acda-014595cd1c04,dreadful.city,available,82,5,8,,,
 b4410cc9-e416-49e5-9e5c-45b85c970d17,dream.city,resell,116,38,5,"Global Domains International, Inc. DBA DomainCostClub.com",05/08/2015 16:00,05/08/2027 16:00
@@ -2851,7 +2847,7 @@ b4410cc9-e416-49e5-9e5c-45b85c970d17,dream.city,resell,116,38,5,"Global Domains 
 9f3bcbec-069e-4f1d-86f8-87066aa3ba2b,dressed.city,available,72,5,7,,,
 fd5b34af-afac-4a6f-b5da-6227a0859814,drift.city,resell,86,28,5,"Chengdu West Dimension Digital Technology Co., Ltd.",30/05/2024 15:15,30/05/2026 15:15
 0f6e7e1d-f497-4894-b713-f519e2fce5ce,drink.city,resell,100,21,5,"Spaceship, Inc.",18/06/2017 21:12,18/06/2026 21:12
-339a7552-5e99-4c84-9c63-4122d0117b1c,drinking.city,available,66,9,8,,,
+339a7552-5e99-4c84-9c63-4122d0117b1c,drinking.city,available,66,8,8,,,
 30a851d1-f39e-4356-881c-27adbfbaa753,drinkup.city,available,76,7,8,,,
 b57c05d2-87ea-4038-afa2-e718159d8f6a,drippy.city,available,42,10,6,,,
 9631af98-1fb6-4e1d-930b-95662b6ca45d,drive.city,resell,100,31,5,"DNSPod, Inc.",10/03/2019 14:13,10/03/2026 14:13
@@ -2867,7 +2863,6 @@ e05b97ae-d2d2-4e6d-9368-9a54b38c2f0c,drown.city,available,54,5,5,,,
 10906606-2bd2-4e7a-97c7-cbfe47dba8a8,dry.city,available,80,19,3,,,
 3fa530b2-f100-42f3-bb4d-daff6e10b141,DSLR.city,available,78,5,4,,,
 6e9e39d1-9917-45a3-89c5-ba926aa052a0,duchess.city,available,70,7,7,,,
-a8bbf4df-68d1-4527-a916-c8bace0bcc2c,duck.city,resell,64,30,4,"Sav.com, LLC - 26",14/01/2025 15:15,14/01/2026 15:15
 5eb38bdf-e234-462a-b6bd-f328ea1e3d77,ducttape.city,available,68,5,9,,,
 8e7197fc-82e3-4c47-846d-509d149269ec,due.city,available,72,12,3,,,
 02b877f1-b5a1-4993-9193-c41c01105126,duke.city,resell,88,41,4,"DNSPod, Inc.",14/08/2018 09:23,14/08/2026 09:23
@@ -2897,7 +2892,7 @@ d05eb020-5c72-4102-a79e-d2bdce59fae2,eased.city,available,68,4,5,,,
 2f6e651c-df9b-45f5-91f6-2c78447bc2ec,easily.city,available,74,8,6,,,
 75891091-494d-471b-8b26-983455c0855c,eastern.city,available,70,13,7,,,
 b4bbb35a-c8b7-4c91-a72c-4959a152d83a,easymark.city,available,64,2,9,,,
-9057b37b-d783-4832-b867-396ce167cc11,easymoney.city,available,66,11,10,,,
+9057b37b-d783-4832-b867-396ce167cc11,easymoney.city,available,66,10,10,,,
 7bc458fe-a3a2-4b2c-ae7c-6a6724d07ef2,eat.city,resell,112,26,3,"Spaceship, Inc.",19/04/2017 08:34,19/04/2026 08:34
 e7237a8b-02ef-4e28-8627-2c6a959e43a5,eatat.city,available,72,2,6,,,
 4174dc89-5b0c-4a1a-8fff-a08830f128de,eaten.city,available,74,4,5,,,
@@ -2941,11 +2936,11 @@ f4a72d19-2bc7-4561-9b49-74aa8568e9b2,Ellen.city,available,70,18,5,,,
 b3c2a9ff-5329-4b8e-889c-7f5811a64ee3,ElSalvador.city,available,68,4,11,,,
 a0537d9c-de92-401d-91e5-1d8779c91888,else.city,available,80,18,4,,,
 88eb9488-7ac1-4ecc-b2c3-091dbacc8330,elusive.city,available,48,14,7,,,
-95b40a59-c013-44c7-8cb9-f14ccf93de6a,email.city,resell,106,47,6,"Spaceship, Inc.",21/10/2016 12:36,21/10/2026 12:36
+95b40a59-c013-44c7-8cb9-f14ccf93de6a,email.city,resell,106,46,6,"Spaceship, Inc.",21/10/2016 12:36,21/10/2026 12:36
 fa677486-45e8-4809-ad69-09381abdb74e,emailstorm.city,available,62,1,11,,,
 9a97593c-f21c-4fef-b7f6-92090ac31d64,embayment.city,available,46,1,9,,,
 e3dbba32-e7bd-47fa-a1f5-074d1335e988,embracing.city,available,78,3,9,,,
-edd7339e-1184-4908-8e94-02a034bb0fe6,emergency.city,available,58,24,9,,,
+edd7339e-1184-4908-8e94-02a034bb0fe6,emergency.city,available,58,23,9,,,
 2eacb063-d2d9-40d7-95fd-fba6b2ff6e3f,emotion.city,available,80,24,7,,,
 45882d93-c041-4598-9928-a08db26b20b3,emotive.city,available,84,10,7,,,
 bb7942c7-d4d3-4d6b-8d57-a75d3ab68d0d,employee.city,available,74,19,8,,,
@@ -2970,7 +2965,7 @@ f5bf3fa7-b9c5-474d-a7ac-13e3091ad983,endurance.city,available,72,16,9,,,
 3c930bad-9f06-4f21-b9ee-71290477445a,energizing.city,available,76,4,10,,,
 b083281d-3ac0-4765-84ba-e8294b195564,energy.city,resell,82,35,6,"NameCheap, Inc.",08/10/2014 16:17,08/10/2026 16:17
 feed37a3-d3bf-4aa4-ab50-024791890011,enervated.city,available,36,1,9,,,
-5cdea916-e2b0-4f16-97d6-a949595cad8f,engage.city,resell,84,32,6,"Sav.com, LLC - 25",18/05/2024 15:15,18/05/2026 15:15
+5cdea916-e2b0-4f16-97d6-a949595cad8f,engage.city,resell,84,31,6,"Sav.com, LLC - 25",18/05/2024 15:15,18/05/2026 15:15
 cb563853-d7ae-4359-86c0-1fd8f1b47fe8,engagement.city,available,81,14,10,,,
 7755e7ff-f434-4e56-bc69-97f62156e562,engagementring.city,available,76,6,15,,,
 1215aee3-42a7-4d3b-a785-30a81f776bde,engine.city,resell,94,23,6,"Xiamen ChinaSource Internet Service Co., Ltd",26/08/2018 18:46,26/08/2026 18:46
@@ -2996,7 +2991,7 @@ ea0be952-aa2e-4789-a2c7-b5c509e7b3b9,enliven.city,available,82,9,7,,,
 d4df0237-429c-4bd5-b365-d8e20b99de28,ensure.city,available,80,10,6,,,
 ba0aa24e-a338-42e4-8b1b-18e6509d5541,enterinto.city,available,66,1,10,,,
 5484d31e-b6fd-436a-b036-ba8a2f617862,enterprise.city,premium,68,23,10,,,
-736b16ee-8114-482f-b98e-6b6e55b15e56,entertain.city,available,92,9,9,,,
+736b16ee-8114-482f-b98e-6b6e55b15e56,entertain.city,available,92,8,9,,,
 6b1aa8e4-965c-4219-b8ef-ced64736b4fa,enthralled.city,available,54,1,10,,,
 9ededbac-e191-40d5-a32a-3e1b4db50eb1,enthusiasm.city,available,76,6,10,,,
 45068894-dbd5-478f-ab0d-d3a9681ea27a,enticing.city,available,88,2,8,,,
@@ -3057,7 +3052,7 @@ db6b31af-019f-4f61-8630-9479de0a614a,evaporate.city,available,68,4,9,,,
 23a64ba9-ddac-4b5a-8659-4733944e06aa,evenchance.city,available,74,1,11,,,
 e2a1c9ec-54c0-4ee4-bf0c-c2f140728262,evenif.city,available,60,2,7,,,
 2a98f2d3-b4b3-41b6-b338-4b8e0643bcc6,evenout.city,available,70,1,8,,,
-e9b9b37d-9bdf-4a1a-9408-4d053d4127b9,event.city,resell,96,38,5,"Spaceship, Inc.",08/12/2023 15:15,08/12/2026 15:15
+e9b9b37d-9bdf-4a1a-9408-4d053d4127b9,event.city,resell,96,37,5,"Spaceship, Inc.",08/12/2023 15:15,08/12/2026 15:15
 634c7e5e-3c8a-46f5-ace4-7a5090963542,eventhough.city,available,54,2,11,,,
 2d85409c-063f-45a8-802a-c6c732f33aad,eventoed.city,available,50,1,9,,,
 970908c9-3cad-408a-b237-f5e2db23e9f5,everbody.city,available,58,3,8,,,
@@ -3088,7 +3083,7 @@ fccfb680-db50-4006-8e45-38f011bbdb07,exculpated.city,available,62,1,10,,,
 9f3e5208-0b82-47b5-a697-7683df56fd9c,excursion.city,available,96,7,9,,,
 592fc8fe-1639-4763-9838-8ce562a7a339,excusatory.city,available,50,1,10,,,
 652d8cd2-38c8-4e83-8359-a2dd5d31cbea,execrable.city,available,48,1,9,,,
-2214dbaa-db6b-4a3a-be58-0a6b32ea0780,executing.city,available,60,2,9,,,
+2214dbaa-db6b-4a3a-be58-0a6b32ea0780,executing.city,available,60,1,9,,,
 c7b18dfe-2b33-46f2-85d0-74c51e99b6e6,execution.city,available,60,11,9,,,
 f1942fed-1924-48c4-a146-2ffe60cf9a4d,exemplary.city,available,92,4,9,,,
 0e3b439f-d9ae-47db-ac82-2971b51dbabd,exercise.city,available,98,12,8,,,
@@ -3111,10 +3106,10 @@ f2b9891d-84b2-446b-bd85-6838ceb06ca3,exonerated.city,available,66,3,10,,,
 23badfe6-17a4-4bea-a676-c56d9e0d2914,expedite.city,available,86,9,8,,,
 18f550ac-5376-4442-b5c8-803b5f4a5bae,expedition.city,available,90,23,10,,,
 ce709ef7-8de3-445d-8c56-ca289663c743,expended.city,available,56,1,8,,,
-95a61eca-5fef-4170-928a-251bd35c036d,experience.city,resell,98,39,10,"Sav.com, LLC - 36",26/11/2024 17:00,26/11/2026 17:00
+95a61eca-5fef-4170-928a-251bd35c036d,experience.city,resell,98,38,10,"Sav.com, LLC - 36",26/11/2024 17:00,26/11/2026 17:00
 8eba45f3-bb16-40c7-bc34-d2ad269f6525,experienced.city,available,76,5,11,,,
 037ec512-b3c6-4120-afc8-c84906fd183e,experimentally.city,available,56,1,14,,,
-67039c52-fc36-432c-9627-ccdd71ae7aaa,expire.city,available,58,10,6,,,
+67039c52-fc36-432c-9627-ccdd71ae7aaa,expire.city,available,58,9,6,,,
 9320b08f-9cdd-4a05-8a09-6b2558a40247,explain.city,available,84,16,7,,,
 e5b72026-d2f5-4b21-93f0-cef1037dd797,expose.city,available,78,15,6,,,
 4d6d6cde-f411-42b5-a5ad-c1d556451ad7,exposure.city,available,66,17,8,,,
@@ -3138,7 +3133,7 @@ ffa436fc-e4eb-4e7c-b34f-912ff1ba6756,facetious.city,available,48,3,9,,,
 6caec465-f10d-45fa-b036-6adb65fc379b,facilitate.city,available,74,10,10,,,
 d3a3d7a4-a164-4c17-9aa0-255cd88a898b,facilitating.city,available,55,2,12,,,
 a16a8bc6-4fd8-47b7-aac5-0b85827ca9d3,facing.city,available,82,7,6,,,
-4aa0cc9d-7206-48f1-bee4-d0dc2b2ce912,fact.city,resell,78,23,4,"Spaceship, Inc.",04/06/2025 23:29,04/06/2026 23:29
+4aa0cc9d-7206-48f1-bee4-d0dc2b2ce912,fact.city,resell,78,22,4,"Spaceship, Inc.",04/06/2025 23:29,04/06/2026 23:29
 cb41d3c0-2020-4c29-9918-cb3189630f08,factor.city,available,62,22,6,,,
 11d54ae0-5593-4b06-a975-b1ef56ff19d5,facts.city,resell,88,21,5,"Sav.com, LLC - 7",19/06/2025 15:15,19/06/2026 15:15
 c6b14790-8c45-4778-8f94-9f999da54ee8,faded.city,available,64,8,5,,,
@@ -3169,7 +3164,7 @@ a2165443-c6b9-4e2a-93ca-aeeec6bfafd6,fanletter.city,available,68,2,10,,,
 87936f8c-4460-4cec-b3b8-793a4cf0e591,FannyAdams.city,available,56,2,11,,,
 23df79dc-a087-4d04-b991-db114165097f,Fanta.city,resell,98,13,5,"Sav.com, LLC",27/01/2025 15:01,27/01/2026 15:01
 a45facfc-419f-4ee4-a3dc-3955d90582f7,fantastic.city,available,88,15,9,,,
-f7f42786-24de-429a-bf32-f90b716ae85f,farmer.city,resell,72,18,6,"DNSPod, Inc.",29/10/2019 23:46,29/10/2026 23:46
+f7f42786-24de-429a-bf32-f90b716ae85f,farmer.city,resell,72,17,6,"DNSPod, Inc.",29/10/2019 23:46,29/10/2026 23:46
 b600bc18-098e-4f96-b9bc-70d2d7c01bad,farmwork.city,available,68,2,9,,,
 382e406b-7151-4a1b-afb4-1e47dc23ca3e,farther.city,available,74,5,7,,,
 85be40c7-fd98-43e9-a256-c6a261bac09d,farthest.city,available,56,1,8,,,
@@ -3207,7 +3202,7 @@ a3dc68c5-b96c-4cc1-8e6d-2dee499eacfe,felt.city,available,76,12,4,,,
 01de3913-7d1a-4977-9d13-20ec128cee2d,femalealpha.city,available,68,1,12,,,
 c76a8af4-8dcc-4e83-9e2d-4d2a6769701a,feminine.city,available,86,6,8,,,
 32d2464b-4bfd-4133-a4a6-464fb2cae055,feminism.city,available,68,7,8,,,
-8fe6be06-f539-46ac-abc6-245cb3d10422,fence.city,available,85,18,5,,,
+8fe6be06-f539-46ac-abc6-245cb3d10422,fence.city,available,85,17,5,,,
 0e7a4f33-2436-49db-bb0c-d6da40e6c208,fervent.city,available,66,6,7,,,
 e4137e9b-23eb-464b-9b1e-f3609dc0b7da,fervid.city,available,66,5,6,,,
 b142ad04-66ff-44c7-b4a4-67d0f4739fff,few.city,available,70,13,3,,,
@@ -3254,14 +3249,14 @@ db2a8dba-1ddd-4e48-bd13-337779c6b951,fire.city,resell,80,53,4,"Spaceship, Inc.",
 01061e34-29e6-4148-83a4-be70c9b31fe0,firefighter.city,available,78,14,11,,,
 3f289486-6316-45af-aa97-7d567ca54749,firm.city,resell,118,20,4,"DNSPod, Inc.",14/04/2018 19:34,14/04/2026 19:34
 df2bfa34-adbd-4b4f-bb01-d412545a6352,first.city,resell,80,32,5,Porkbun LLC,26/10/2017 00:04,26/10/2026 00:04
-226526d3-671d-4045-b07b-0d8e4bd2cfd5,firstaid.city,available,74,13,9,,,
+226526d3-671d-4045-b07b-0d8e4bd2cfd5,firstaid.city,available,74,12,9,,,
 8738269f-533b-480b-9b12-365b2000a494,firstcousin.city,available,64,1,12,,,
 52a627f5-59e7-4dbb-98ee-f2a00beaf827,firstgrade.city,available,72,3,11,,,
 b0f6ba64-dcea-4c41-9651-839e8a6f792a,firstly.city,available,64,4,7,,,
 bd4ca759-2d9b-4ffb-b128-08436420071b,firstname.city,available,78,5,10,,,
 579a1376-275a-4707-9d87-d4754c935ca1,firstrate.city,available,76,6,10,,,
 c25e8689-0486-4a06-abb6-8a2ee1204652,fish.city,resell,80,28,4,"DNSPod, Inc.",05/10/2014 18:40,05/10/2026 18:40
-79b989b9-f63c-41d3-8a82-9386e764926e,fitness.city,premium,78,29,7,,,
+79b989b9-f63c-41d3-8a82-9386e764926e,fitness.city,premium,78,28,7,,,
 408e7f1b-065b-4c75-a430-5cd1347751da,fivesome.city,available,82,1,8,,,
 f1a5f82d-8fe4-457a-a03b-2c32878d52c0,fivestar.city,available,114,25,9,,,
 e7ac164e-b8df-4b8b-bf8a-bf935d2d7490,fixitagainTony.city,available,56,1,17,,,
@@ -3295,8 +3290,8 @@ cd255011-e011-46fa-b270-b976d67c311a,flowerbox.city,available,76,6,10,,,
 40a7e9f5-bec4-4cc9-9e2c-ceef463403aa,flyingsaucer.city,available,72,5,13,,,
 d5429582-0a05-4c4d-8264-4226ccacf0c8,flyspeck.city,available,68,1,8,,,
 6dd1b265-0aaa-4629-a3f3-f5e65186b2ba,focalpoint.city,available,74,15,11,,,
-b4d5e9e7-eebc-4151-b339-4473830f540f,focus.city,resell,102,40,5,"DNSPod, Inc.",11/04/2019 11:47,11/04/2026 11:47
-a8fe2059-60db-4544-98e3-10c7567a6c3e,folder.city,resell,70,16,6,"GoDaddy.com, LLC",12/11/2019 12:43,12/11/2026 12:43
+b4d5e9e7-eebc-4151-b339-4473830f540f,focus.city,resell,102,38,5,"DNSPod, Inc.",11/04/2019 11:47,11/04/2026 11:47
+a8fe2059-60db-4544-98e3-10c7567a6c3e,folder.city,resell,70,15,6,"GoDaddy.com, LLC",12/11/2019 12:43,12/11/2026 12:43
 2d290193-8bc1-4ead-8831-f9b195443bae,folding.city,available,86,5,7,,,
 13c9b0af-14c3-413b-865d-a38ecc386f7d,folicacid.city,available,76,2,10,,,
 55532226-5677-4543-a363-e6e995ad1ed7,followedby.city,available,56,1,11,,,
@@ -3306,7 +3301,7 @@ ce1e4a64-58d0-4abe-bf16-4a45767ec14c,food.city,resell,94,35,4,"Global Domains In
 0329ae7d-277a-4c77-9f24-ef8f36d3c334,foodbank.city,available,76,10,9,,,
 308bc6ff-68ba-49e4-ba1c-de64a4a3a456,foodcoma.city,available,64,3,9,,,
 bd509d0e-ee14-4fe8-8ca6-b1bf54d630f4,foolish.city,available,60,11,7,,,
-5bb82ea7-0dc8-4bed-9dea-7a5e1da82379,football.city,available,100,32,8,,,
+5bb82ea7-0dc8-4bed-9dea-7a5e1da82379,football.city,available,100,31,8,,,
 46bfded5-c49f-4e63-8c75-324bd1056ec3,footballer.city,available,76,5,10,,,
 f49a89e7-859c-46b6-b773-695669322bed,force.city,resell,72,21,5,"DNSPod, Inc.",30/07/2021 23:52,30/07/2026 23:52
 5d660d9f-2590-46c7-8e0e-5ecbe6c2613b,forced.city,available,67,4,6,,,
@@ -3342,7 +3337,6 @@ f5a3fb92-ca09-4d35-82f3-7eec355aa46b,fortynine.city,available,56,3,10,,,
 3696e1bc-2ed8-4a90-a1bf-a929f2927f02,fortyone.city,available,56,5,9,,,
 ad24cdb4-e4ff-46d9-a340-8ce1e273e20e,fortysix.city,available,56,4,9,,,
 92a68c9d-12eb-473d-979e-58e9b755d6f9,fortytwo.city,available,56,17,9,,,
-57a3a48d-6059-45a5-83d4-8cf470a78815,forum.city,resell,72,29,5,"Sav.com, LLC",10/01/2021 08:18,10/01/2026 08:18
 19f26083-88d6-41f5-a8eb-5f2eb046701a,foto.city,resell,76,25,4,"Chengdu West Dimension Digital Technology Co., Ltd.",19/09/2023 15:15,19/09/2026 15:15
 c4398c49-155e-421f-a596-541a8404f7d6,foul.city,available,96,6,4,,,
 4dc7c88e-b20e-4d2a-9321-76843c9d4781,fouled.city,available,56,1,6,,,
@@ -3366,7 +3360,7 @@ a5db07d2-a334-46d7-9699-3da370ea0a3f,freespirit.city,available,82,16,11,,,
 b3d0e5ba-aaee-409e-8a25-f7fd87cda2a6,frog.city,resell,86,37,4,Dynadot Inc,25/02/2025 17:35,25/02/2026 17:35
 513d2085-48e4-401d-91c6-fe28794a1db5,front.city,resell,118,18,5,"DNSPod, Inc.",04/11/2023 15:15,04/11/2026 15:15
 b82dec7d-880f-4fc6-be6c-0751694be4d0,frozenfood.city,available,70,2,11,,,
-fa47506a-23f2-477b-bd00-e7996be0adf1,fruit.city,resell,82,27,5,"DNSPod, Inc.",16/10/2014 01:29,16/10/2026 01:29
+fa47506a-23f2-477b-bd00-e7996be0adf1,fruit.city,resell,82,26,5,"DNSPod, Inc.",16/10/2014 01:29,16/10/2026 01:29
 05430425-bff2-4898-bcff-896dacbe0a6c,fruitjuice.city,available,74,3,11,,,
 433cf697-97d5-4ba8-a26a-8b36b6dfd353,fruitvegetable.city,available,76,1,15,,,
 3021d75e-2bef-42e3-a158-7f689dda63b1,fruitwine.city,available,80,2,10,,,
@@ -3378,14 +3372,14 @@ e173dddd-45a2-4249-bea3-a06cd3353e15,frustrate.city,available,74,2,9,,,
 cfb802cd-09ee-491d-bb45-52e634b510eb,fuckster.city,available,62,2,8,,,
 19250ab1-a31d-41b6-a205-8ff20642d9c7,fuckstruck.city,available,58,1,10,,,
 b025ca4f-153e-4fa2-8612-c9cffd71d0a4,fuckyou.city,available,52,18,8,,,
-826a963e-0f42-4030-8577-2f35e7ed065a,fuel.city,resell,96,30,4,"Sav.com, LLC - 21",25/10/2025 15:15,25/10/2026 15:15
+826a963e-0f42-4030-8577-2f35e7ed065a,fuel.city,resell,96,29,4,"Sav.com, LLC - 21",25/10/2025 15:15,25/10/2026 15:15
 837d26e0-241c-4b5e-9904-0b7c9258ad78,fulgid.city,available,54,2,6,,,
 96d0db21-d2cc-4260-8357-4cba5316497f,full.city,resell,68,23,4,"DNSPod, Inc.",07/06/2023 15:15,07/06/2026 15:15
 99e26eb2-74ce-4868-9b7e-23973beef119,fullgrown.city,available,56,1,10,,,
 38c1cf91-3130-4de9-9080-5b06270286f6,fullofbeans.city,available,66,4,13,,,
 f2a9c72c-3345-43ac-8e33-143aa7912c7e,fullscale.city,available,72,6,10,,,
 95c2e3c3-8b01-4cca-a14c-f75b07ed4166,fundament.city,available,38,9,9,,,
-e35b337e-9017-4476-878b-97d5bce59ae0,funds.city,resell,78,18,5,"DNSPod, Inc.",16/01/2022 13:15,16/01/2026 13:15
+e35b337e-9017-4476-878b-97d5bce59ae0,funds.city,resell,78,17,5,"DNSPod, Inc.",16/01/2022 13:15,16/01/2026 13:15
 c2dff469-5652-4988-95c6-37b2ec081b4f,funfair.city,available,80,5,7,,,
 56d02ab8-1b25-4a81-ad40-e9aef2f48a3b,fungicidal.city,available,60,1,10,,,
 8b4a323d-c14a-4c3f-be75-63efd377a5e3,fungicide.city,available,60,3,9,,,
@@ -3405,7 +3399,7 @@ b5c7c657-6f14-4a19-96e8-322aaf1a15bc,gag.city,available,88,14,3,,,
 f60e5fb0-8363-4140-84af-befe014f4c2c,galaxy.city,resell,76,39,6,"DNSPod, Inc.",08/04/2018 17:31,08/04/2026 17:31
 385e3bb8-66a9-41ae-a053-8b47f649fd76,galling.city,available,76,2,7,,,
 bff80b98-c553-41f4-a005-a3c1d6a7a59e,gallon.city,available,66,5,6,,,
-f6407cd9-75bd-4a54-b4b8-b52672ed045b,gaming.city,resell,76,34,6,"Go France Domains, LLC",08/10/2014 16:00,08/10/2026 16:00
+f6407cd9-75bd-4a54-b4b8-b52672ed045b,gaming.city,resell,76,33,6,"Go France Domains, LLC",08/10/2014 16:00,08/10/2026 16:00
 b87d4ef6-9877-476c-b2bb-535715cd9037,gandhi.city,available,92,11,6,,,
 050896a6-830d-482a-ab1b-26c44549ed08,gang.city,available,86,16,4,,,
 476368d4-81fa-49ac-a181-a28ad2f1dcda,gaping.city,available,76,2,6,,,
@@ -3418,10 +3412,10 @@ bddf634b-68aa-48bd-b310-3d94fa264927,gardencentre.city,available,74,3,13,,,
 b66074da-84a1-4c4f-9add-ebf88b20d560,garmented.city,available,48,1,9,,,
 57d812ba-af06-4936-acd3-97019e20b976,garret.city,available,50,7,6,,,
 e562d20e-76b2-4ff7-bf63-29bc8c56e3c6,gasstation.city,available,68,8,11,,,
-43daf7b3-d929-4b9c-b28c-3f87455d58f4,gate.city,resell,72,29,4,"DNSPod, Inc.",09/04/2019 06:53,09/04/2026 06:53
+43daf7b3-d929-4b9c-b28c-3f87455d58f4,gate.city,resell,72,28,4,"DNSPod, Inc.",09/04/2019 06:53,09/04/2026 06:53
 a9abd768-8bc0-4bdf-b864-c2884e33c35d,gaydog.city,available,66,3,7,,,
 d2747b3a-86eb-4862-a72d-84a2eba294c8,gearchange.city,available,70,2,11,,,
-649214cb-4c65-4443-bf19-d3749f653d6c,gee.city,available,66,16,3,,,
+649214cb-4c65-4443-bf19-d3749f653d6c,gee.city,available,66,15,3,,,
 26336611-84b6-4efd-97e7-3278e4bc0933,gelpen.city,available,82,1,7,,,
 722bae1f-049b-4225-92f4-0ba1658d266a,generalelection.city,available,66,2,16,,,
 81d36082-288a-46c1-be2e-89472bda0fd2,generally.city,available,63,3,9,,,
@@ -3437,11 +3431,11 @@ da6e3817-389e-4544-9b54-118f82d30254,genuine.city,resell,78,19,7,"Sav.com, LLC",
 825471d3-1ca7-4ead-9e73-8716015f86d7,GermanReich.city,available,52,1,12,,,
 3665ed0b-967c-4e64-a064-886ee7ff6b94,GermanRepublic.city,available,46,1,15,,,
 46ebb084-64ef-4ded-92a6-a869fc1d9e19,Germanshepherd.city,available,70,15,15,,,
-89780d06-ff78-4b56-87b6-4840d84c6b02,germany.city,available,70,5,7,,,
+89780d06-ff78-4b56-87b6-4840d84c6b02,germany.city,available,70,4,7,,,
 d3d60c04-e9f5-4b93-aff9-407d84ebe7b8,germicidal.city,available,42,2,10,,,
 d6f45fcf-6370-4dc1-8015-7d4088361518,germicide.city,available,60,1,9,,,
 cb46c24c-8e0e-454c-8d7f-8e4536ea3995,get.city,resell,88,57,3,Unstoppable Domains Inc,30/10/2020 15:19,30/10/2026 15:19
-a5b0aeb4-4341-4643-ac61-ca95a247c71a,getat.city,available,76,4,6,,,
+a5b0aeb4-4341-4643-ac61-ca95a247c71a,getat.city,available,76,3,6,,,
 27c4b0da-4c85-4557-aad0-ad72dfde01bc,getinto.city,available,72,6,8,,,
 5f4edff9-a3e6-459b-b77b-8604f7501e91,getoff.city,available,76,3,7,,,
 39290ab5-1603-46ca-907d-05bd06a99f33,getopen.city,available,73,2,8,,,
@@ -3476,7 +3470,7 @@ f1e5f44e-f4c3-4819-805e-c8b0abf59120,glance.city,available,92,14,6,,,
 3f76b575-2a04-4c50-bd94-3655bdd442be,glancing.city,available,78,2,8,,,
 7220f937-bd51-4707-81dc-659c3ced26f6,glass.city,resell,68,33,5,Dynadot Inc,06/10/2014 06:27,06/10/2026 06:27
 559912d5-f373-431c-9845-14321fc1f5aa,glassceiling.city,available,62,4,13,,,
-ce9aee64-b407-42ea-8225-5a47266668fe,glasses.city,resell,70,14,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/07/2023 15:15,29/07/2026 15:15
+ce9aee64-b407-42ea-8225-5a47266668fe,glasses.city,resell,70,13,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/07/2023 15:15,29/07/2026 15:15
 317f51a2-7e4a-4130-a6f9-cd32704baf4b,gleaming.city,available,82,4,8,,,
 3e8e6931-406c-447c-a55b-07672c13e56d,glinting.city,available,64,1,8,,,
 b59f7001-2600-4369-a602-9bf64ee9bf6d,glistering.city,available,60,1,10,,,
@@ -3489,6 +3483,7 @@ e6b9f0c6-05cf-49b7-98f7-d71d4dac7a29,globular.city,available,68,4,8,,,
 a92d019c-6294-4984-b672-74ad1ed7ab75,glove.city,available,88,10,5,,,
 46cccf7c-4dc5-472d-9412-7bc36ad4a06d,Gmail.city,available,94,44,5,,,
 13a2ae56-9c10-406a-bd70-60cb727f42d0,goalong.city,available,72,1,8,,,
+ccd8ab74-2427-4bcb-ab8c-ce3ebcea384c,goat.city,resell,62,43,4,"DNSPod, Inc.",15/12/2023 05:19,15/12/2026 05:19
 71b1fcfd-ac4c-42c0-9bf2-e0be0c2e20b5,goback.city,available,73,5,7,,,
 2a9033f1-e7c0-496a-8cb9-c3b37fb21bd8,gobigorgohome.city,available,72,3,17,,,
 423cb887-aded-4dba-9a72-b2dd4a2cc733,gobythenameof.city,available,68,1,17,,,
@@ -3527,14 +3522,14 @@ b635626c-842d-4353-96cb-946befecbcdb,gowithoutsaying.city,available,81,1,17,,,
 51789a3b-bf6c-411e-a5b6-0b2201b50487,grabby.city,available,72,5,6,,,
 0aeacf1b-ce18-44bf-9d2b-4659d15c9916,gracious.city,available,90,8,8,,,
 9d15e549-5e9c-4eed-940e-cab47b970bd4,grammar.city,available,100,12,7,,,
-e7dc59be-ffd0-414f-9a37-a5f741770545,gramme.city,available,68,4,6,,,
+e7dc59be-ffd0-414f-9a37-a5f741770545,gramme.city,available,68,3,6,,,
 2dddfa54-9a8e-4656-89b0-4faf74130891,gran.city,available,68,15,4,,,
 17c0b032-0fee-4a41-b09a-3d6507399851,grandad.city,available,80,3,7,,,
 4348125c-a6a8-4dfc-819e-cd1c0a84cfa0,grandchild.city,available,82,2,10,,,
 b7adaeea-2646-499b-91b9-d8e35f45cd4c,granddad.city,available,78,3,8,,,
 e20f149e-e95f-4865-bc61-2667e05e441a,granddaughter.city,available,82,2,13,,,
 95d6f0f5-e4d4-4474-bdac-274299311d3b,grandfather.city,available,102,5,11,,,
-a5e322fa-5bb8-4018-8538-11c4928416de,grandjury.city,available,66,3,10,,,
+a5e322fa-5bb8-4018-8538-11c4928416de,grandjury.city,available,66,2,10,,,
 4bff0c80-7740-4dc7-b0f8-69df33ebe00e,grandkid.city,available,80,1,8,,,
 1950c5a0-9a16-41a2-9e26-705f8c9be11b,grandma.city,available,78,11,7,,,
 7ef12058-3c82-4dd6-9839-12c7912f9302,grandmother.city,available,82,3,11,,,
@@ -3542,13 +3537,13 @@ a5e322fa-5bb8-4018-8538-11c4928416de,grandjury.city,available,66,3,10,,,
 87a6db2b-cdd5-4119-82ff-9e656e50d0da,grandniece.city,available,80,1,10,,,
 fba7d387-94d2-4980-ad1f-8f68c607b77b,grandpa.city,available,78,7,7,,,
 bea1fa4c-4096-45c8-9bf2-9d9c2227178e,grandparent.city,available,102,5,11,,,
-234e28a5-2708-4d80-b059-dc2fdbb4f09d,grandslam.city,available,78,13,10,,,
+234e28a5-2708-4d80-b059-dc2fdbb4f09d,grandslam.city,available,78,11,10,,,
 d0bc19a4-2dab-4cbb-9d75-0e7a329d2fba,grandson.city,available,78,5,8,,,
 6f850d80-ff37-410f-96f2-a4767b6fd38c,granny.city,available,118,12,6,,,
 d57b6fd5-9ac1-4399-8e63-86aed93496ed,granola.city,available,90,13,7,,,
 c047455a-9be1-474f-a488-57944c262aed,granted.city,available,80,10,7,,,
 c9b2d37c-6dea-4b98-8bca-665e80eda475,granting.city,available,72,2,8,,,
-ab34eaae-78cf-44a6-b3ab-45f8beaa3aad,grape.city,resell,112,24,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/07/2023 15:15,02/07/2026 15:15
+ab34eaae-78cf-44a6-b3ab-45f8beaa3aad,grape.city,resell,112,23,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/07/2023 15:15,02/07/2026 15:15
 a636e7b1-4d32-4a4f-b5eb-ba5229202fb4,graspable.city,available,46,2,9,,,
 5755cdad-4fc2-4d7f-9eba-0f7073574bf9,grasping.city,available,68,2,8,,,
 61fc577e-ba2f-4259-9898-d66c02d620ab,grass.city,resell,66,22,5,"Spaceship, Inc.",06/03/2020 08:48,06/03/2026 08:48
@@ -3561,7 +3556,7 @@ a890f2cc-9fe6-40af-9480-f15be9f56cc9,GreatBritain.city,available,74,13,13,,,
 191b3d8a-dbdc-43d1-b024-e521e85b3a27,Greekalphabet.city,available,66,1,14,,,
 43f131fb-93f7-45fa-b18d-a7010d018325,green.city,resell,108,32,5,Porkbun LLC,23/04/2021 19:42,23/04/2026 19:42
 eb2486e9-3f5d-476f-a7f6-bd335d0f1bc2,greenpepper.city,available,73,3,12,,,
-96e8a2f0-d4e4-445c-af32-c9cf3d4e4a79,greens.city,resell,72,18,6,"DNSPod, Inc.",07/12/2020 12:18,07/12/2026 12:18
+96e8a2f0-d4e4-445c-af32-c9cf3d4e4a79,greens.city,resell,72,17,6,"DNSPod, Inc.",07/12/2020 12:18,07/12/2026 12:18
 f9c6ea0d-5311-4542-b5fb-d6f04645cfbb,greet.city,available,72,11,5,,,
 ad8f3312-ef48-46cd-aadb-a7797bc31c67,Gregg.city,available,66,10,5,,,
 2654cf24-529a-4d0f-869a-f07f3d2eef12,Gregorio.city,available,62,6,8,,,
@@ -3592,9 +3587,9 @@ b138a6df-a138-46f8-b225-fa9453e0d57c,grumpy.city,available,60,14,6,,,
 6ac33ae3-2d40-45fe-a7ad-b3d48849e6bc,grungy.city,available,44,2,6,,,
 fb74908c-8bd9-4fc2-b35f-a4145e268b99,gstring.city,available,66,2,8,,,
 0cec910c-4e40-4a51-bdd0-511499daf02a,guarantee.city,available,96,9,9,,,
-da192303-e446-449a-a51c-d65b83325b62,guard.city,resell,68,21,5,"Chengdu West Dimension Digital Technology Co., Ltd.",13/10/2020 00:53,13/10/2026 00:53
+da192303-e446-449a-a51c-d65b83325b62,guard.city,resell,68,20,5,"Chengdu West Dimension Digital Technology Co., Ltd.",13/10/2020 00:53,13/10/2026 00:53
 ce1796a7-8e70-4cf2-b9a0-001d1d77dc98,guess.city,available,100,16,5,,,
-f8d5a8b4-916c-4ce0-9dbc-44853d8d09c0,guest.city,resell,78,25,5,"Xiamen ChinaSource Internet Service Co., Ltd",24/03/2023 17:00,24/03/2026 17:00
+f8d5a8b4-916c-4ce0-9dbc-44853d8d09c0,guest.city,resell,78,24,5,"Xiamen ChinaSource Internet Service Co., Ltd",24/03/2023 17:00,24/03/2026 17:00
 98dc5df5-7e08-4a3c-bb63-21512633d280,guestchair.city,available,68,1,11,,,
 9c65f66d-1ee8-4225-b037-c24e91af1faf,guilt.city,available,86,6,5,,,
 b7639b67-72a3-42dc-98e5-f8b6afb4b655,gummybear.city,available,85,5,10,,,
@@ -3602,10 +3597,10 @@ bae788c0-780b-44d0-918a-0c74b027f681,gummyworm.city,available,83,1,10,,,
 ab8396d9-e8e6-4396-b85f-990c1b2c5be1,gun.city,available,56,24,3,,,
 6a9a8dd2-942d-4f13-8091-01eee4e3dbad,gutcheck.city,available,64,5,9,,,
 6d38a135-ba7e-418f-aa7a-9b67b42fc015,gutfeeling.city,available,70,7,11,,,
-a90f30f0-7cf9-4ef0-adb4-60d07405bda9,guts.city,available,97,15,4,,,
-da468a1d-df0f-4ceb-8b42-8659e4705b70,habitat.city,available,74,23,7,,,
+a90f30f0-7cf9-4ef0-adb4-60d07405bda9,guts.city,available,97,14,4,,,
+da468a1d-df0f-4ceb-8b42-8659e4705b70,habitat.city,available,74,22,7,,,
 9dcef871-c41f-4a9f-ba5f-0914c0f61f39,hackneyed.city,available,44,2,9,,,
-c84b0229-1460-47ed-91db-1007b164a8d5,haircut.city,available,95,9,7,,,
+c84b0229-1460-47ed-91db-1007b164a8d5,haircut.city,available,95,8,7,,,
 14059fc7-60d6-4e8f-976a-1177bb258a81,hairfollicle.city,available,72,2,13,,,
 33d4c77d-f605-4fb9-be31-0e7bede586ea,hairy.city,available,68,8,5,,,
 1efefc28-74ea-4df5-9a4c-2b1fa4abde4c,haiti.city,available,68,5,5,,,
@@ -3623,7 +3618,7 @@ f6addb22-ed72-46bb-b9a7-b8270b3ba868,hamilton.city,available,66,17,8,,,
 60408d02-947f-45d6-bd91-30c628183813,handle.city,available,94,18,6,,,
 71e8b204-cca1-44c2-8ef9-a91ca08eec97,handmedown.city,available,100,2,12,,,
 78ca341a-5142-4ad2-a08c-a26489e9a8c1,hanger.city,available,60,6,6,,,
-14667175-7f74-49e1-8f96-c2e60751a042,hannukah.city,available,68,2,8,,,
+14667175-7f74-49e1-8f96-c2e60751a042,hannukah.city,available,68,1,8,,,
 270e2721-b94f-4de8-9570-239de2d77fb3,Hans.city,available,76,26,4,,,
 aa59d31f-557a-4e27-bcf9-df5123c4d3f5,hanukah.city,available,80,2,7,,,
 0454255b-d0ed-4d14-939b-19ae66ea0ed6,hanukkah.city,available,70,8,8,,,
@@ -3641,19 +3636,19 @@ d395e727-e4c7-4ac2-9212-2071b8e7563c,hardly.city,available,92,4,6,,,
 781f866e-2c41-428c-8abe-781bc31256e1,hardworking.city,available,72,3,11,,,
 ca9ed705-8cbb-4ab2-9b33-51ab94e8d9c1,hardy.city,available,66,17,5,,,
 88e3e3ec-27df-45e1-ad0a-6ec0e5410af4,HarleyDavidson.city,available,82,9,15,,,
-e1d7ac9f-c237-484d-bbd9-6785e36a6ca2,harmony.city,resell,83,38,7,"Xiamen ChinaSource Internet Service Co., Ltd",15/09/2018 11:04,15/09/2026 11:04
+e1d7ac9f-c237-484d-bbd9-6785e36a6ca2,harmony.city,resell,83,37,7,"Xiamen ChinaSource Internet Service Co., Ltd",15/09/2018 11:04,15/09/2026 11:04
 893abd76-74f7-4890-9fb4-692c042479bd,Harold.city,available,72,14,6,,,
 271af0ad-90b0-4a31-8277-734f221e98f1,harrowing.city,available,66,1,9,,,
 e24981e7-9d94-4e50-919c-49d5b7b6d2b1,harvard.city,available,72,13,7,,,
 384b0229-6e51-4319-a774-caed62c09499,hassle.city,available,99,4,6,,,
 9138a785-ba03-496b-a2d0-0b1452c8afd7,haste.city,available,60,13,5,,,
-0c1173eb-80dd-45c3-b6ab-49b6f5aa0d96,hat.city,available,78,18,3,,,
-5f5d69cd-8d4f-4592-b16b-ed918b762b36,hate.city,available,86,18,4,,,
+0c1173eb-80dd-45c3-b6ab-49b6f5aa0d96,hat.city,available,78,19,3,,,
+5f5d69cd-8d4f-4592-b16b-ed918b762b36,hate.city,available,86,19,4,,,
 d9a50059-3280-4fd2-95d7-f906cf074f74,hater.city,available,62,6,5,,,
 33e0b031-e956-4743-9852-e30b0e3a4681,hatred.city,available,60,4,6,,,
 35b7c565-bf13-4502-a51a-fb671431baf2,hattrick.city,available,76,8,9,,,
-48aa6417-7101-41c1-8f54-6b6eb553dc47,havegot.city,available,70,1,8,,,
-9c86defa-1fbc-4a03-bc53-58b73e47d5bd,haven.city,resell,68,39,5,"Chengdu West Dimension Digital Technology Co., Ltd.",18/01/2023 15:15,18/01/2026 15:15
+48aa6417-7101-41c1-8f54-6b6eb553dc47,havegot.city,available,70,0,8,,,
+9c86defa-1fbc-4a03-bc53-58b73e47d5bd,haven.city,resell,68,38,5,"Chengdu West Dimension Digital Technology Co., Ltd.",18/01/2023 15:15,18/01/2026 15:15
 7aa080d0-aada-4f0e-adbe-8e72004fff40,haveonemoretime.city,available,62,1,18,,,
 44d3992b-ec50-4fd8-a155-ea8ae0cfafae,havesecondthoughts.city,available,64,1,20,,,
 78df42b4-854a-4f5f-9922-f6aedecefedd,havesex.city,available,70,3,8,,,
@@ -3667,7 +3662,7 @@ a3f687c6-8609-4607-9912-d12509a8f16f,hawaii.city,available,70,29,6,,,
 136b1662-4795-43f7-a34a-49f1ae3b3e52,hazard.city,available,58,10,6,,,
 328d5dd7-708e-4ca3-92a4-2411adb3dd90,HBO.city,available,76,12,3,,,
 2e6a6be2-a5b9-4b2a-858c-a0ced5bfc43b,head.city,resell,70,20,4,"DNSPod, Inc.",02/04/2020 16:42,02/04/2026 16:42
-ece8d20f-1971-4db0-914b-da1c35b4cfff,headline.city,available,92,14,8,,,
+ece8d20f-1971-4db0-914b-da1c35b4cfff,headline.city,available,92,13,8,,,
 f4a94da8-a52c-4e81-a2a0-a6434ec024af,headoverheels.city,available,84,5,15,,,
 23c95e55-e391-400d-8c0b-d9fb0fbb7ce9,heads.city,available,70,11,5,,,
 3412454c-ef64-49db-9657-2aa2271b3cad,headteacher.city,available,74,2,12,,,
@@ -3676,13 +3671,13 @@ f4a94da8-a52c-4e81-a2a0-a6434ec024af,headoverheels.city,available,84,5,15,,,
 cbf2378f-a488-4fb5-981e-f9064ecd3ca0,headup.city,available,80,4,7,,,
 8a0735da-82d9-41c2-a153-f019d5576f99,heal.city,resell,70,26,4,"Sav.com, LLC - 32",04/04/2025 15:15,04/04/2026 15:15
 f0271041-5afa-4fae-8680-c31710862856,healing.city,resell,82,25,7,"DNSPod, Inc.",30/08/2019 08:29,30/08/2026 08:29
-b17734d4-759a-4efc-ace2-6cd44c4323ff,healthcare.city,resell,76,28,10,"Chengdu West Dimension Digital Technology Co., Ltd.",19/12/2018 12:11,19/12/2029 12:11
+b17734d4-759a-4efc-ace2-6cd44c4323ff,healthcare.city,resell,76,27,10,"Chengdu West Dimension Digital Technology Co., Ltd.",19/12/2018 12:11,19/12/2029 12:11
 89d54218-55d9-4ccc-8d16-35ccd7a3a86a,healthy.city,resell,84,26,7,"Spaceship, Inc.",08/10/2014 16:00,08/10/2026 16:00
 f346f180-57db-4ecf-9914-cfd774f852bc,hearable.city,available,60,4,8,,,
 343a52e3-ff2e-430f-a7ad-b09891a2c60a,heartattack.city,available,62,5,12,,,
 db152235-a2ce-4ded-b077-7d648156cb70,heartburn.city,available,60,5,9,,,
-e445755f-5d35-4047-ad76-522b7968ee38,hearts.city,available,88,17,6,,,
-a7cc864f-f898-46aa-a779-1bade31eba98,heartthrob.city,available,76,3,10,,,
+e445755f-5d35-4047-ad76-522b7968ee38,hearts.city,available,88,16,6,,,
+a7cc864f-f898-46aa-a779-1bade31eba98,heartthrob.city,available,76,2,10,,,
 8127b641-7ad6-47bd-be79-6966a79e0d38,heat.city,resell,88,22,4,"Chengdu West Dimension Digital Technology Co., Ltd.",29/09/2023 15:15,29/09/2026 15:15
 07655023-2373-4c4e-829f-85af03550a51,heatup.city,available,76,4,7,,,
 31b8b81c-2f01-483f-bb1d-e61d4b53b231,heatwave.city,available,64,10,9,,,
@@ -3692,7 +3687,7 @@ e2930c16-c3fc-4bc1-b9ce-c8d6cfedd84f,heavyhearted.city,available,52,1,13,,,
 40c5dfe5-f8a8-48e0-a5fe-888f1017d4dd,heckno.city,available,72,1,7,,,
 9142344b-901a-47b5-87df-47a03c4fbf2f,hecksno.city,available,68,1,8,,,
 94643afe-e1b4-4d79-b4ea-78c235091057,heedful.city,available,66,1,7,,,
-164fef1e-edec-4f18-8917-4d63e14dd067,heel.city,available,64,8,4,,,
+164fef1e-edec-4f18-8917-4d63e14dd067,heel.city,available,64,9,4,,,
 7a2a0dfa-8090-4a10-99aa-7f8afacb3e82,hell.city,resell,56,27,4,"Chengdu West Dimension Digital Technology Co., Ltd.",22/09/2023 15:15,22/09/2026 15:15
 f02f2338-abe2-4811-b0ea-a4fa11f8dd36,hellish.city,available,46,3,7,,,
 f8f85751-8d39-44d4-ba8c-a47478b28013,hello.city,resell,130,36,5,"Spaceship, Inc.",14/10/2016 02:08,14/10/2026 02:08
@@ -3720,7 +3715,7 @@ f3416fdc-1427-44ac-9a36-54f12cd1fc34,highly.city,available,62,7,6,,,
 1c09b0d0-a4bf-4cbf-9e7a-47c38ef443e8,highquality.city,available,68,8,12,,,
 41e894ba-d48f-4f5b-9bf2-85401c2a4ece,highschool.city,available,72,13,10,,,
 7e9e1c52-6c8a-4836-9c40-f64e1bc26b65,hightide.city,available,69,13,9,,,
-16b430db-9f20-40ac-9b11-223989ba7e63,highway.city,available,68,18,7,,,
+16b430db-9f20-40ac-9b11-223989ba7e63,highway.city,available,68,17,7,,,
 f0fb26e8-251b-4895-8987-1390945291f5,him.city,available,74,20,3,,,
 9077d9af-3774-4d4e-9078-e67ebe002994,Himself.city,available,64,4,7,,,
 e9f76e57-943c-472c-97ca-7231f1abf7b9,hindend.city,available,38,1,8,,,
@@ -3739,7 +3734,7 @@ b5a80c97-57ab-41bd-b5c3-d9f2fc0496aa,hokey.city,available,52,3,5,,,
 a61c0fd3-5541-4380-858f-f070472bb047,holdoff.city,available,67,1,8,,,
 59fdf2b1-7f81-4146-9230-d1562730a623,holdopen.city,available,72,1,9,,,
 ca16af0c-9089-4da6-afbd-88c0a9f35c73,hole.city,available,60,18,4,,,
-66609af0-bfad-456f-8dc1-4efabb9aeaf4,holly.city,available,56,25,5,,,
+66609af0-bfad-456f-8dc1-4efabb9aeaf4,holly.city,available,56,24,5,,,
 f6db4681-9a21-4898-8a6c-3086f4f0761b,holycrap.city,available,52,3,9,,,
 2671dd79-7465-43ca-973e-90194b1814dc,home.city,resell,100,40,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/08/2015 16:00,05/08/2027 16:00
 66007db5-9c9f-4bff-8bdb-3575c8fd6ad0,homoecious.city,available,48,1,10,,,
@@ -3751,7 +3746,7 @@ d13cecc2-945e-4e69-a486-4d156e853844,hooked.city,available,60,12,6,,,
 d0b92dcf-43c4-402c-b44c-bd879ff9f19a,hopefully.city,available,70,4,9,,,
 1b1a310f-41f9-4e1a-a148-4a658739afa6,horseback.city,available,80,2,9,,,
 93b2549d-3b7e-476f-a88a-bc0f25289c15,hospital.city,resell,58,18,8,"Spaceship, Inc.",02/09/2018 07:54,02/09/2026 07:54
-e372a70e-1bc4-4fb7-95e4-a5346edd19f8,hotel.city,resell,70,38,5,"Spaceship, Inc.",09/10/2017 23:01,09/10/2026 23:01
+e372a70e-1bc4-4fb7-95e4-a5346edd19f8,hotel.city,resell,70,37,5,"Spaceship, Inc.",09/10/2017 23:01,09/10/2026 23:01
 aecac419-0e62-4646-b87b-699d001ccb21,hotshot.city,available,112,12,7,,,
 e1adc5c2-b9af-4ecb-9ac0-91ff955c2311,hotticket.city,available,76,3,10,,,
 34ab7942-fa74-4a5d-be38-6d1a9af7565f,hourly.city,available,96,12,6,,,
@@ -3821,7 +3816,7 @@ b002daee-93de-4cf7-9887-1c8b244e39b4,Ilikepie.city,available,54,2,10,,,
 ce5e2975-d221-44d0-88db-4c7b5fab9b27,ilxx.city,available,48,1,4,,,
 e003cb67-2b77-47b9-8e51-8208d2a9543e,ilxxx.city,available,48,1,5,,,
 aa2ad02a-6157-4adb-a33c-06508e6e12ff,imaginable.city,available,69,3,10,,,
-a0501a55-dd06-41f1-922b-f72f669db60c,imagine.city,resell,100,39,7,"Chengdu West Dimension Digital Technology Co., Ltd.",04/02/2024 15:15,04/02/2026 15:15
+a0501a55-dd06-41f1-922b-f72f669db60c,imagine.city,resell,100,38,7,"Chengdu West Dimension Digital Technology Co., Ltd.",04/02/2024 15:15,04/02/2026 15:15
 183a9722-1f6c-4eb5-904e-c877585dea2d,immediate.city,available,72,10,9,,,
 74572527-b946-4208-b8e0-cbc53e8cd14d,immense.city,available,90,7,7,,,
 a3766f0a-2d05-4521-afa8-9a1a8449fa72,impact.city,available,92,24,6,,,
@@ -3968,7 +3963,7 @@ af754f40-2669-41cd-b511-e1ca6770b1f7,internationally.city,available,66,2,15,,,
 b7b1546b-923c-4883-985b-d0bdb16aca19,interpret.city,available,75,10,9,,,
 b61c8531-4ba5-4fde-bb1a-ac5a3a1b1a26,interstate.city,available,90,8,10,,,
 28dc959e-efa3-437f-b88c-a65d6b2a6024,intervening.city,available,60,1,11,,,
-be30ed6c-b438-45fc-a5e0-387dab04a768,interview.city,available,92,26,9,,,
+be30ed6c-b438-45fc-a5e0-387dab04a768,interview.city,available,92,25,9,,,
 0c0c10e1-0101-4810-bf2c-ca6173cea84b,interviewee.city,available,64,2,11,,,
 653cebc5-36d5-4888-9331-fe33b3d150dd,inthat.city,available,60,1,7,,,
 41e9722d-fb0e-4605-a1d1-32fe1713e5f4,inthecan.city,available,46,2,10,,,
@@ -4031,7 +4026,7 @@ d390073d-447f-4975-920e-81232ea099f1,itchy.city,available,58,6,5,,,
 2ec4ca0b-a149-47cd-8066-064d9c341edf,Iwouldratherdie.city,available,48,1,18,,,
 df3a6f13-4dd6-412c-a7be-5b9e14150c9a,ixc.city,available,52,6,3,,,
 85c5dbcb-97c7-4c37-bbab-ff19c7095792,ixl.city,available,52,9,3,,,
-70bf6f47-687d-435f-a990-268abbfd1208,jack.city,resell,86,39,4,"DNSPod, Inc.",31/01/2019 00:12,31/01/2026 00:12
+70bf6f47-687d-435f-a990-268abbfd1208,jack.city,resell,86,38,4,"DNSPod, Inc.",31/01/2019 00:12,31/01/2026 00:12
 99135917-6b00-4d5b-ab2b-bceb5d6a5e5b,jacks.city,available,54,16,5,,,
 5f17eca9-df58-40af-9d5f-935e4b02f810,jacobs.city,available,70,23,6,,,
 4f33535b-137f-40c3-a089-fa990a8d80d5,jamesbond.city,available,88,9,10,,,
@@ -4093,7 +4088,7 @@ a99dead1-8389-4db4-bfac-6e658bd6e06f,keepon.city,available,76,11,7,,,
 10cbb965-9c7c-4d83-b504-e930f789ec88,keister.city,available,34,2,7,,,
 ba748192-200c-47c7-afa2-913a1b3a6e7b,kept.city,available,66,12,4,,,
 521091e1-af37-4ef8-b8c5-895397ff132a,key.city,resell,80,36,3,"Spaceship, Inc.",21/11/2017 00:00,21/11/2026 00:00
-7a2586b8-3b8f-4daa-9856-95972bdee524,kgb.city,available,74,11,3,,,
+7a2586b8-3b8f-4daa-9856-95972bdee524,kgb.city,available,74,10,3,,,
 3b3fc1a4-9e41-4df3-be16-eb4ed0cad883,khakis.city,available,74,2,6,,,
 d382f8a2-e225-44e3-b816-8dc683e402ee,kick.city,resell,98,23,4,Automattic Inc.,23/04/2023 15:15,23/04/2026 15:15
 bb39c8cc-865a-436f-9dae-70cbb8fc1e7b,kicking.city,available,78,4,7,,,
@@ -4119,7 +4114,7 @@ a1e76e27-4de1-4400-8938-93c32a265196,kneedeep.city,available,54,3,9,,,
 f1e86267-bba6-4a55-9663-8fabd6cc9601,knock.city,available,66,11,5,,,
 9986f7d3-e874-4605-8177-4ec8f6e37653,knockitoff.city,available,86,2,12,,,
 1f6b4718-e3d5-4c48-a33b-a43fd37f6f86,knotty.city,available,52,6,6,,,
-aa17ab05-18c8-43e9-a534-740924b63d96,know.city,resell,116,32,4,Dynadot Inc,06/03/2025 17:00,06/03/2026 17:00
+aa17ab05-18c8-43e9-a534-740924b63d96,know.city,resell,116,31,4,Dynadot Inc,06/03/2025 17:00,06/03/2026 17:00
 38f63652-2127-4e6c-be59-de7257d65b8e,knowing.city,available,94,10,7,,,
 27639430-862f-46cd-ab9f-66e7ddcc2106,knowledgeable.city,available,86,5,13,,,
 4a6fb09e-83bb-4464-ad54-2759bfef1d20,kooky.city,available,74,8,5,,,
@@ -4129,7 +4124,7 @@ d29bd3fa-50e0-4283-b274-ef35c46db60d,labor.city,available,64,21,5,,,
 f921e308-e679-4834-93f9-aa2021ad9010,laborday.city,available,68,3,9,,,
 5a4668aa-c329-4be8-acca-8bdc9bfbcbba,laborer.city,available,66,2,7,,,
 c830ad01-10f1-429c-ad67-bb04af00653c,laborious.city,available,50,1,9,,,
-46dd1166-f823-4709-9316-eadf816d7464,labour.city,available,62,11,6,,,
+46dd1166-f823-4709-9316-eadf816d7464,labour.city,available,62,10,6,,,
 76346762-4816-4524-9031-791c9b9e8d5a,lacking.city,available,82,5,7,,,
 2032681e-1f29-4b5a-81e8-25f38f1ee0be,lady.city,resell,92,15,4,"DNSPod, Inc.",27/01/2018 03:44,27/01/2026 03:44
 13e4c5c4-ad6a-4d31-bb9a-ca0b3d625910,lafayette.city,available,60,19,9,,,
@@ -4172,7 +4167,7 @@ aec97f1b-10d2-49df-bdec-2ace2348b3a6,lazuline.city,available,46,3,8,,,
 98d4698a-ec26-4cfd-a1cc-b660235e94fd,lcd.city,available,76,10,3,,,
 14aab9c5-a73c-4601-9de9-81c136ef4217,lead.city,resell,112,31,4,"DNSPod, Inc.",07/05/2018 23:20,07/05/2026 23:20
 af7e7f20-a4b3-4111-8189-0c93cc643a55,leaders.city,resell,80,24,7,"Sav.com, LLC",28/11/2024 17:08,28/11/2026 17:08
-08ff3d42-5176-4f83-a26a-9b218b62daec,leaf.city,resell,92,32,4,"DNSPod, Inc.",22/02/2023 15:15,22/02/2026 15:15
+08ff3d42-5176-4f83-a26a-9b218b62daec,leaf.city,resell,92,31,4,"DNSPod, Inc.",22/02/2023 15:15,22/02/2026 15:15
 4bf43edf-0877-42dd-ba8d-cbc1ffc470d8,league.city,resell,68,24,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/11/2025 15:15,01/11/2026 15:15
 5ac5c4d3-4ae2-46bb-821c-6a751bf340b3,leaning.city,available,58,5,7,,,
 14690e66-2969-4e56-b518-84744a66a5a0,learned.city,available,71,6,7,,,
@@ -4236,7 +4231,7 @@ ac8d8467-89b4-41b5-9f02-be170d70e7ee,liable.city,available,70,4,6,,,
 34916dd6-048f-4e89-960b-e3e950570815,lie.city,available,66,13,3,,,
 6a4dfa86-e182-451b-bd64-fdcd01948f77,lifelesson.city,available,76,3,11,,,
 44e45782-4eb0-432f-ba0e-2e5596456f3a,lifeprotip.city,available,78,1,12,,,
-d31b7008-a92a-42d3-8689-56379712ccc2,lightbulb.city,available,70,16,10,,,
+d31b7008-a92a-42d3-8689-56379712ccc2,lightbulb.city,available,70,15,10,,,
 fa0e886f-8ef5-4703-a0bf-ff6e9575bda2,lighten.city,available,84,7,7,,,
 5597545b-1192-4868-aa72-3debe2d6d161,lightly.city,available,64,5,7,,,
 3c0d39c6-6593-4709-985a-9497773f2af7,lightningstrike.city,available,64,4,16,,,
@@ -4247,14 +4242,14 @@ fa0e886f-8ef5-4703-a0bf-ff6e9575bda2,lighten.city,available,84,7,7,,,
 79b436f3-ecbd-47d7-8d2b-5de1fc0490bc,likely.city,available,72,9,6,,,
 c0917f6e-4e10-4aef-adc0-9a3e56187f82,likewise.city,available,60,8,8,,,
 4028d826-ca9c-47b1-88c3-30e25fdb704b,limestone.city,available,64,11,9,,,
-2908e3b8-100e-4d31-975b-2426564de825,limit.city,resell,108,16,5,"DNSPod, Inc.",15/07/2024 17:00,15/07/2026 17:00
+2908e3b8-100e-4d31-975b-2426564de825,limit.city,resell,108,15,5,"DNSPod, Inc.",15/07/2024 17:00,15/07/2026 17:00
 916e49f8-9f0f-4823-8b70-9e4b8931af75,limitation.city,available,56,3,10,,,
 2f30ee81-6b61-49aa-9c28-9d75dbae5b1a,limited.city,available,82,15,7,,,
 85386270-9b33-430a-aec6-bab38849c29d,limiting.city,available,65,1,8,,,
-446f72ea-1558-4cec-b82b-074b5435ff32,lindsay.city,available,70,15,7,,,
+446f72ea-1558-4cec-b82b-074b5435ff32,lindsay.city,available,70,14,7,,,
 baae505c-2cac-4aaa-b074-143319ad3c63,line.city,available,74,20,4,,,
 6689d56c-cbe6-4857-9aa5-f756664331c6,link.city,resell,68,42,4,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,30/10/2025 15:16,30/10/2026 15:16
-cada3bc7-bf36-47ea-907c-d2c2264ce75e,links.city,resell,70,33,5,"Spaceship, Inc.",27/05/2024 17:00,27/05/2026 17:00
+cada3bc7-bf36-47ea-907c-d2c2264ce75e,links.city,resell,70,31,5,"Spaceship, Inc.",27/05/2024 17:00,27/05/2026 17:00
 34a41117-a3fb-4ac0-b5f5-ada40c8b69d7,Lions.city,resell,72,17,5,"GoDaddy.com, LLC",30/04/2025 05:14,30/04/2026 05:14
 4687cca9-a665-40cd-9d0d-76244f543f40,liquor.city,resell,92,18,6,"GoDaddy.com, LLC",25/04/2021 14:36,25/04/2026 14:36
 f8870f72-24e9-420c-8a1a-d950a397d8a3,listed.city,available,64,12,6,,,
@@ -4291,7 +4286,7 @@ d4b357a4-cce3-40ac-b33f-a0450f23396c,longitude.city,available,66,10,9,,,
 2fe411dd-0fb2-4647-b432-0532a09111e7,lookout.city,available,74,14,7,,,
 5e7e1629-befa-4f92-b618-6b7cc451571d,lookup.city,available,82,29,7,,,
 339c7d0c-9595-42de-b01f-b8612377078c,loony.city,available,74,5,5,,,
-a2c07566-1d65-407f-bc1b-eb33547f94b4,loop.city,available,72,26,4,,,
+a2c07566-1d65-407f-bc1b-eb33547f94b4,loop.city,available,72,25,4,,,
 e5abfbfc-5a71-4e01-9f5d-dd9639d9630b,loopy.city,available,52,13,5,,,
 30e1a63a-a55c-44ef-9ede-358caf21abbc,loose.city,available,44,10,5,,,
 57e4c6b0-9ef6-43a7-b759-eef0c7f50206,loosely.city,available,60,2,7,,,
@@ -4327,7 +4322,7 @@ f2f361a6-2ab8-4dc2-b684-84c30b801c1a,lucky.city,resell,76,36,5,"GoDaddy.com, LLC
 cc0e1e70-5815-4fbb-95af-2169705ebf43,lucrative.city,available,70,5,9,,,
 37f1845b-4db0-438d-9d7b-ec4cef3a18b3,luggage.city,available,74,12,7,,,
 53349e03-0727-4333-bd52-08b198518023,lunar.city,resell,86,34,5,IONOS SE,08/10/2014 16:00,08/10/2026 16:00
-4e1b1b95-661a-45af-b60c-b6cbdf6b447f,luncheon.city,available,96,3,8,,,
+4e1b1b95-661a-45af-b60c-b6cbdf6b447f,luncheon.city,available,96,2,8,,,
 546cc8a2-d162-4275-af7a-cdc206dbf563,luncheonmeat.city,available,74,1,13,,,
 6f947ac7-be43-4719-ace6-42e7ec41d640,lunchmeat.city,available,74,2,10,,,
 496446c3-dc0c-46cc-a447-ef6b4f0e7834,lush.city,available,48,13,4,,,
@@ -4400,7 +4395,7 @@ f2cac624-2fba-48a2-88a8-abe7b82157af,making.city,resell,76,16,6,Dynadot Inc,26/0
 1c2e33ed-b083-41ae-be4e-79a25007d02b,malealpha.city,available,68,1,10,,,
 060b029f-cfdc-46d5-ac21-2f74de5729db,maledict.city,available,56,2,8,,,
 1c0c9d18-e0fe-4f88-b462-971514c72a8b,mall.city,resell,100,27,4,"Spaceship, Inc.",12/10/2017 22:57,12/10/2026 22:57
-0c0aaa74-8f71-4f9e-9598-82351dd6b80e,manage.city,available,92,35,6,,,
+0c0aaa74-8f71-4f9e-9598-82351dd6b80e,manage.city,available,92,34,6,,,
 9ac308b4-6d92-4396-997c-4e153104c52c,manageable.city,available,74,5,10,,,
 78dd3101-c82e-4001-8d7a-44ef372944e6,management.city,resell,76,24,10,"DNSPod, Inc.",25/08/2022 13:15,25/08/2026 13:15
 f3744152-ff4f-4619-89d6-147fa61e6f2b,managing.city,available,70,9,8,,,
@@ -4413,12 +4408,13 @@ cb65b341-c61c-4b0f-bc36-d2d0b3c367fb,manya.city,available,54,5,6,,,
 061f9d5b-2907-4500-bd88-6fa623d3d129,mao.city,available,58,19,3,,,
 8e88ad93-538b-4f7a-8735-b414329797b1,map.city,resell,78,36,3,Dynadot Inc,05/08/2015 16:00,05/08/2026 16:00
 74287bad-3da4-4135-a25f-9801bb1a68c4,marble.city,resell,64,28,6,"DNSPod, Inc.",26/06/2018 21:13,26/06/2026 21:13
-47f96b72-eead-40dd-a2c6-d943633c35c7,march.city,available,70,11,5,,,
+47f96b72-eead-40dd-a2c6-d943633c35c7,march.city,available,70,12,5,,,
 6ff7115e-8771-4bf9-8841-b70451c7f014,marchon.city,available,68,6,8,,,
-6229fb73-9a25-4dba-8a3e-388e857c287d,marihuana.city,available,67,11,9,,,
+6229fb73-9a25-4dba-8a3e-388e857c287d,marihuana.city,available,67,10,9,,,
 baa44f6a-7e3c-4102-a135-85cc5d5ed16f,marine.city,resell,88,25,6,"DNSPod, Inc.",21/01/2017 10:11,21/01/2026 10:11
 a219e902-a414-4a78-8dcf-6fc0d5c18f81,marines.city,available,82,8,7,,,
 f69eb94f-a351-4a71-a438-da7e19430446,marked.city,available,70,9,6,,,
+39400e17-0574-499f-b800-06e51436b19e,market.city,resell,74,37,6,"Spaceship, Inc.",02/08/2015 16:00,02/08/2026 16:00
 d167e531-df6a-4e90-a863-f301b7bea557,marks.city,available,66,20,5,,,
 fb498e75-e60d-4e6d-a6f3-22a0e3a9f31d,marktwain.city,available,82,4,10,,,
 295e2e70-cb1f-466f-8f1f-44ee56152741,marooned.city,available,50,2,8,,,
@@ -4476,10 +4472,10 @@ bca873e6-07da-4adb-aeb2-d39cd7e8b031,mediocre.city,available,74,13,8,,,
 ca49b5ae-6ef6-4289-b0a7-5fcf1a0786e6,melancholy.city,available,76,5,10,,,
 d2707523-8fb0-4fce-b6ba-504f86c32ef8,memorise.city,available,80,4,8,,,
 ce080f20-5815-42f6-b94d-eccbc7bc0d5b,memorize.city,available,82,8,8,,,
-60c03e6f-83d8-45be-ad40-0587a3119b31,memory.city,resell,74,37,6,"DNSPod, Inc.",02/04/2024 15:15,02/04/2026 15:15
+60c03e6f-83d8-45be-ad40-0587a3119b31,memory.city,resell,74,36,6,"DNSPod, Inc.",02/04/2024 15:15,02/04/2026 15:15
 1af3e62f-5216-489e-bc4e-34e6b1f47093,mental.city,resell,86,20,6,"Spaceship, Inc.",13/01/2025 21:53,13/01/2026 21:53
 9099ee7f-b056-4c43-84bd-4264bfdd4179,mentallyill.city,available,52,1,12,,,
-8afde4d1-a061-4d17-a17f-560db7774bf9,mention.city,available,88,12,7,,,
+8afde4d1-a061-4d17-a17f-560db7774bf9,mention.city,available,88,11,7,,,
 4e0810aa-a597-4598-a1ac-2b119b40a0d6,menu.city,resell,70,30,4,"DNSPod, Inc.",11/07/2024 17:00,11/07/2026 17:00
 864a5426-ab00-4557-aef8-3c6c792913ca,mere.city,available,68,9,4,,,
 8d0961f5-75a6-475a-ba4f-2cbfc83f2aca,merely.city,available,60,4,6,,,
@@ -4601,7 +4597,7 @@ c72a513e-da12-42f4-aa01-23348c79d28a,moveback.city,available,70,1,9,,,
 3fb0d8e3-4ceb-49fa-83cc-1c00e7e5aef4,moved.city,available,72,8,5,,,
 eed56678-c091-44d3-b8ed-60c7a05cf8ef,moveinto.city,available,75,1,9,,,
 667d96cd-8d64-4a8d-8ea8-317296665ac7,moveover.city,available,68,2,9,,,
-9bcea421-c8c0-4dd2-ae25-6b40f0d2c3a3,movie.city,available,86,29,5,,,
+9bcea421-c8c0-4dd2-ae25-6b40f0d2c3a3,movie.city,available,86,28,5,,,
 14298809-d577-46c6-a38d-00d0a758be43,moviefilm.city,available,70,2,10,,,
 ec5ad7a9-cc50-4426-a709-101aed032d6d,moving.city,resell,90,22,6,"Sav.com, LLC - 47",18/03/2025 15:15,18/03/2026 15:15
 c92af94b-fea7-44ef-94c8-c228641f4463,much.city,available,76,14,4,,,
@@ -4620,7 +4616,7 @@ a466ad72-c154-480a-82f3-81efb5638242,mum.city,available,76,14,3,,,
 8c1b3e40-c56b-4c6e-98a7-27fd3803e479,mumbojumbo.city,available,,5,11,,,
 8d9a8793-f0ed-4519-84ac-d7955c4a336d,murder.city,available,82,12,6,,,
 418e7869-1ab9-4785-aff3-01a79f16de7e,mushy.city,available,54,7,5,,,
-88d29d8b-1ff8-40c3-a116-2c63311192d8,music.city,resell,84,46,5,"Chengdu West Dimension Digital Technology Co., Ltd.",30/10/2025 15:15,30/10/2026 15:15
+88d29d8b-1ff8-40c3-a116-2c63311192d8,music.city,resell,84,44,5,"Chengdu West Dimension Digital Technology Co., Ltd.",30/10/2025 15:15,30/10/2026 15:15
 3ac320f6-8261-478c-87e5-f8f079ac0117,musical.city,available,98,14,7,,,
 a5ac8767-2dfc-493d-bc05-9d6f5b14d1aa,musiccenter.city,available,72,3,12,,,
 368a8170-6d60-42b3-96d4-55ae8bf197dc,musiccentre.city,available,72,1,12,,,
@@ -4640,10 +4636,10 @@ e2d9320c-7efc-4097-b479-4dbb028a6749,naked.city,available,60,24,5,,,
 d60b6b61-0cc3-4963-be01-300a0f7f305a,namely.city,available,58,6,6,,,
 281a7b11-1440-4c2d-ae06-140e7c6a7218,namenames.city,available,,1,10,,,
 f48b200e-abb9-4ba9-896e-2dba6a3b8dea,naming.city,available,92,9,6,,,
-3c21edc8-c1d2-4332-8ac2-5b5deb25fff1,nan.city,available,88,18,3,,,
+3c21edc8-c1d2-4332-8ac2-5b5deb25fff1,nan.city,available,88,19,3,,,
 91ce08a2-a27a-407c-93b7-7ee2f652f619,NASAsupported.city,available,,1,14,,,
 11f2c25e-e043-4bf7-9af5-6b6beea93c3a,nash.city,available,74,26,4,,,
-49b61e25-809f-443a-b44f-1c7b331835b2,nashville.city,resell,86,23,9,"GoDaddy.com, LLC",17/10/2019 10:32,17/10/2026 10:32
+49b61e25-809f-443a-b44f-1c7b331835b2,nashville.city,resell,86,22,9,"GoDaddy.com, LLC",17/10/2019 10:32,17/10/2026 10:32
 8a3efe7a-2c8f-40c1-b5d4-bd69665cd3ae,nates.city,available,42,9,5,,,
 4c35b7d8-8b77-4107-a48c-a00b1c285ae7,nation.city,resell,78,22,6,"DNSPod, Inc.",24/10/2018 09:20,24/10/2026 09:20
 6534d527-91c1-4e20-8f4f-b2e33eab9c8c,nationalanthem.city,available,82,2,15,,,
@@ -4680,8 +4676,8 @@ a0f79420-31cb-4295-b34c-2eaf2a667c9c,nervous.city,available,64,8,7,,,
 c2e9333e-61ab-4c92-ae91-b3ad8e4b375f,Netherlands.city,available,,4,11,,,
 ddebdee3-9fed-4842-b7fe-322a757fe0ae,nettled.city,available,45,1,7,,,
 13009492-8873-4f55-965a-816e47e09e91,nettlesome.city,available,41,1,10,,,
-26f6a0a8-960f-4342-be25-af4883dc9287,network.city,resell,90,39,7,"Chengdu West Dimension Digital Technology Co., Ltd.",07/08/2015 04:35,07/08/2026 04:35
-ae77fe7f-ef1f-4d1a-88aa-d04e1dfbbd8e,neutrality.city,available,68,5,10,,,
+26f6a0a8-960f-4342-be25-af4883dc9287,network.city,resell,90,38,7,"Chengdu West Dimension Digital Technology Co., Ltd.",07/08/2015 04:35,07/08/2026 04:35
+ae77fe7f-ef1f-4d1a-88aa-d04e1dfbbd8e,neutrality.city,available,68,4,10,,,
 d3208fec-3a8d-49d9-b83d-ab4458293048,news.city,resell,100,56,4,"Global Domains International, Inc. DBA DomainCostClub.com",05/08/2015 16:00,05/08/2027 16:00
 d9bb4c42-4721-4ac1-a274-e95e76cb9825,newsgroup.city,available,64,4,9,,,
 eaac12b4-6422-4d43-9c31-dfd7b4c04718,newsmedia.city,available,70,8,10,,,
@@ -4824,7 +4820,7 @@ ed60ba21-9365-4534-97d7-4c90a83616a7,offstage.city,available,90,8,8,,,
 bdaaa9da-6107-4f32-82d5-9f2c2382e697,oflate.city,available,62,1,7,,,
 efa8283b-896f-411b-994f-695538c401a1,often.city,available,86,9,5,,,
 72b2e913-b1c3-4d53-aef4-445fe1017d1c,ogdoad.city,available,50,2,6,,,
-ab159836-db3c-4871-a9e9-e7c2e1932edb,ohio.city,resell,70,24,4,"GoDaddy.com, LLC",16/10/2016 17:38,16/10/2027 17:38
+ab159836-db3c-4871-a9e9-e7c2e1932edb,ohio.city,resell,70,22,4,"GoDaddy.com, LLC",16/10/2016 17:38,16/10/2027 17:38
 de3e44bf-a1a4-4545-a7cd-93513068d292,ohmyfuck.city,available,64,1,10,,,
 f31b6f04-5dab-4ed0-9695-2814adcea3df,ohmyGod.city,available,80,8,9,,,
 36db2e84-0164-4556-9e4a-cf04e56bf4e2,ohmygosh.city,available,78,5,8,,,
@@ -4972,7 +4968,7 @@ ace57cac-a4d8-429c-b981-f82effeee984,Panasonic.city,available,70,11,9,,,
 9953d374-e6cc-4f31-a5c8-85de8a15dc47,pancreas.city,available,60,6,8,,,
 7a2a49c3-04b8-421e-bcb1-935f796c53db,panda.city,resell,88,37,5,"Chengdu West Dimension Digital Technology Co., Ltd.",23/11/2017 21:58,23/11/2025 21:58
 a677a296-7dc2-4505-a3fc-f615bb6f86e6,pandabear.city,available,80,3,10,,,
-a3606315-c1a4-4dbc-ab21-e873fed7f656,panel.city,resell,90,26,5,"Sav.com, LLC - 39",13/09/2025 15:15,13/09/2026 15:15
+a3606315-c1a4-4dbc-ab21-e873fed7f656,panel.city,resell,90,25,5,"Sav.com, LLC - 39",13/09/2025 15:15,13/09/2026 15:15
 04ac27a1-c3a1-4c22-9886-d5afe35327c1,Panes.city,available,68,3,5,,,
 94df3357-df1c-4ace-a906-8c3237b66d11,panic.city,available,53,17,5,,,
 2e8b390b-bf6f-4808-9795-2eba723b143b,panoplied.city,available,50,1,9,,,
@@ -5073,7 +5069,7 @@ a9670d43-bd55-480e-ab3b-e7552487d30f,philip.city,available,72,18,6,,,
 eed2a571-a4ac-454c-939c-1c64b11d5b04,Philippines.city,available,,5,11,,,
 6e683fa6-1d33-4779-9d4c-131a1b3c71cc,philistine.city,available,56,3,10,,,
 bcc5a124-d96a-4870-834b-48e4c73ee1c5,phoebe.city,available,41,14,6,,,
-a7dd2792-5915-4be4-aa90-2f8c762cdcfc,phone.city,available,102,34,5,,,
+a7dd2792-5915-4be4-aa90-2f8c762cdcfc,phone.city,available,102,33,5,,,
 1fc1ed78-f701-46ef-9881-7dee233bdebc,phonecall.city,available,72,5,10,,,
 d1c9a286-830a-4ac5-af6a-aa5613e6eea7,phonesurvey.city,available,66,1,12,,,
 f4177f1a-aa03-43fd-a80c-98fb6fd7e0b6,phoney.city,available,79,3,6,,,
@@ -5090,7 +5086,7 @@ ffd5fdfc-61a9-4a6d-93b7-9b5d8f1ebc0c,pickuptruck.city,available,58,3,13,,,
 119b5be8-f6fa-4077-9852-e768398d93bb,pilot.city,resell,114,29,5,Dynadot Inc,05/03/2025 17:00,05/03/2026 17:00
 04f75365-8c75-45df-bf97-7c6c49734884,pimpled.city,available,41,1,7,,,
 5a85db3e-1f6f-48e2-8f4f-87c24642b2a4,pimply.city,available,41,1,6,,,
-93b0e322-00c7-4806-8dd5-85260a2dec5a,pin.city,available,74,28,3,,,
+93b0e322-00c7-4806-8dd5-85260a2dec5a,pin.city,available,74,27,3,,,
 bce5fe17-2e01-4eaf-bcea-bfe2f266ae40,pinch.city,available,98,12,5,,,
 a541ae3e-45ca-468b-b7bb-1f36ab1b52f2,pinging.city,available,70,2,7,,,
 458e3ea2-a021-4e64-b380-92f8733c6784,pinkelephant.city,available,64,8,13,,,
@@ -5123,7 +5119,7 @@ fbf5d9fe-a1b4-4253-9017-f1bbca0d6a95,planless.city,available,50,2,8,,,
 ee3c5d28-2e63-4370-8485-e177b7aa404b,planning.city,resell,70,22,8,"Sav.com, LLC - 13",30/05/2025 15:15,30/05/2026 15:15
 761984e4-7e7e-4a23-a99f-2384f0457df1,plantcommunity.city,available,70,2,15,,,
 b57ddf76-5146-41ea-8431-837a2911db2e,plate.city,available,66,15,5,,,
-501d01bf-79dc-40e0-93de-8713bf0dda8b,platform.city,resell,92,44,8,"DNSPod, Inc.",17/11/2019 07:32,17/11/2026 07:32
+501d01bf-79dc-40e0-93de-8713bf0dda8b,platform.city,resell,92,43,8,"DNSPod, Inc.",17/11/2019 07:32,17/11/2026 07:32
 fa1bd534-5caf-46bc-a5cd-b4e8a034c130,platter.city,available,68,7,7,,,
 e871fd08-27d0-4a0b-ad16-c829bba951fe,plausive.city,available,46,1,8,,,
 b6359c54-06cc-4d4e-b7b5-491f65eb936d,playabout.city,available,,2,10,,,
@@ -5155,7 +5151,7 @@ b74e5c1d-8bbe-457f-8311-198c7d50a559,pointout.city,available,,3,9,,,
 d06ea303-8690-4b1e-8254-6dcb32dd535f,pointy.city,available,84,7,6,,,
 fb927f20-c924-408d-b999-9783f3e599c3,poisoning.city,available,56,1,9,,,
 73baaafd-e47e-437f-a551-215754a733dd,pokeabout.city,available,,1,10,,,
-ab0ddc03-fdcc-4219-931c-7f73d5e7b12f,poker.city,resell,100,36,5,"Spaceship, Inc.",21/10/2019 09:39,21/10/2026 09:39
+ab0ddc03-fdcc-4219-931c-7f73d5e7b12f,poker.city,resell,100,35,5,"Spaceship, Inc.",21/10/2019 09:39,21/10/2026 09:39
 189c68d9-dba7-48d7-b3da-cf3a2b7b86c6,police.city,resell,96,20,6,"Spaceship, Inc.",08/08/2018 10:25,08/08/2026 10:25
 3825417a-9c9b-4915-8765-491111630c25,policeofficer.city,available,70,3,14,,,
 d68cf6cd-91ad-4fe4-9423-78674365d981,policymaker.city,available,76,2,12,,,
@@ -5186,7 +5182,7 @@ dc0c61d9-262b-4609-8e20-1bc35d6d3cca,portuguese.city,available,92,7,10,,,
 62fad98b-ee98-4c19-aaeb-f75e60dbd4e8,possible.city,available,90,20,8,,,
 846eef78-510c-49de-989d-0ce3116886c4,possibly.city,available,62,5,8,,,
 72b783b8-4d79-4a8a-b707-67c9b245d19d,postaladdress.city,available,66,2,14,,,
-37b66030-5a86-4b68-899e-f73f1f1ebd8c,poster.city,resell,92,21,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/04/2017 10:30,27/04/2026 10:30
+37b66030-5a86-4b68-899e-f73f1f1ebd8c,poster.city,resell,92,20,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/04/2017 10:30,27/04/2026 10:30
 9176e6aa-387e-41b6-9d08-a19a0cd02eff,posterior.city,available,56,2,9,,,
 64361087-e5ad-49d7-b04d-01e300ee66dd,posting.city,available,72,14,7,,,
 11f178eb-987d-456b-afbf-d90df8caf00c,pot.city,resell,102,17,3,"GoDaddy.com, LLC",18/10/2017 04:17,18/10/2026 04:17
@@ -5203,6 +5199,7 @@ cb15cc0f-eebc-4b81-8b3a-23acd2f689a1,potbellied.city,available,56,1,10,,,
 bd628c56-e98f-493c-9dfa-dda1d1419adf,practicalnurse.city,available,76,1,15,,,
 33909333-aac4-4028-96a6-938186d11da7,practiced.city,available,70,2,9,,,
 f9075330-041c-4b13-b553-4a539090de6f,practicing.city,available,82,4,10,,,
+b770f6b2-9fbd-4bc8-9b83-5ee9b7af2d40,praise.city,resell,108,15,6,"DNSPod, Inc.",12/12/2020 17:26,12/12/2026 17:26
 b0b87f68-0993-4059-bd0a-ee4aa9ea6e2e,prank.city,available,106,11,5,,,
 d60b4007-dd0b-4eaa-855c-f115f422374f,prat.city,available,56,6,4,,,
 2a79c994-40c5-4d21-b8b1-a81b78efa921,pratabout.city,available,,1,10,,,
@@ -5328,7 +5325,7 @@ c7f30103-0398-4f26-b43c-1e5e5044c9a7,provisions.city,available,70,8,10,,,
 0d78ac2e-1489-4629-ae41-0f86099d5b80,provoking.city,available,74,2,9,,,
 6c0b2981-83b7-4ac5-83c6-9a2ae8ca6bec,prudent.city,available,75,7,7,,,
 767afcf6-7b4e-48b7-bc8f-4976e1add466,psyche.city,available,68,18,6,,,
-620485eb-9c00-49f0-a79a-f0d91c0a8b90,pub.city,resell,94,27,3,"Sav.com, LLC",23/03/2020 05:12,23/03/2026 05:12
+620485eb-9c00-49f0-a79a-f0d91c0a8b90,pub.city,resell,94,26,3,"Sav.com, LLC",23/03/2020 05:12,23/03/2026 05:12
 e9dd6af5-f8fc-4927-a012-022e765b002c,public.city,resell,100,29,6,"Spaceship, Inc.",02/02/2020 18:01,02/02/2026 18:01
 5ac65fbc-591b-4c9b-a777-d2b4ec344ff2,publication.city,available,,9,11,,,
 ee2e3d92-9eb8-4b07-ae03-3ee325f0d2be,publicised.city,available,67,1,10,,,
@@ -5368,7 +5365,7 @@ fa112555-ebba-4359-ab80-321178816aca,putinaword.city,available,,1,13,,,
 3d2e1ace-50f2-4c43-a33e-b1dbc182bf67,putup.city,available,78,2,6,,,
 40f0088a-db92-4e7f-bf6a-7bb324b91edf,puzzled.city,available,64,7,7,,,
 a6a4842d-a7ed-4344-9314-8b38d218d5bb,pyjamaparty.city,available,82,1,12,,,
-248e14ea-0a5a-4900-918a-a2b4105c2519,pyramid.city,resell,76,27,7,"DNSPod, Inc.",26/06/2024 17:00,26/06/2026 17:00
+248e14ea-0a5a-4900-918a-a2b4105c2519,pyramid.city,resell,76,26,7,"DNSPod, Inc.",26/06/2024 17:00,26/06/2026 17:00
 91aafe7b-3405-44e0-9dfe-1a227a3d68fa,pyrenees.city,available,64,4,8,,,
 72c7dd4e-8424-4652-923f-fc354b59b6f0,quadruplet.city,available,54,2,10,,,
 6cb8f160-80c1-42bd-926d-dafc18bab881,qualifier.city,available,68,5,9,,,
@@ -5408,8 +5405,8 @@ baf4eda3-7faa-47c9-9389-cf29e56f053a,racingline.city,available,76,4,11,,,
 efd9ae48-5e53-4479-9b1d-6c25bbcc032e,racist.city,available,58,8,6,,,
 6fc7e23f-a2e6-4a2d-b81a-dcee28821c7f,radio.city,resell,102,34,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),20/10/2022 13:15,20/10/2026 13:15
 357a21f1-fae0-4633-af21-4269e8ff1530,rag.city,available,54,17,3,,,
-b48726e5-238b-40e9-8482-b914698cbc9a,rage.city,resell,84,25,4,"DNSPod, Inc.",30/03/2024 15:15,30/03/2026 15:15
-84783525-fdce-4fe1-9d55-649021b93da5,rail.city,resell,92,26,4,"Spaceship, Inc.",03/02/2021 23:17,03/02/2026 23:17
+b48726e5-238b-40e9-8482-b914698cbc9a,rage.city,resell,84,24,4,"DNSPod, Inc.",30/03/2024 15:15,30/03/2026 15:15
+84783525-fdce-4fe1-9d55-649021b93da5,rail.city,resell,92,25,4,"Spaceship, Inc.",03/02/2021 23:17,03/02/2026 23:17
 d6137b4e-857a-464e-a905-11727970baea,rainbow.city,resell,82,41,7,"Chengdu West Dimension Digital Technology Co., Ltd.",27/08/2015 05:45,27/08/2026 05:45
 bc2eba2b-fdc0-4f10-b235-8c2736a92c05,raised.city,available,76,5,6,,,
 e02ab55f-9b0a-4adf-a13b-001f8a8b3b64,raisehell.city,available,,1,10,,,
@@ -5470,7 +5467,6 @@ df534d80-fbf3-4f72-b0a6-57ae06b7d2c6,recorded.city,available,66,6,8,,,
 7c25402d-1602-4968-9468-6b0663d9739c,red.city,resell,80,35,3,"Chengdu West Dimension Digital Technology Co., Ltd.",19/01/2017 10:28,19/01/2026 10:28
 ca2fe5d8-5c27-42d1-bfbc-f6c4aaed3ae8,redapple.city,available,76,10,9,,,
 49d76a61-7cc8-4903-9810-2f5ef112685c,reddish.city,available,68,4,7,,,
-f21d91ee-1a8f-41d1-bfd8-c6ce4b9a1b7d,redemption.city,resell,68,16,10,"DNSPod, Inc.",11/01/2020 23:53,11/01/2026 23:53
 359226a1-49bc-4f88-ae7d-0f85d7e5a746,redhot.city,available,72,10,7,,,
 ff0c8b36-302b-4072-a6e2-f26db639a622,redmeat.city,available,,3,8,,,
 5ae34637-1c44-4022-978f-96bd19655e83,redo.city,available,90,16,4,,,
@@ -5514,7 +5510,7 @@ f75fdadc-dcea-4fca-bd95-cdd158dc583f,relatively.city,available,62,2,10,,,
 20e3b69f-3c36-4e2a-8a5c-05c88acd675f,relief.city,available,98,15,6,,,
 254dc82e-bfdc-4422-8f5a-707d3404befc,relieved.city,available,66,3,8,,,
 3a6da431-fa70-47c1-8a75-17d17634b2bc,religion.city,available,92,15,8,,,
-72c0617f-295c-4524-b7d0-10027b641133,relish.city,available,104,12,6,,,
+72c0617f-295c-4524-b7d0-10027b641133,relish.city,available,104,11,6,,,
 7c31cf32-fc63-4c85-a47e-654c173fb0e0,rely.city,available,76,15,4,,,
 c27eb5e8-4451-4e2c-be8a-f6a709502105,remain.city,available,84,9,6,,,
 04387e07-10b4-43cd-a718-3c95f25286fd,remedial.city,available,86,6,8,,,
@@ -5571,7 +5567,7 @@ a323aeea-9a2c-4dea-9934-d4a56fae9c61,restrain.city,available,58,2,8,,,
 03da8743-9897-42c5-9e50-6b7574c10420,restricted.city,available,62,9,10,,,
 a0fad8f2-9e54-4639-9ebd-352b796a8e0e,restructure.city,available,88,5,11,,,
 365a41ac-b016-485d-aba2-4ab684a3c97f,restructuring.city,available,64,5,13,,,
-fc8eb2dc-71ab-4c82-8507-0e1deaebc461,result.city,available,116,17,6,,,
+fc8eb2dc-71ab-4c82-8507-0e1deaebc461,result.city,available,116,16,6,,,
 7e6550be-058e-4414-b317-683d1aa05104,resultant.city,available,76,3,9,,,
 13e4b357-ad7a-4db9-9716-3e3645b10fa8,retail.city,resell,106,26,6,"DNSPod, Inc.",19/01/2019 00:16,19/01/2026 00:16
 a2167fee-e03c-46f0-80c2-73da5bb6ff1d,retain.city,available,98,11,6,,,
@@ -5585,7 +5581,7 @@ d38e0a2a-58d3-464b-86e6-21ca44995de8,retirement.city,available,76,21,10,,,
 dd61e3e1-5b37-4b5b-9bd7-01302f2351a1,retiring.city,available,73,4,8,,,
 4efadf21-b05a-4090-8d20-f729542def53,retracted.city,available,57,2,9,,,
 23b0369e-74b3-4625-a4cc-2177c97f9d50,retrieve.city,available,92,5,8,,,
-6c1adda2-181f-44fa-878d-09dda8cfbe3e,return.city,available,102,24,6,,,
+6c1adda2-181f-44fa-878d-09dda8cfbe3e,return.city,available,102,23,6,,,
 457b94f4-9161-4974-ad67-bdab56ae55ce,returned.city,available,68,3,8,,,
 589da4cd-91b6-4616-840c-cecff5c6b888,returning.city,available,71,5,9,,,
 03932dc8-1f36-4a91-99e4-c592cc377a95,returnticket.city,available,76,1,13,,,
@@ -5596,7 +5592,7 @@ d1399313-2e4e-40d2-9be8-f928eae7155b,revelatory.city,available,62,2,10,,,
 0861ad6c-2d12-48fb-8764-747f7fc981a2,revered.city,available,77,4,7,,,
 b3bb5b7d-e46e-4d52-bdb6-9cb562092ac1,reversed.city,available,63,6,8,,,
 ba338055-b1b3-4fd5-852a-4e3463cbd47f,reversible.city,available,81,6,10,,,
-6fea1338-1539-40e3-b902-4678caa4cfba,review.city,resell,94,33,6,"Spaceship, Inc.",05/10/2014 16:00,05/10/2026 16:00
+6fea1338-1539-40e3-b902-4678caa4cfba,review.city,resell,94,32,6,"Spaceship, Inc.",05/10/2014 16:00,05/10/2026 16:00
 4f7ccab1-8b8e-4352-95b9-05fddfaa8471,revised.city,available,69,3,7,,,
 859d7691-7a40-4769-b311-ba1fddf859db,revolved.city,available,61,2,8,,,
 bcb8899c-3ce9-43b0-94ca-0bbdeb60583a,rewarding.city,available,71,4,9,,,
@@ -5609,7 +5605,7 @@ f133a868-1489-4537-b3e3-d082f26b2eb9,Rhianna.city,available,81,2,7,,,
 f12a8bf4-9fb7-428d-84bb-a0bd7a7d269a,rhythmic.city,available,68,6,8,,,
 de504aa6-aac4-4564-b23a-3b52deb58680,ribald.city,available,64,1,6,,,
 358bb06d-78a7-4c53-8fc4-3be94c0719a1,ribbon.city,available,96,14,6,,,
-d824b4e2-dca5-4891-865c-2918585084db,rice.city,resell,74,25,4,"DNSPod, Inc.",26/01/2022 13:15,26/01/2026 13:15
+d824b4e2-dca5-4891-865c-2918585084db,rice.city,resell,74,24,4,"DNSPod, Inc.",26/01/2022 13:15,26/01/2026 13:15
 d2b81865-7a29-46f6-abe7-aefb536342e7,rich.city,resell,72,27,4,"Spaceship, Inc.",23/10/2018 23:27,23/10/2026 23:27
 99f86398-5677-4d62-9d78-445c975a0420,rid.city,available,78,11,3,,,
 b3367f60-063f-490a-84eb-a5dad605f64d,ridden.city,available,74,2,6,,,
@@ -5652,7 +5648,7 @@ be377da3-5189-4f21-823b-5ed2c1008001,rodshaped.city,available,42,1,10,,,
 838ec44c-69ae-4f05-b1db-c6137efb6421,roiled.city,available,44,2,6,,,
 84f2210b-a592-4c36-bf32-946a257f7493,roll.city,resell,67,20,4,"DNSPod, Inc.",09/10/2023 15:15,09/10/2026 15:15
 d7132e54-9212-402f-a4ac-d679fa1657c4,rollabout.city,available,,2,10,,,
-8203062a-ae78-47c0-b013-9490223c3bfd,roller.city,resell,70,16,6,"DNSPod, Inc.",16/08/2018 19:07,16/08/2026 19:07
+8203062a-ae78-47c0-b013-9490223c3bfd,roller.city,resell,70,15,6,"DNSPod, Inc.",16/08/2018 19:07,16/08/2026 19:07
 f8d77bc2-657c-4a5b-a306-edba1707d787,rolling.city,available,63,14,7,,,
 ab37ebc0-a649-4290-b8df-73750ff5e302,RomanCatholic.city,available,84,2,14,,,
 64a97f5e-d708-4174-ba5f-14b236e9de3b,Romannumerals.city,available,,2,14,,,
@@ -5764,7 +5760,7 @@ b058657b-0269-4367-a4b9-edd01422b853,scratchy.city,available,54,3,8,,,
 136d1b38-33ce-4f4c-ac06-b2b5915f19c6,screen.city,resell,72,26,6,"Chengdu West Dimension Digital Technology Co., Ltd.",09/09/2017 07:46,09/09/2027 07:46
 91d3a0c3-7c68-4564-9bbb-a676dc8e735a,screening.city,available,70,11,9,,,
 35c72811-dbf4-49df-a75e-b5b2adebfe6d,screwabout.city,available,,1,11,,,
-88f372b1-f2da-42d8-8d6c-bcca771a2f26,script.city,resell,92,26,6,"Sav.com, LLC - 25",27/11/2024 17:00,27/11/2026 17:00
+88f372b1-f2da-42d8-8d6c-bcca771a2f26,script.city,resell,92,25,6,"Sav.com, LLC - 25",27/11/2024 17:00,27/11/2026 17:00
 7c0afea2-3aa4-4839-a6b7-9acafa699e05,scripted.city,available,60,8,8,,,
 ac181348-f251-42d0-bff7-2a824307bfc7,scrubbed.city,available,60,3,8,,,
 f7de48cb-c7b3-4e26-8010-b324e62a1dfd,scummy.city,available,50,2,6,,,
@@ -5789,7 +5785,7 @@ d9091fe9-73c6-4431-a995-8ae8bf97c836,secondary.city,available,78,12,9,,,
 cf4c82cd-4fd8-4580-938d-d830d02c1d56,secondguess.city,available,60,2,12,,,
 64a1135b-b762-4672-9611-22e4245814f2,secondly.city,available,54,3,8,,,
 6fd63363-85b8-442c-9d3f-a002326f661b,secret.city,resell,112,33,6,"Chengdu West Dimension Digital Technology Co., Ltd.",28/10/2015 05:42,28/10/2026 05:42
-e8254b62-6f6a-44d3-a11b-10758d5be819,section.city,available,94,10,7,,,
+e8254b62-6f6a-44d3-a11b-10758d5be819,section.city,available,94,9,7,,,
 18f56f86-2ba1-4909-8a91-6e0342a8cf17,sedative.city,available,76,1,8,,,
 f17e487e-e8f3-48f6-b76e-b7f0d74f3ee9,sedulous.city,available,50,3,8,,,
 beba04d0-0f05-4a1b-93ed-ce28dadd5b75,seeabout.city,available,,2,9,,,
@@ -5870,7 +5866,7 @@ f24d629d-d811-4626-8e1d-9bf05faba9dc,Shakira.city,available,76,8,7,,,
 ad49bfd4-0f27-461e-a2e6-db673b3b6545,shallow.city,available,54,5,7,,,
 96d23b4a-83e2-4918-8e75-f0c3094f35fb,shapeless.city,available,50,6,9,,,
 effc3adb-5962-4c24-9630-3a89b606ea6e,shaper.city,available,80,9,6,,,
-efe3103a-7534-49c6-86b8-cc6dc4b31291,share.city,resell,72,47,5,"Global Domains International, Inc. DBA DomainCostClub.com",29/03/2025 15:15,29/03/2026 15:15
+efe3103a-7534-49c6-86b8-cc6dc4b31291,share.city,resell,72,46,5,"Global Domains International, Inc. DBA DomainCostClub.com",29/03/2025 15:15,29/03/2026 15:15
 9ab3fb96-33a1-409f-a0c6-41af2cccc792,shared.city,resell,70,38,6,Dynadot Inc,06/03/2025 17:00,06/03/2026 17:00
 3d9b7828-a543-4b55-8cd6-df22285cfaa8,sharing.city,resell,76,21,7,"Xiamen ChinaSource Internet Service Co., Ltd",29/03/2025 15:15,29/03/2026 15:15
 52f03e19-0ccb-43dc-87e5-5810a90920ab,sharpeyed.city,available,46,1,10,,,
@@ -5904,11 +5900,11 @@ c725df24-24ac-4bd9-b73f-44534f59fd3e,shoppingcentre.city,available,70,3,15,,,
 3aa99a0d-f74d-47cb-8326-674c38a12ac5,shopworn.city,available,38,2,8,,,
 69f835df-6362-46ff-a9ec-d3d01d8eaab8,shortfall.city,available,66,2,9,,,
 767b90a7-aa71-4a06-84e4-f784389254fe,shortly.city,available,67,8,7,,,
-eab223c6-1c5d-4219-b484-246a974f024b,shorts.city,available,74,20,6,,,
+eab223c6-1c5d-4219-b484-246a974f024b,shorts.city,available,74,19,6,,,
 12449b84-292c-47ff-82ed-548fbda462e5,shot.city,resell,116,17,4,"Sav.com, LLC - 36",03/12/2024 17:00,03/12/2026 17:00
 1bc8ded5-bea5-485e-b333-5ffe2a6f24b3,should.city,available,98,9,6,,,
 63087b5a-7a64-47bf-91dc-6b09bd7222be,shoulderblade.city,available,66,1,14,,,
-e6f53121-566a-44de-8bc1-524c91bf6670,shout.city,available,92,16,5,,,
+e6f53121-566a-44de-8bc1-524c91bf6670,shout.city,available,92,15,5,,,
 b72d2893-af44-45c0-baa8-7442432c35ea,shouted.city,available,66,2,7,,,
 3d0f629d-041a-43a1-9548-596633bbb2a7,shove.city,available,82,5,5,,,
 5da54f2d-76ed-4cbd-b550-147e1da0e44d,show.city,resell,72,25,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2016 15:13,14/10/2026 15:13
@@ -5945,12 +5941,12 @@ cee4b04f-2698-43de-a326-5653f7399cbf,silverish.city,available,46,1,9,,,
 a0e91751-e614-4d31-b202-6fb4b1affe46,similarly.city,available,56,2,9,,,
 eda79bed-1eff-4233-821d-1405191d125e,simple.city,resell,128,41,6,"Xiamen ChinaSource Internet Service Co., Ltd",17/04/2020 06:43,17/04/2026 06:43
 7860bf41-a3d4-4452-984a-5ffd3f5fde11,simpler.city,available,66,15,7,,,
-6b056136-169a-4b2d-9938-f4aefd9609a4,simpson.city,available,76,18,7,,,
+6b056136-169a-4b2d-9938-f4aefd9609a4,simpson.city,available,76,17,7,,,
 3ba6616a-54e8-405d-9060-59cd75124599,simultaneously.city,available,,1,14,,,
 712270c9-5288-4670-9425-5093ac67f74c,since.city,available,74,10,5,,,
 55d0a966-6be8-4ab3-a969-ace4f24ac64c,sincerely.city,available,66,9,9,,,
 ed1ae91c-ba6e-43a2-8282-6a8f7e27362a,sing.city,resell,78,20,4,"Chengdu West Dimension Digital Technology Co., Ltd.",11/01/2024 15:15,11/01/2026 15:15
-49bc687f-e929-48cd-ab9e-44c03f84136a,singapore.city,available,76,5,9,,,
+49bc687f-e929-48cd-ab9e-44c03f84136a,singapore.city,available,76,6,9,,,
 45a5b255-124e-48d2-bc4f-6a7a61562b54,sink.city,resell,56,11,4,"DNSPod, Inc.",20/07/2024 17:00,20/07/2026 17:00
 18905f81-389b-4838-917d-649bb9c127d6,sinners.city,available,,8,7,,,
 cc25b335-18c2-46ea-975e-4eebe0315919,Siri.city,available,76,16,4,,,
@@ -6012,7 +6008,7 @@ e16a0280-bf2c-43ee-96f3-5a621551b36d,smileyface.city,available,78,5,11,,,
 bebb613b-7eca-48cd-b7b0-abc79a52d975,smoking.city,available,76,8,7,,,
 98353028-6d71-4857-bef2-3605b105b860,smooth.city,available,122,21,6,,,
 0a33e132-d6d2-4814-8ab5-e95ead650584,smuggled.city,available,56,1,8,,,
-1f57c8cd-d9cc-4d5a-b841-783a3ca53176,snack.city,resell,100,27,5,"Spaceship, Inc.",10/10/2021 13:15,10/10/2026 13:15
+1f57c8cd-d9cc-4d5a-b841-783a3ca53176,snack.city,resell,100,26,5,"Spaceship, Inc.",10/10/2021 13:15,10/10/2026 13:15
 e646a963-614e-4fd2-bde5-c1d4a2599176,snap.city,resell,90,39,4,"DNSPod, Inc.",17/12/2021 13:15,17/12/2026 13:15
 52629c21-ea76-4b70-b90f-2d6af73bc23f,snapping.city,available,66,3,8,,,
 09eb148f-5f6f-414b-b32c-73bab451fd9c,sneak.city,available,104,11,5,,,
@@ -6052,7 +6048,6 @@ c9d9afef-91b3-495d-a6aa-c057baa86b6d,sombuddy.city,available,58,1,8,,,
 bfe92f22-a7fe-4b21-8d5e-baa2b0ca63e8,someother.city,available,48,3,10,,,
 b7fb2fc7-07cf-4a12-abb0-f0302f5748ed,somesing.city,available,58,2,8,,,
 e26f4875-580c-4968-abe3-0ae6c98a97bb,something.city,available,126,24,9,,,
-31c7bd2e-84d8-4c32-85c0-908afdfe48a6,song.city,resell,72,30,4,"Chengdu West Dimension Digital Technology Co., Ltd.",11/01/2024 15:15,11/01/2026 15:15
 822c863e-48b6-4194-8d88-b47f98214e9b,songbird.city,available,76,13,8,,,
 c1178163-c3f5-4bb8-b324-aa75ce5a3ae5,songlike.city,available,50,1,8,,,
 8e8e54e5-59bf-4e7e-bde5-f1070761d254,Sony.city,available,96,13,4,,,
@@ -6156,13 +6151,13 @@ d59d24cb-7bbb-475e-9130-0d6ce32a34d7,standfor.city,available,77,2,9,,,
 84ba6e9e-2c98-4f1b-a68f-39fe9b93f720,starred.city,available,48,5,7,,,
 2f3b9245-f331-41f0-bd4b-17edc2df06d7,Stars.city,resell,76,28,5,"DNSPod, Inc.",29/10/2018 08:27,29/10/2026 08:27
 2f287a96-aed3-4621-ac25-96d4cfb43095,starting.city,available,64,9,8,,,
-d293fd46-c002-4e1e-92a6-6e080235526b,state.city,resell,90,18,5,"Spaceship, Inc.",27/03/2022 13:15,27/03/2026 13:15
+d293fd46-c002-4e1e-92a6-6e080235526b,state.city,resell,90,17,5,"Spaceship, Inc.",27/03/2022 13:15,27/03/2026 13:15
 361f5837-94df-4e2e-863a-c714f4be2b42,stately.city,available,72,6,7,,,
 cd6d2bb0-eaf0-40c0-8e05-fbadebea6eca,statement.city,available,98,16,9,,,
 1483cdfc-6f64-4be7-856d-0c5a308881ed,stateoftheart.city,available,96,7,16,,,
 7afc61bd-9a63-4028-bcbc-11244dcb1111,stating.city,available,72,3,7,,,
 f3e64444-29c6-4caa-9d8d-70ea2615a2c1,statistics.city,available,60,32,10,,,
-b7f75c0b-8f0c-4839-aa21-04a03d17b6bb,status.city,available,76,38,6,,,
+b7f75c0b-8f0c-4839-aa21-04a03d17b6bb,status.city,available,76,37,6,,,
 0c2d8854-ed21-4dd4-9d33-51df369d0cb9,statutoryrape.city,available,,1,14,,,
 53183523-41ae-469b-892a-fc625999d75a,StCharles.city,available,66,5,11,,,
 0182c770-5176-4051-afed-c0238438254b,StClair.city,available,64,7,9,,,
@@ -6222,7 +6217,7 @@ e50029d2-edce-43ab-a78c-89118758ce34,strongpersonality.city,available,76,1,18,,,
 6a2085b7-a00e-48e8-873d-374dfb678aa0,StStephen.city,available,66,2,10,,,
 5afe3426-fc29-45c1-8a9d-7158a7ddb14a,stubborn.city,available,76,6,8,,,
 dcbc2980-f0f2-41de-921d-5bd49a6ff705,stuck.city,available,52,10,5,,,
-63b4c41d-87ca-4a38-b74f-19cff09ef396,student.city,resell,78,32,7,"Sav.com, LLC - 30",18/05/2025 15:16,18/05/2026 15:16
+63b4c41d-87ca-4a38-b74f-19cff09ef396,student.city,resell,78,31,7,"Sav.com, LLC - 30",18/05/2025 15:16,18/05/2026 15:16
 7b8d0df6-002a-4979-b30a-d233ea9a774f,studentloan.city,available,66,9,12,,,
 60260fa9-986d-4349-9e57-edea86be29a1,study.city,resell,102,30,5,"Spaceship, Inc.",09/08/2020 02:23,09/08/2026 02:23
 ec268e5a-77d2-4fc6-adfe-cf2ff0598410,studyabroad.city,available,,13,12,,,
@@ -6267,7 +6262,6 @@ cd05e321-b8e2-40ab-8f57-80b3526bd0cb,summertire.city,available,76,1,11,,,
 dbc89a2e-8524-45cf-813f-15a4b2690f53,sunbaked.city,available,50,5,8,,,
 0cd08241-7271-45c3-b501-0e2b8e2dd864,sunbelt.city,available,78,6,7,,,
 3af54a60-01df-4710-8104-230476ecb1e2,sunburst.city,available,76,13,8,,,
-4bc90791-1771-4eb5-901d-781a666218a0,sunday.city,resell,106,30,6,"Sav.com, LLC - 19",13/01/2025 15:15,13/01/2026 15:15
 884bede9-94ca-42e6-8b11-bab95062a600,Sundayroast.city,available,80,3,12,,,
 e5a01012-1751-41ee-afb0-e259db8b35a6,sundeck.city,available,76,5,8,,,
 8d72a5ab-88ad-4fb6-a733-e8d8c186c5d6,sundress.city,available,76,3,8,,,
@@ -6286,7 +6280,7 @@ e9f782e3-68d8-40c6-aa7c-93a12964489c,supermarket.city,resell,78,16,11,"Xiamen Ch
 a7453506-fabb-402e-889e-652bdaed94ca,superstar.city,available,80,17,9,,,
 398cf7eb-dfdb-4f25-9f13-a4307ae58237,superuser.city,available,72,11,9,,,
 f170f5a3-6362-4d46-9007-af3fe3b79c12,supervise.city,available,74,5,9,,,
-9ba58e63-29c9-46fa-ad3b-1d8d0d1196ba,supervisor.city,available,68,11,10,,,
+9ba58e63-29c9-46fa-ad3b-1d8d0d1196ba,supervisor.city,available,68,10,10,,,
 dd936c77-21d8-42df-9931-862a5afe4042,supper.city,available,98,10,6,,,
 919083a9-69e5-4d04-b303-cca16e0c30d1,supplier.city,resell,72,15,8,"DNSPod, Inc.",05/03/2020 10:34,05/03/2026 10:34
 330c4963-813b-4c71-aae8-b1d3c5c1a2dc,supplies.city,premium,,12,8,,,
@@ -6294,7 +6288,7 @@ dd936c77-21d8-42df-9931-862a5afe4042,supper.city,available,98,10,6,,,
 a9809e36-395e-4d3a-8fbd-d307fa1a3356,supporter.city,available,60,8,9,,,
 639fa3ce-731d-4602-a052-b21a9e80b48d,supporting.city,available,88,5,10,,,
 83b06585-f0d0-4c65-9cc9-081c63b3a874,supportive.city,available,70,6,10,,,
-0b3a781f-46dc-4518-8496-f5483458eaf7,suppose.city,available,82,4,7,,,
+0b3a781f-46dc-4518-8496-f5483458eaf7,suppose.city,available,82,3,7,,,
 aba8b500-e734-4db3-833e-4b792ded2f32,supposed.city,available,72,2,8,,,
 8eb44324-225a-4121-9af8-e0e54cadfa88,supposedly.city,available,56,1,10,,,
 147a2103-5dc7-4297-98b5-08c8fa99749f,supreme.city,resell,72,26,7,"Chengdu West Dimension Digital Technology Co., Ltd.",13/05/2024 15:15,13/05/2026 15:15
@@ -6338,7 +6332,7 @@ bbd53daa-99d1-4e69-a625-6d1553ade9a6,sworn.city,available,70,4,5,,,
 6c5cbf85-1545-403f-9800-719f68febb03,sympathetic.city,available,68,3,11,,,
 e9eb93af-df7d-4f78-8480-50360236a532,sympathise.city,available,77,1,10,,,
 73529803-3533-4379-87f0-c085d3c84408,sympathize.city,available,79,2,10,,,
-1b41dd03-453c-4d01-b3f4-470d7f1b7059,sympathy.city,available,71,7,8,,,
+1b41dd03-453c-4d01-b3f4-470d7f1b7059,sympathy.city,available,71,6,8,,,
 ead8d6f2-c2e9-467b-a61b-5466059022f1,synchronise.city,available,74,3,11,,,
 e591e769-62bc-40be-b578-b8847384d2ec,syndrome.city,available,54,6,8,,,
 438805ab-19e2-431c-a951-d462f1a42cc4,systematically.city,available,56,2,14,,,
@@ -6346,7 +6340,7 @@ d33f238c-4d1b-4adb-a54c-83f1ec9cfe24,taal.city,available,54,10,4,,,
 5448190c-417d-4060-a3fb-e4b512b24d5e,tabby.city,available,56,15,5,,,
 837143b5-b464-4d0c-aac3-bce27ccf318c,table.city,available,96,24,5,,,
 228180b0-8340-4cb7-bd26-ff5d22bc3901,tackabout.city,available,,1,10,,,
-9cbf8f67-8e96-4a29-9486-c5ae738043d2,taco.city,resell,76,32,4,united-domains GmbH,05/07/2016 10:55,05/07/2026 10:55
+9cbf8f67-8e96-4a29-9486-c5ae738043d2,taco.city,resell,76,31,4,united-domains GmbH,05/07/2016 10:55,05/07/2026 10:55
 f4cfc098-5f9c-48ac-a5f9-4afaf3878150,Tahoe.city,resell,42,32,5,Dynadot Inc,06/10/2014 06:30,06/10/2026 06:30
 d7931a15-a879-47bb-8974-015361256774,tailend.city,available,38,3,8,,,
 597ce5a9-9693-4ffc-9dab-3c2a59ab44e6,tailless.city,available,51,2,8,,,
@@ -6356,7 +6350,7 @@ c12bf506-bb28-4202-93ca-0574da0aecc7,taiwan.city,available,66,17,6,,,
 4b0882df-78ed-4719-aa53-d1d23774cd07,taken.city,available,76,7,5,,,
 19c71f5d-9cc8-47c2-ada8-3e7259c601b9,takepart.city,available,,5,9,,,
 95de5c77-6ae8-494b-9c84-dddbc8c6fb7b,takingaway.city,available,,1,11,,,
-d66dd2e4-0647-4a14-9d87-cf8346f837e6,talkabout.city,available,,9,10,,,
+d66dd2e4-0647-4a14-9d87-cf8346f837e6,talkabout.city,available,78,9,10,,,
 e37c4c5b-5303-4408-9f22-abc9d30ac817,talkedabout.city,available,62,1,12,,,
 80c8905a-5d00-4264-bbcf-5481081afe75,talkingpoint.city,available,68,3,13,,,
 69ac6ac6-7a53-4c47-a90a-566fac55fabc,tall.city,resell,106,10,4,"Chengdu West Dimension Digital Technology Co., Ltd.",17/08/2023 15:15,17/08/2026 15:15
@@ -6396,7 +6390,6 @@ ea01027b-3c2a-4d14-9e9a-9c8f26dde460,teen.city,resell,104,14,4,"Spaceship, Inc."
 311595a2-4306-4140-855a-c05beec5af5b,teeth.city,available,92,13,5,,,
 b02379b8-8f47-4226-b04e-0fcf6bd37fed,tel.city,available,60,13,3,,,
 e0da8c53-ffd2-4836-8e43-ed5b9d7d8942,telephonecall.city,available,66,1,14,,,
-03860935-d777-4c3e-8e1d-5d42cb1ec105,television.city,resell,104,16,10,"Sav.com, LLC",12/01/2025 17:10,12/01/2026 17:10
 2157e1d5-27fa-4eed-ab65-313c157aa496,televisionchannel.city,available,70,1,18,,,
 74981a1b-45d1-4184-a2a3-7f4ed4d3a00a,televisionprogram.city,available,70,1,18,,,
 aad670b0-c7a3-4499-b613-57f50b9fd4e1,tell.city,resell,74,20,4,"Xiamen ChinaSource Internet Service Co., Ltd",08/08/2025 15:15,08/08/2026 15:15
@@ -6426,7 +6419,7 @@ f5fca1c6-74d9-4e00-b2c2-15aff166f34c,terrific.city,available,74,10,8,,,
 314da49b-ae03-459d-a81a-cfa4bb89c22e,tertiary.city,available,60,4,8,,,
 9a5bdce1-c19f-460f-b126-4ef0b75b7fe0,terzetto.city,available,56,4,8,,,
 ea19c45a-f246-4cc8-96f7-4bb5a641998f,tesla.city,resell,86,60,5,Dynadot Inc,01/03/2025 17:00,01/03/2026 17:00
-289fe81b-f11c-44a9-a27a-4cc9c688363a,test.city,available,72,24,4,,,
+289fe81b-f11c-44a9-a27a-4cc9c688363a,test.city,available,72,23,4,,,
 b9e042de-16fa-4dd3-9156-d05cc0c7a2db,tested.city,available,70,9,6,,,
 9d9974f4-a9fc-409c-a375-e7035ba7ed08,testimony.city,available,68,7,9,,,
 e2b235ef-3e64-4e80-a047-8baf2611e05a,tetrad.city,available,58,5,6,,,
@@ -6519,7 +6512,7 @@ e7941809-c370-4095-9c27-b7b63150820c,tieup.city,available,,3,6,,,
 51cfeed4-abbe-4234-b44b-4729bb1d2704,tillable.city,available,52,4,8,,,
 8bb3832c-d641-4f75-bb1c-10cf235a822d,tilldate.city,available,,1,9,,,
 5dc9b2ee-618f-4992-9e40-e01e243526c8,tilted.city,available,56,12,6,,,
-0f7f1a61-ae97-4bd6-9e7b-1a54369e27cd,time.city,resell,128,39,4,"Sav.com, LLC",17/11/2021 13:15,17/11/2026 13:15
+0f7f1a61-ae97-4bd6-9e7b-1a54369e27cd,time.city,resell,128,38,4,"Spaceship, Inc.",17/11/2021 13:15,17/11/2026 13:15
 b5de3953-8064-47f7-b0f2-2dbef4e0c5f5,timeabout.city,available,,1,10,,,
 dbd2abdc-0b69-4498-8198-ecd1d9147bc2,timely.city,available,66,19,6,,,
 c734b37e-5383-4620-a58c-9078fed82cf7,times.city,resell,80,22,5,"DNSPod, Inc.",22/03/2017 05:14,22/03/2026 05:14
@@ -6663,7 +6656,7 @@ b916ec1d-522b-43fd-aab1-cb6448b07f89,twenty.city,available,80,9,6,,,
 12695c58-07cf-4b35-9ae4-4ef682fd0240,twin.city,resell,80,23,4,Dynadot Inc,20/10/2017 23:20,20/10/2026 23:20
 f551f9fe-e4c9-49d9-bd54-58de1a17d657,twine.city,available,58,15,5,,,
 f38bd74a-1535-4e3d-9f4a-e2397c10aef8,twinkly.city,available,54,5,7,,,
-ce432d16-c01a-4aab-92f5-b29374d04bc4,twitter.city,available,108,24,7,,,
+ce432d16-c01a-4aab-92f5-b29374d04bc4,twitter.city,available,108,23,7,,,
 37eb69cd-2987-40a9-bca3-da3eb0b64d1b,two.city,resell,80,20,3,"Spaceship, Inc.",29/04/2022 13:15,29/04/2026 13:15
 a89b54c9-7b33-47d8-a77a-1aea69c32882,twodozen.city,available,62,1,9,,,
 23e504ea-9c35-409d-bef6-df228c8ebe9a,twohanded.city,available,64,2,10,,,
@@ -6781,7 +6774,7 @@ ff17f643-7674-4623-857f-87bc3dce6871,usa.city,resell,88,33,3,"GoDaddy.com, LLC",
 34e7e95b-e61e-4591-a117-6844b3462a46,usage.city,available,70,5,5,,,
 96a35f6a-b80a-4628-a5a8-ea709a120878,USBdrive.city,available,72,2,9,,,
 16b904a5-0cbf-45c0-9692-405a2644c989,USdollar.city,available,72,4,9,,,
-dffd58c1-8fbf-483e-a3d4-ee98ad82c560,use.city,available,100,29,3,,,
+dffd58c1-8fbf-483e-a3d4-ee98ad82c560,use.city,available,100,27,3,,,
 c1f8321d-9a7c-4b4c-935b-243514475d41,used.city,available,80,14,4,,,
 593b0e90-3fb8-4dea-8a45-e925e197de53,useful.city,available,74,19,6,,,
 6fcf8f99-d67c-4ab2-8f34-3160a2353ce6,using.city,available,82,7,5,,,
@@ -6890,7 +6883,7 @@ a6f415a7-e731-48c1-bb43-2998561b2f22,walkfree.city,available,,2,9,,,
 6f5e710e-7489-427f-8954-66bbbde8a32c,walkietalkie.city,available,76,8,13,,,
 b724fb52-b731-4f36-8347-8074d236a7f8,walking.city,available,96,14,7,,,
 357f4fc9-952a-4e83-9723-4da04c0cb404,walkingstick.city,available,70,4,13,,,
-b9899313-047a-4986-af03-bf702302a348,wallet.city,resell,74,52,6,"DNSPod, Inc.",21/08/2020 08:19,21/08/2026 08:19
+b9899313-047a-4986-af03-bf702302a348,wallet.city,resell,74,51,6,"DNSPod, Inc.",21/08/2020 08:19,21/08/2026 08:19
 b5f430f2-4d11-47d8-9168-da2da8bd9369,walloping.city,available,70,1,9,,,
 8da90598-92bb-4425-9baa-122a4a3c0728,Walmart.city,available,92,40,7,,,
 b0d4bf29-06e4-4e9f-9830-b48025ac7cd9,wandering.city,available,72,13,9,,,
@@ -6931,7 +6924,7 @@ dae7be05-f4eb-452c-9941-470345cc2098,wedding.city,available,74,30,7,,,
 373b95c4-a448-4105-b4af-549f035c1994,wedge.city,available,62,14,5,,,
 6c4644af-9eca-4b5a-a516-908ecccf8c44,week.city,resell,98,12,4,"Chengdu West Dimension Digital Technology Co., Ltd.",21/05/2019 08:30,21/05/2026 08:30
 0b479683-acd7-4b2f-afe3-92b4f083f099,weeks.city,available,,13,5,,,
-75fbcc92-c29e-45f3-aa2c-a0944ea486f6,weight.city,available,64,11,6,,,
+75fbcc92-c29e-45f3-aa2c-a0944ea486f6,weight.city,available,64,10,6,,,
 e1d02681-982b-4b98-a3ca-e8a37553cee0,welfare.city,resell,96,14,7,"Sav.com, LLC",07/02/2025 17:11,07/02/2026 17:11
 e5827b90-1e88-4f0d-8794-7dc42eb14a28,welfarecheck.city,available,66,1,13,,,
 e1a26f1b-0e7b-4e27-9073-361e08ef031f,well.city,resell,74,31,4,"GoDaddy.com, LLC",07/11/2014 17:25,07/11/2029 17:25
@@ -6998,7 +6991,7 @@ dffeff70-6964-4a74-bc8e-a35d585a142d,willow.city,available,54,25,6,,,
 14b7314f-46e9-4105-9544-130ec61ecc82,wind.city,resell,76,21,4,"NameSilo, LLC",19/03/2018 14:01,19/03/2026 14:01
 f4225ca7-736b-4c09-98ee-b0c56180309e,windows.city,resell,58,18,7,"Spaceship, Inc.",22/05/2021 15:13,22/05/2026 15:13
 fcd828f6-40d0-4b8f-a28f-6544bdba5b5d,windowseat.city,available,74,5,11,,,
-3703d609-d245-449a-9950-6fc9391090bd,windsor.city,resell,66,20,7,"GoDaddy.com, LLC",01/04/2019 10:39,01/04/2026 10:39
+3703d609-d245-449a-9950-6fc9391090bd,windsor.city,resell,66,19,7,"GoDaddy.com, LLC",01/04/2019 10:39,01/04/2026 10:39
 dc847703-d0ba-4457-bdb2-0467a47ca76c,windy.city,resell,90,12,5,"GoDaddy.com, LLC",31/07/2015 16:00,31/07/2026 16:00
 0bd6660d-34a2-4e57-8094-231b9eba5d8f,wing.city,resell,62,22,4,Porkbun LLC,17/04/2017 04:26,17/04/2026 04:26
 e67e189a-5785-4b2d-a448-9f747f0980d0,wink.city,available,104,21,4,,,
@@ -7146,6 +7139,6 @@ f2058c1c-6877-4593-8de9-fb0a7c439c59,zest.city,resell,101,29,4,"Xiamen ChinaSour
 8c38fd48-826e-46d1-8e60-7adb84c3783a,zestful.city,available,64,5,7,,,
 e4d517c4-fcd0-47e3-9c35-26105be3cb40,zesty.city,available,64,20,5,,,
 2b3cb2e3-a707-40bc-a586-df30a604ec98,zipfile.city,available,68,3,8,,,
-3d228133-e6e7-4312-9a6f-f3a8397ca1ea,zone.city,resell,94,29,4,"Sav.com, LLC",18/03/2019 19:21,18/03/2026 19:21
+3d228133-e6e7-4312-9a6f-f3a8397ca1ea,zone.city,resell,94,27,4,"Sav.com, LLC",18/03/2019 19:21,18/03/2026 19:21
 9ff73cba-6f94-4ea4-86c7-2078043d8714,zoologicalpark.city,available,76,1,15,,,
 6a03cc22-3686-4798-8b6e-4bdceaa4c5f4,zooming.city,available,78,4,7,,,
