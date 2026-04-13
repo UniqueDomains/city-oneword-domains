@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .city one-word domains from Unique
 
 **Public extract:** 8,174 rows · **Live catalog:** 8,174 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/city`  
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | statistics.city | available | $37.98    | —             | 60             | 34     | 10     | namecheap                                    |
 | prime.city      | resell    | —         | —             | 76             | 82     | 5      | Unstoppable Domains Inc                      |
 | web.city        | premium   | $260      | $520          | 72             | 61     | 3      | namecheap                                    |
-| absolute.city   | available | $7.99     | $41.99        | 80             | 31     | 8      | name.com                                     |
+| abstract.city   | available | $7.99     | $41.99        | 108            | 31     | 8      | name.com                                     |
 | temple.city     | resell    | —         | —             | 66             | 82     | 6      | eNom, LLC                                    |
 | search.city     | premium   | $42.90    | $85.80        | 70             | 57     | 6      | namecheap                                    |
-| abstract.city   | available | $7.99     | $41.99        | 108            | 30     | 8      | name.com                                     |
+| absolute.city   | available | $7.99     | $41.99        | 80             | 31     | 8      | name.com                                     |
 | universal.city  | resell    | —         | —             | 86             | 81     | 9      | Porkbun LLC                                  |
 | athletics.city  | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap                                    |
 | ahead.city      | available | $7.99     | $41.99        | 76             | 28     | 5      | name.com                                     |
 | fire.city       | resell    | —         | —             | 80             | 75     | 4      | Spaceship, Inc.                              |
 | eternal.city    | premium   | $520      | $520          | 92             | 39     | 7      | namecheap                                    |
-| actual.city     | available | $7.99     | $41.99        | 96             | 27     | 6      | name.com                                     |
+| compound.city   | available | $7.99     | $41.99        | 105            | 26     | 8      | name.com                                     |
 | discover.city   | resell    | —         | —             | 66             | 75     | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
 | total.city      | premium   | $500      | $500          | 108            | 38     | 5      | name.com                                     |
-| compound.city   | available | $7.99     | $41.99        | 105            | 26     | 8      | name.com                                     |
+| ugly.city       | available | $7.99     | $41.99        | 96             | 26     | 4      | name.com                                     |
 | boss.city       | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                 |
 | sports.city     | premium   | $520      | $520          | 110            | 37     | 6      | namecheap                                    |
-| ugly.city       | available | $7.99     | $41.99        | 96             | 26     | 4      | name.com                                     |
+| actual.city     | available | $7.99     | $41.99        | 96             | 26     | 6      | name.com                                     |
 | hello.city      | resell    | —         | —             | 130            | 70     | 5      | Spaceship, Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
