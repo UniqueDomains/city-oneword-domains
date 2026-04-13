@@ -2,7 +2,7 @@
 
 ## 2026-04-13
 
-- Refreshed the public extract to 8,174 rows.
+- Refreshed the public extract to 8,176 rows.
 - Updated the live catalog reference to 8,174 domains.
 - Regenerated README copy and trust files from the shared manifest.
 
