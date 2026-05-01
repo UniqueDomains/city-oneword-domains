@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | bees.city        | available | $7.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| universal.city   | resell    | —         | —             | 86             | 81     | 9      | Porkbun LLC                                               |
+| universal.city   | resell    | —         | —             | 86             | 80     | 9      | Porkbun LLC                                               |
 | etc.city         | premium   | $46.20    | $92.40        | 58             | 34     | 3      | namecheap                                                 |
 | Keith.city       | available | $37.98    | —             | 66             | 25     | 5      | namecheap                                                 |
 | online.city      | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
