@@ -1,10 +1,10 @@
-# Available .CITY One-Word Domains (10,986)
+# Available .CITY One-Word Domains (10,997)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C986%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C997%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .city one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,986 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,997 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,986 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,997 domains · **Median ask:** $13.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/city`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bees.city        | available | $7.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| universal.city   | resell    | —         | —             | 86             | 80     | 9      | Porkbun LLC                                               |
-| etc.city         | premium   | $46.20    | $92.40        | 58             | 34     | 3      | namecheap                                                 |
-| Keith.city       | available | $37.98    | —             | 66             | 25     | 5      | namecheap                                                 |
-| online.city      | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tips.city        | premium   | $280      | $560          | 80             | 26     | 4      | namecheap                                                 |
-| Trex.city        | available | $37.98    | —             | 80             | 24     | 5      | namecheap                                                 |
-| buy.city         | resell    | —         | —             | 84             | 53     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| has.city         | premium   | $46.20    | $92.40        | 60             | 26     | 3      | namecheap                                                 |
-| stadia.city      | available | $7.99     | —             | 66             | 22     | 6      | name.com                                                  |
-| agents.city      | resell    | —         | —             | 56             | 50     | 6      | Unstoppable Domains Inc                                   |
-| reports.city     | premium   | $14       | $28           | 58             | 24     | 7      | namecheap                                                 |
-| Allie.city       | available | $37.98    | —             | 72             | 21     | 5      | namecheap                                                 |
-| coins.city       | resell    | —         | —             | 56             | 41     | 5      | Automattic Inc.                                           |
-| pls.city         | premium   | $46.20    | $92.40        | 60             | 23     | 3      | namecheap                                                 |
-| blogs.city       | available | $14.14    | $28.49        | 52             | 21     | 5      | namesilo                                                  |
-| lets.city        | resell    | —         | —             | 77             | 39     | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| studios.city     | premium   | $46.20    | $92.40        | 54             | 21     | 7      | namecheap                                                 |
-| HarryPotter.city | available | $37.98    | —             | 72             | 20     | 12     | namecheap                                                 |
-| clean.city       | resell    | —         | —             | 90             | 36     | 5      | Porkbun LLC                                               |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| Trex.city      | available | $37.98    | —             | 80             | 24     | 5      | namecheap                                                 |
+| finals.city    | available | $7.99     | —             | 80             | 7      | 6      | name.com                                                  |
+| geton.city     | available | $7.99     | —             | 82             | 10     | 6      | name.com                                                  |
+| Apples.city    | available | $37.98    | —             | 90             | 16     | 6      | namecheap                                                 |
+| dogsit.city    | available | $7.99     | —             | 96             | 2      | 6      | name.com                                                  |
+| edamame.city   | available | $7.99     | —             | 80             | 9      | 7      | name.com                                                  |
+| gearup.city    | available | $7.99     | —             | 80             | 16     | 7      | name.com                                                  |
+| QandA.city     | available | $37.98    | —             | 80             | 10     | 7      | namecheap                                                 |
+| toneup.city    | available | $7.99     | —             | 80             | 5      | 7      | name.com                                                  |
+| impress.city   | available | $7.99     | —             | 86             | 18     | 7      | name.com                                                  |
+| presents.city  | available | $7.99     | —             | 80             | 9      | 8      | name.com                                                  |
+| FabFour.city   | available | $7.99     | —             | 82             | 3      | 8      | name.com                                                  |
+| headout.city   | available | $7.99     | —             | 82             | 6      | 8      | name.com                                                  |
+| bees.city      | available | $7.99     | —             | 54             | 27     | 4      | name.com                                                  |
+| universal.city | resell    | —         | —             | 86             | 80     | 9      | Porkbun LLC                                               |
+| etc.city       | premium   | $46.20    | $92.40        | 58             | 34     | 3      | namecheap                                                 |
+| Keith.city     | available | $37.98    | —             | 66             | 25     | 5      | namecheap                                                 |
+| online.city    | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| tips.city      | premium   | $280      | $560          | 80             | 26     | 4      | namecheap                                                 |
+| buy.city       | resell    | —         | —             | 84             | 54     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,986 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,997 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of one-word .city domains. The set spans generic words, action words, and broader brandable terms such as Acup.city, Trex.city, Finals.city, Ladies.city, and Getup.city. With a median ask of 13.01, the entry price is low, so the decision is less about price compression and more about whether the word carries enough meaning on a non-mainstream extension. Founders should prioritize names that are easy to say, easy to spell, and still feel credible with .city. Investors should focus on words with clearer commercial use, broader buyer pools, and fewer obvious trademark concerns.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Median ask is 13.01 across 10,997 .city domains
+- One-word .city names favor clarity over complexity
+- Generic words usually age better than niche phrasing
+- Check trademark overlap before valuing brandability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
