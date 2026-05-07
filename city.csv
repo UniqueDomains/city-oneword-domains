@@ -507,7 +507,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 31048465-5426-4811-869f-22a052fe0607,desires.city,available,7.99,,72,9,7,name.com,,
 310b3fa1-b85f-4c4a-87e3-ca3d9c07e273,droppingoff.city,available,7.99,,52,1,12,name.com,,
 310dbc57-059f-4a2d-9f0f-703d9e6defd3,sqft.city,available,7.99,,72,9,5,name.com,,
-3126b70d-a472-4177-ad5e-bffd78543f8e,export.city,resell,,,72,22,6,"Sav.com, LLC - 6",27/09/2025 15:15,27/09/2026 15:15
+3126b70d-a472-4177-ad5e-bffd78543f8e,export.city,resell,,,72,23,6,"Sav.com, LLC - 6",27/09/2025 15:15,27/09/2026 15:15
 31395848-f38f-48d4-b9e7-7e9e49bf75ec,lives.city,available,7.99,,64,15,5,name.com,,
 314963b9-9383-4e88-9b7c-86885f2531de,fights.city,available,7.99,,55,9,6,name.com,,
 31619b04-f5ed-462e-9334-64a0de34dc7c,contains.city,available,7.99,,54,4,8,name.com,,
@@ -883,6 +883,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 540c96ed-9d30-4618-a427-f57d8d82999c,keychains.city,available,7.99,,56,6,9,name.com,,
 54171f4f-eb8b-429f-bc1a-1cf7c39bf0f6,VeniceBeach.city,available,37.98,,56,7,12,namecheap,,
 5421291c-2408-49d7-8098-564d7b126557,sentences.city,available,7.99,,60,5,9,name.com,,
+5423ef7e-20c4-4c02-b352-e2c4f515a125,paste.city,premium,,,80,23,5,,,
 542d9442-55e5-4be6-b24e-9ed89e44cee1,smashit.city,available,7.99,,72,8,8,name.com,,
 543d1443-4d99-4be2-89af-f9ae23fbe1f0,recommending.city,available,7.99,,58,3,12,name.com,,
 543dcdd1-70c7-42d1-a5c8-9cb6f0e5e11f,officers.city,available,7.99,,50,5,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d519c64-3407-4f7a-ab59-752fa3e760ab,letsomeonehaveit.city,available,7.99,,67,1,19,name.com,,
 5d56d908-8415-4b2e-a004-454bacfbd04b,publicsector.city,available,7.99,,62,7,13,name.com,,
 5d793a77-e2f0-4c77-af37-f18125d0661d,filesize.city,available,7.99,,64,2,9,name.com,,
-5d886964-563f-46eb-a30f-dad8667d9f83,visioned.city,available,7.99,,71,4,8,name.com,,
