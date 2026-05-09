@@ -494,6 +494,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2f7d60b9-f2d4-4939-8387-ef1be19794a8,generalrank.city,available,7.99,,50,1,12,name.com,,
 2f908fc5-c960-4b73-951d-b1a6248bd270,scenes.city,available,7.99,,54,8,6,name.com,,
 2faa7e76-16d5-413f-9a83-48406c42e6bf,accountreceivable.city,available,7.99,,62,1,18,name.com,,
+2fbad9d1-609a-4fb2-9fc5-e85773c0d148,squirrel.city,premium,,,74,27,8,,,
 2fc4e772-16d9-402d-be2d-28a43d9ada26,ovens.city,available,7.99,,55,6,5,name.com,,
 2fd0a72a-508f-4345-b2de-27c3d6350224,inpower.city,available,7.99,,47,10,8,name.com,,
 2fd501b5-bbdb-4d4d-b73b-f2fac4259659,nomnomnom.city,available,7.99,,84,5,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d413bcf-955c-4261-95a6-990c3abd00ae,merrygorounds.city,available,7.99,,54,0,15,name.com,,
 5d519c64-3407-4f7a-ab59-752fa3e760ab,letsomeonehaveit.city,available,7.99,,67,1,19,name.com,,
 5d56d908-8415-4b2e-a004-454bacfbd04b,publicsector.city,available,7.99,,62,7,13,name.com,,
-5d793a77-e2f0-4c77-af37-f18125d0661d,filesize.city,available,7.99,,64,2,9,name.com,,
