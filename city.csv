@@ -959,7 +959,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59ae4784-625b-4732-9246-7579eaff108a,clipontie.city,available,7.99,,56,1,11,name.com,,
 59dbcd7c-0469-4c25-a0a8-06b98f1eec34,lunchtimes.city,available,7.99,,60,1,10,name.com,,
 59e4dce1-0f8b-4ee0-8b6b-0b06caaacb54,attachments.city,available,7.99,,58,6,11,name.com,,
-5a045e36-8496-41d6-81f9-dc25d1a5acec,callcenter.city,resell,,,70,17,11,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00
+5a045e36-8496-41d6-81f9-dc25d1a5acec,callcenter.city,resell,,,70,16,11,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00
 5a0b619b-3588-4b5d-a5fa-ef142cc6ed12,yawned.city,available,7.99,,53,2,6,name.com,,
 5a1848b3-3d8f-4fef-b3cb-f6404e3f4b3d,filings.city,available,7.99,,48,8,7,name.com,,
 5a19c63a-bd29-4872-8e00-568ec183ee9d,introductions.city,available,7.99,,56,4,13,name.com,,
