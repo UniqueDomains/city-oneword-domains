@@ -459,6 +459,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2beae864-7065-475e-a4ff-c7ac7cb8ccc8,tended.city,available,7.99,,50,7,6,name.com,,
 2bf540d3-cd5c-4e58-826e-8ab71534c5e9,mosquitos.city,available,7.99,,42,5,9,name.com,,
 2bf83d62-1f63-4aff-87ea-c4851d9948f5,fitout.city,available,7.99,,76,8,7,name.com,,
+2c06e884-c568-4932-a3a0-b8ebfe0e8fe7,treeoflife.city,available,7.99,,88,13,12,name.com,,
 2c376e59-3ef4-4ae4-a0ed-bd46046a3ce6,returns.city,available,7.99,,72,16,7,name.com,,
 2c3a8020-35c8-4fc2-b007-483a9fac9b1e,likeso.city,available,7.99,,52,1,7,name.com,,
 2c752ba6-9b5b-495e-960b-192329bb4815,assuch.city,available,7.99,,66,1,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d154fc0-6f2b-42ce-ad7e-7b89e26d8178,comments.city,available,7.99,,52,10,8,name.com,,
 5d32ba41-e2e9-4c80-a0c9-3458ddc03bc9,nonsmoking.city,available,7.99,,68,3,11,name.com,,
 5d413bcf-955c-4261-95a6-990c3abd00ae,merrygorounds.city,available,7.99,,54,0,15,name.com,,
-5d519c64-3407-4f7a-ab59-752fa3e760ab,letsomeonehaveit.city,available,7.99,,67,1,19,name.com,,
