@@ -1,10 +1,10 @@
-# Available .CITY One-Word Domains (11,014)
+# Available .CITY One-Word Domains (11,015)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C014%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C015%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .city one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,014 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,015 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,014 domains · **Median ask:** $12.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,015 domains · **Median ask:** $14.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/city`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/city`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CITY one-word domain 
 
 ### Files
 
-- `city.csv` — public CSV extract (1,000 rows)
-- `city.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `city.csv`, public CSV extract (1,000 rows)
+- `city.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| paste.city     | premium   | —         | —             | 80             | 23     | 5      | —                                                         |
-| Trex.city      | available | $37.98    | —             | 80             | 24     | 5      | namecheap                                                 |
-| finals.city    | available | $7.99     | —             | 80             | 7      | 6      | name.com                                                  |
-| geton.city     | available | $7.99     | —             | 82             | 10     | 6      | name.com                                                  |
-| Apples.city    | available | $37.98    | —             | 90             | 16     | 6      | namecheap                                                 |
-| dogsit.city    | available | $7.99     | —             | 96             | 2      | 6      | name.com                                                  |
-| edamame.city   | available | $7.99     | —             | 80             | 9      | 7      | name.com                                                  |
-| gearup.city    | available | $7.99     | —             | 80             | 16     | 7      | name.com                                                  |
-| QandA.city     | available | $37.98    | —             | 80             | 10     | 7      | namecheap                                                 |
-| toneup.city    | available | $7.99     | —             | 80             | 5      | 7      | name.com                                                  |
-| impress.city   | available | $7.99     | —             | 86             | 18     | 7      | name.com                                                  |
-| presents.city  | available | $7.99     | —             | 80             | 9      | 8      | name.com                                                  |
-| FabFour.city   | available | $7.99     | —             | 82             | 3      | 8      | name.com                                                  |
-| headout.city   | available | $7.99     | —             | 82             | 6      | 8      | name.com                                                  |
-| bees.city      | available | $7.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| universal.city | resell    | —         | —             | 86             | 80     | 9      | Porkbun LLC                                               |
-| etc.city       | premium   | $46.20    | $92.40        | 58             | 32     | 3      | namecheap                                                 |
-| Keith.city     | available | $37.98    | —             | 66             | 25     | 5      | namecheap                                                 |
-| online.city    | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tips.city      | premium   | $280      | $560          | 80             | 26     | 4      | namecheap                                                 |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| acne.city | available | $7.99     | —             | medium         | low    | 4      | name.com          |
+| bee.city  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| age.city  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap         |
+| acts.city | available | $7.99     | —             | medium         | low    | 4      | name.com          |
+| gym.city  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
+| ale.city  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap         |
+| bars.city | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| kid.city  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| ana.city  | premium   | $280      | $560          | high           | low    | 3      | namecheap         |
+| both.city | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| tap.city  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| Ann.city  | premium   | $14       | $28           | high           | low    | 3      | namecheap         |
+| cord.city | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| card.city | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.   |
+| atp.city  | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap         |
+| curl.city | available | $7.99     | —             | medium         | low    | 4      | name.com          |
+| drop.city | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 37 |
+| bid.city  | premium   | $280      | $560          | high           | low    | 3      | namecheap         |
+| died.city | available | $7.99     | —             | medium         | low    | 4      | name.com          |
+| fund.city | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,014 live domains                        |
+| 1,000-row public sample | 11,015 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .city domains. The set spans generic words, action words, and broader brandable terms such as Acup.city, Trex.city, Finals.city, Ladies.city, and Getup.city. With a median ask of 13.01, the entry price is low, so the decision is less about price compression and more about whether the word carries enough meaning on a non-mainstream extension. Founders should prioritize names that are easy to say, easy to spell, and still feel credible with .city. Investors should focus on words with clearer commercial use, broader buyer pools, and fewer obvious trademark concerns.
+This selection tracks one-word .city domain names across the full .city namespace, from everyday nouns to short compound phrases. With 11,015+ names and a median asking price near $15, most entries sit at an accessible price point for testing a new brand or building a small portfolio. Because .city is a geo-themed extension, names read naturally for local guides, city-based marketplaces, and community-driven projects, while remaining short enough to stay memorable and easy to spell.
 
-- Median ask is 13.01 across 10,997 .city domains
-- One-word .city names favor clarity over complexity
-- Generic words usually age better than niche phrasing
-- Check trademark overlap before valuing brandability
+- 11,015+ one-word .city domain names in this selection
+- Median asking price near $15 — low barrier to entry
+- Short, dictionary-style names suited to local, city-themed brands
+- Updated daily to reflect current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
