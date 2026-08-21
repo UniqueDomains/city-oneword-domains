@@ -14,7 +14,7 @@ c403acce-0248-4798-8974-e1f41b4d73ae,combatant.city,available,5.98,37.98,low,low
 a873d7eb-a8ba-4ad5-8fc0-c9de51260e50,wounded.city,available,7.99,,medium,low,7,name.com,,
 ec8983b6-ed85-432a-a345-53449c026a92,lookupon.city,available,7.99,,high,low,9,name.com,,
 670863db-4bb8-4e07-859c-c0a3fabb0858,apnoeic.city,available,5.98,37.98,low,low,7,namecheap,,
-c5928e31-0224-4b9b-b07c-955ed4ca7c66,virtual.city,resell,,,medium,medium,7,"GoDaddy.com, LLC",17/10/2017 23:17,17/10/2028 23:17
+c5928e31-0224-4b9b-b07c-955ed4ca7c66,virtual.city,resell,,,medium,low,7,"GoDaddy.com, LLC",17/10/2017 23:17,17/10/2028 23:17
 254732f0-22fa-4f92-b2c0-a82f2a447d24,xxvi.city,available,7.99,41.99,medium,low,4,name.com,,
 46cf0cab-2877-42db-a33d-328b120ac61c,keep.city,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",21/07/2023 15:15,21/07/2026 15:15
 411cc1ed-84c8-4cf3-b96b-053f189843dd,gym.city,resell,,,high,low,3,"Spaceship, Inc.",08/01/2025 15:15,08/01/2027 15:15
@@ -87,7 +87,7 @@ c0479d6b-554c-4760-ae7f-d46e0f6f7691,lithuania.city,available,,,medium,low,9,,,
 393562a3-6665-41e1-b6dc-0dae0268088f,termination.city,available,7.99,,low,low,11,name.com,,
 89f5310d-b620-4b0d-9e25-826981efc972,leaveout.city,available,7.99,,medium,low,9,name.com,,
 29151705-9285-4ef2-9cee-6cd567cfcd99,everyyear.city,available,7.99,,medium,low,10,name.com,,
-91bc9a94-6a3c-4ee9-9237-980d6e4ca4bb,related.city,available,7.99,,high,low,7,name.com,,
+91bc9a94-6a3c-4ee9-9237-980d6e4ca4bb,related.city,available,5.98,37.98,medium,low,7,namecheap,,
 8e72529e-2f79-43ea-b777-5ef77912cdd8,brought.city,available,7.99,,medium,low,7,name.com,,
 f5979edb-f720-4099-a934-de6a0c42fd39,arboriform.city,available,5.98,37.98,low,low,10,namecheap,,
 6ce244c1-449a-44eb-8d67-f89a0162785b,turncoat.city,available,5.98,37.98,low,low,8,namecheap,,
@@ -553,6 +553,7 @@ a61c0fd3-5541-4380-858f-f070472bb047,holdoff.city,available,7.99,,medium,low,8,n
 e5f07eac-e09e-4807-87f1-ebadcb6b8ed8,consist.city,available,7.99,,high,low,7,name.com,,
 13f745b9-6aba-4886-aff3-8aa17ba60560,artimitateslife.city,available,7.99,,medium,low,17,name.com,,
 ce83c66e-e4fd-42ad-a990-dfed048b1427,tornado.city,available,7.99,,medium,low,7,name.com,,
+f4225ca7-736b-4c09-98ee-b0c56180309e,windows.city,resell,,,medium,medium,7,"Spaceship, Inc.",22/05/2021 15:13,22/05/2027 15:13
 4d0e3b73-23d5-4f7e-b8fb-15fddca5f15a,structures.city,available,7.99,,low,low,10,name.com,,
 7510b893-550c-46c6-bdab-c009d336b401,craft.city,resell,,,high,medium,5,"Spaceship, Inc.",05/11/2015 19:00,05/11/2026 19:00
 bb7b6c72-43ab-4269-bde7-6d007163592e,curl.city,available,7.99,,medium,low,4,name.com,,
@@ -965,7 +966,7 @@ c5686cd8-bdf8-4955-88f0-5181502df163,trophy.city,premium,14,28,high,low,6,namech
 7f012ade-1e00-4475-a098-aed25f68c5aa,halfass.city,available,7.99,,medium,low,8,name.com,,
 215ed70f-481c-41d3-a09a-cb15ed8db402,astimesgo.city,available,7.99,,medium,low,11,name.com,,
 a90aead0-a79e-4798-8cf7-80b72a010500,givebirth.city,available,7.99,,high,low,10,name.com,,
-ba6430d7-651e-4c72-92e8-930c2f85b0b1,attack.city,available,7.99,,high,low,6,name.com,,
+ba6430d7-651e-4c72-92e8-930c2f85b0b1,attack.city,available,5.98,37.98,medium,low,6,namecheap,,
 0523a776-ff9f-4418-abba-6b5fcab414e0,dingy.city,available,5.98,37.98,low,low,5,namecheap,,
 2c287168-ca9e-420d-a928-23d675c34c6e,hum.city,premium,14,28,high,low,3,namecheap,,
 26c4e977-a98a-4259-8f2e-3a9fcc81c7cc,moneysupply.city,available,7.99,,high,low,12,name.com,,
@@ -998,4 +999,3 @@ fafa7955-09a7-4edb-9d04-076db5306f57,lowly.city,available,5.98,37.98,low,low,5,n
 8a4a0a18-717d-41a8-a6df-87753812789f,cxlv.city,available,5.98,37.98,low,low,4,namecheap,,
 6b892e79-2ce3-4692-ae6f-631455350e11,develop.city,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",10/10/2025 15:16,10/10/2026 15:16
 013cd1d6-616b-47a5-8f6a-0b88da1112d1,atwill.city,available,7.99,,medium,low,7,name.com,,
-51fa5f43-f41e-4bcd-a754-6258bebaf2e4,thanks.city,available,,,high,low,6,,,
