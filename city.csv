@@ -14,7 +14,7 @@ c403acce-0248-4798-8974-e1f41b4d73ae,combatant.city,available,5.98,37.98,low,low
 a873d7eb-a8ba-4ad5-8fc0-c9de51260e50,wounded.city,available,7.99,,medium,low,7,name.com,,
 ec8983b6-ed85-432a-a345-53449c026a92,lookupon.city,available,7.99,,high,low,9,name.com,,
 670863db-4bb8-4e07-859c-c0a3fabb0858,apnoeic.city,available,5.98,37.98,low,low,7,namecheap,,
-c5928e31-0224-4b9b-b07c-955ed4ca7c66,virtual.city,resell,,,medium,medium,7,"GoDaddy.com, LLC",17/10/2017 23:17,17/10/2028 23:17
+c5928e31-0224-4b9b-b07c-955ed4ca7c66,virtual.city,resell,,,medium,low,7,"GoDaddy.com, LLC",17/10/2017 23:17,17/10/2028 23:17
 254732f0-22fa-4f92-b2c0-a82f2a447d24,xxvi.city,available,7.99,41.99,medium,low,4,name.com,,
 46cf0cab-2877-42db-a33d-328b120ac61c,keep.city,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",21/07/2023 15:15,21/07/2026 15:15
 411cc1ed-84c8-4cf3-b96b-053f189843dd,gym.city,resell,,,high,low,3,"Spaceship, Inc.",08/01/2025 15:15,08/01/2027 15:15
@@ -252,7 +252,7 @@ bc00a143-483c-4003-9efd-4921084999fb,particular.city,available,7.99,,high,low,10
 a5ea0f49-a674-46f6-a22d-8d22673b9f4a,journeyman.city,available,7.99,,medium,low,10,name.com,,
 383ed12c-83d7-4d27-861d-0c2a02211e32,Seals.city,available,7.99,,medium,low,5,name.com,,
 b17734d4-759a-4efc-ace2-6cd44c4323ff,healthcare.city,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., Ltd.",19/12/2018 12:11,19/12/2029 12:11
-eaacfa48-8503-439d-a1fc-cf9af3a32f35,departure.city,available,7.99,,medium,low,9,name.com,,
+eaacfa48-8503-439d-a1fc-cf9af3a32f35,departure.city,available,5.98,37.98,low,low,9,namecheap,,
 bddff8b9-d2cb-4d28-b07f-382a94747265,jehovah.city,available,5.98,37.98,low,low,7,namecheap,,
 58c4cbb4-06d5-472f-acb6-ff3d3f2f29fd,articular.city,available,5.98,37.98,low,low,9,namecheap,,
 999873b7-7ce3-417c-9fd8-586d6cf4b1a6,worsening.city,available,7.99,,medium,low,9,name.com,,
@@ -343,7 +343,7 @@ f60e5fb0-8363-4140-84af-befe014f4c2c,galaxy.city,resell,,,high,medium,6,Xin Net 
 4d1bbb1a-6642-4dcc-bbd2-21bee8138796,greatgranddaughter.city,available,7.99,,high,low,19,name.com,,
 3f4b10fe-5f03-465e-ad8a-41aa521e788b,accusatory.city,available,5.98,37.98,low,low,10,namecheap,,
 97fe9ecf-24f3-4b71-9b6d-fa4658a451f0,Istandcorrected.city,available,7.99,,medium,low,17,name.com,,
-4917e184-28d9-40e5-8e26-ac0c5d94a06c,economy.city,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/11/2021 06:44,09/11/2026 06:44
+4917e184-28d9-40e5-8e26-ac0c5d94a06c,economy.city,resell,,,medium,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/11/2021 06:44,09/11/2026 06:44
 c42d93ba-cab7-436b-99b4-0b53ad276f7f,alike.city,available,7.99,41.99,high,low,5,name.com,,
 3767c942-3132-40bc-bd6b-ca11ab575859,acyclic.city,available,5.98,37.98,low,low,7,namecheap,,
 e27ca45a-b273-405c-95b0-ca60beb3619b,distinction.city,available,7.99,,high,low,11,name.com,,
@@ -476,7 +476,7 @@ e97d186b-bc30-4641-a813-752b6293883d,funnylooking.city,available,7.99,,medium,lo
 71beb4c5-ef89-4272-b170-338f6ee7538a,aoristic.city,available,5.98,37.98,low,low,8,namecheap,,
 ce709ef7-8de3-445d-8c56-ca289663c743,expended.city,available,7.99,,medium,low,8,name.com,,
 0b479683-acd7-4b2f-afe3-92b4f083f099,weeks.city,available,7.99,,low,low,5,name.com,,
-b8d6c43f-7e8d-42da-84c8-32e402dd619c,complicate.city,available,7.99,,high,low,10,name.com,,
+b8d6c43f-7e8d-42da-84c8-32e402dd619c,complicate.city,available,5.98,37.98,low,low,10,namecheap,,
 a223656d-1660-40f1-a142-cb9135da9e92,shaft.city,available,7.99,,high,low,5,name.com,,
 a356064c-512b-4a98-bdc8-bbf708f3900c,month.city,available,7.99,,high,low,5,name.com,,
 adb8a9ce-7d19-4b6d-aa34-65ca3c4d72c9,pompom.city,available,5.98,37.98,low,low,7,namecheap,,
@@ -805,7 +805,7 @@ ef581502-dc82-425a-95f6-4f2a0cf036db,tap.city,resell,,,high,medium,3,"GoDaddy.co
 0128b1d0-60ae-489e-9aae-e26291143347,tomboy.city,available,7.99,,medium,low,7,name.com,,
 6667020b-847e-4840-b9f5-ffb9f3b1a387,bravery.city,available,7.99,,high,low,7,name.com,,
 933adce2-d217-4fad-ad9a-026030c34647,blood.city,resell,,,high,low,5,"DNSPod, Inc.",16/06/2022 13:15,16/06/2026 13:15
-60408d02-947f-45d6-bd91-30c628183813,handle.city,available,7.99,,high,low,6,name.com,,
+60408d02-947f-45d6-bd91-30c628183813,handle.city,available,5.98,37.98,medium,low,6,namecheap,,
 7297344e-259e-4402-b4c6-ad004f0f56ee,comp.city,premium,26,26,medium,low,4,namecheap,,
 baf6601c-d1a5-41b5-9312-2edb94fe9281,advective.city,available,5.98,37.98,low,low,9,namecheap,,
 0b6c6805-e541-477d-8f0d-21ecc9f8eef5,myapology.city,available,7.99,,high,low,10,name.com,,
