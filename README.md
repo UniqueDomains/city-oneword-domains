@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .city one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,565 domains · **Median ask:** $9.59 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/city`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| pardon.city | available | $7.99     | —             | high           | low    | 6      | name.com          |
-| achy.city   | available | $5.98     | $37.98        | low            | low    | 4      | namecheap         |
-| bee.city    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| age.city    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| acne.city   | available | $7.99     | —             | medium         | low    | 4      | name.com          |
-| gym.city    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
-| ale.city    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap         |
-| acts.city   | available | $7.99     | —             | medium         | low    | 4      | name.com          |
-| kid.city    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
-| ana.city    | premium   | $280      | $560          | high           | low    | 3      | namecheap         |
-| aery.city   | available | $5.98     | $37.98        | low            | low    | 4      | namecheap         |
-| tap.city    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| ann.city    | premium   | $14       | $28           | high           | low    | 3      | namecheap         |
-| bars.city   | available | $7.99     | —             | high           | low    | 4      | name.com          |
-| bill.city   | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 35 |
-| atp.city    | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap         |
-| both.city   | available | $7.99     | —             | high           | low    | 4      | name.com          |
-| card.city   | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.   |
-| bid.city    | premium   | $280      | $560          | high           | low    | 3      | namecheap         |
-| cord.city   | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| achy.city | available | $5.98     | $37.98        | low            | low    | 4      | namecheap         |
+| gym.city  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
+| age.city  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
+| acne.city | available | $7.99     | —             | medium         | low    | 4      | name.com          |
+| kid.city  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| ale.city  | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap         |
+| acts.city | available | $7.99     | —             | medium         | low    | 4      | name.com          |
+| tap.city  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| ana.city  | premium   | $280      | $560          | high           | low    | 3      | namecheap         |
+| aery.city | available | $5.98     | $37.98        | low            | low    | 4      | namecheap         |
+| bill.city | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 35 |
+| ann.city  | premium   | $14       | $28           | high           | low    | 3      | namecheap         |
+| bars.city | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| card.city | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.   |
+| atp.city  | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap         |
+| both.city | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| drop.city | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 37 |
+| bid.city  | premium   | $280      | $560          | high           | low    | 3      | namecheap         |
+| cord.city | available | $7.99     | —             | high           | low    | 4      | name.com          |
+| fund.city | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CITY One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
