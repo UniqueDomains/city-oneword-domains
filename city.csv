@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+a1fa8a08-c77a-4da1-9a70-094797f6b521,mathias.city,available,7,,high,low,7,unstoppable,,,28/09/2026 05:17
 4ff7e3c5-3304-4480-99b5-0100e37fda26,fadeout.city,available,5.98,37.98,medium,low,7,namecheap,,,09/09/2026 11:18
 947330a4-72bf-415b-8c30-074701026b78,dedicated.city,available,7.25,28.49,high,low,9,namesilo,,,23/09/2026 20:41
 882be7af-9a02-4810-b535-50f9c4929814,postiche.city,available,5.98,37.98,medium,low,8,namecheap,,,17/08/2026 21:22
@@ -30,7 +31,7 @@ e15c9661-ec2a-4a8f-aa28-7cd5d00090c5,skyline.city,resell,,,high,low,7,"DNSPod, I
 ed23a2a0-2530-4b07-a245-493847a21f39,dimmed.city,available,5.98,37.98,medium,low,6,namecheap,,,14/08/2026 08:08
 d450b38a-7722-44c6-9f2d-f552044ac71c,veg.city,premium,14,28,high,low,3,namecheap,,,
 35cc8a50-e17c-4e75-8d7d-c1845471ee07,racing.city,premium,23.1,46.2,high,low,6,namecheap,,,
-5b696940-1abf-4926-9969-66a007c8c03e,footwear.city,available,7.25,28.49,high,low,8,namesilo,,,24/09/2026 02:34
+5b696940-1abf-4926-9969-66a007c8c03e,footwear.city,available,4.5,23.76,high,low,8,dynadot,,,28/09/2026 05:26
 e99c66e2-8736-49d3-9b0e-61bb0efeed54,arm.city,premium,46.2,92.4,high,medium,3,namecheap,,,
 8255fe49-29e9-472a-96d3-64c4fea6526d,baldachin.city,available,5.98,37.98,medium,low,9,namecheap,,,21/09/2026 21:30
 cc69b52b-b24c-4b4b-9bbe-b659615cd813,irritated.city,available,5.98,37.98,medium,low,9,namecheap,,,
@@ -96,6 +97,7 @@ b78a8401-ea43-4d30-8ec7-c6b95e22985c,gaol.city,available,5.98,37.98,medium,low,4
 0002383e-be7a-408c-989b-d26fcd59f606,infertile.city,available,5.98,37.98,medium,low,9,namecheap,,,22/08/2026 04:24
 c6a37bba-2ea6-4bee-b307-0f0e3c0ff528,bassine.city,available,7.25,28.49,medium,low,7,namesilo,,,22/09/2026 12:22
 3a44c6c4-380a-415a-b68e-a043ee148b68,engross.city,available,5.98,37.98,medium,low,7,namecheap,,,10/09/2026 19:54
+5d4b0f8c-3a87-4751-8ce5-03b676a15ae9,engel.city,available,5.38,22.97,high,low,5,spaceship,,,28/09/2026 04:50
 d382f8a2-e225-44e3-b816-8dc683e402ee,kick.city,resell,,,high,high,4,"DNSPod, Inc.",23/04/2023 15:15,23/04/2027 15:15,27/09/2026 03:59
 3c9a2eb1-d17b-4d82-bf2d-bbd83e4f97da,sliding.city,available,5.38,22.97,high,low,7,spaceship,,,27/09/2026 22:47
 d469a33f-ba41-4600-9523-308b2b34f8b3,reservations.city,premium,23.6,23.6,medium,low,12,namesilo,,,17/09/2026 23:30
@@ -169,10 +171,12 @@ ed71b5ee-b751-4045-b355-d244931cb327,harsh.city,available,5.98,37.98,medium,low,
 53f215fa-8954-4194-80b6-1bded1f68ccf,unholy.city,available,5.98,37.98,medium,low,6,namecheap,,,14/08/2026 01:33
 e2da0f1b-5982-48fb-90c3-1e54f1d39d8e,ibuprofen.city,available,7.25,28.49,high,low,9,namesilo,,,17/09/2026 11:14
 42a435a2-dc28-46bc-a5c5-07710a307e7e,catholics.city,available,5.98,37.98,medium,low,9,namecheap,,,19/09/2026 20:28
+dfaac9fe-5ca1-47e4-b3f5-c0b1dbd15893,sweater.city,available,22.2,22.2,high,low,7,cloudflare,,,28/09/2026 06:35
 b118c1ef-7d9d-416e-82dc-dc3fc29730b9,scallion.city,available,7.25,28.49,medium,low,8,namesilo,,,18/09/2026 11:26
 b3a86ca6-5c5b-4cfe-8979-e21aed1cccbe,sings.city,available,7.25,28.49,medium,low,5,namesilo,,,27/09/2026 23:41
 8c253561-0750-47e3-9742-a141c53b2f9a,deductive.city,available,5.98,37.98,medium,low,9,namecheap,,,13/08/2026 22:29
 896a787c-5aa4-4aba-b857-ad51893b34bd,olden.city,available,5.98,37.98,medium,low,5,namecheap,,,04/09/2026 02:02
+4c9292f2-dd17-4027-95ae-374ee7d14a39,repay.city,available,4.63,23.17,high,low,5,porkbun,,,28/09/2026 06:39
 79fffef5-060e-4db9-9bed-6d292a238cfb,detoxify.city,available,7.99,,high,low,8,name.com,,,
 1a9a9c19-a0bc-4bab-a7c1-80a49fa0f6cb,household.city,available,7.99,,high,low,9,name.com,,,
 454d60e7-b255-47f0-bd14-4fc10ec4bbe9,swept.city,available,5.98,37.98,high,low,5,namecheap,,,11/09/2026 05:44
@@ -272,6 +276,7 @@ fafa7955-09a7-4edb-9d04-076db5306f57,lowly.city,available,5.98,37.98,medium,low,
 0c3f88a9-d20f-46ab-8904-34281e7bb83f,anyways.city,available,5.98,37.98,medium,low,7,namecheap,,,13/09/2026 20:13
 0ed998da-bb8b-46cd-998b-e48dc1fe4930,retained.city,available,5.38,22.97,high,low,8,spaceship,,,27/09/2026 13:05
 8edb6df1-e89d-4623-a6b2-a6638a6243c0,cissy.city,available,5.98,37.98,medium,low,5,namecheap,,,12/08/2026 08:40
+4af60ec8-38b6-4bad-acf0-51fec09219bf,mooney.city,available,4.5,23.76,high,low,6,dynadot,,,28/09/2026 03:44
 093f1d8c-954d-47b7-9530-2af1435555e9,gail.city,available,7.99,,high,low,4,name.com,,,
 524575b7-b006-40b6-8763-6a3549c79d2a,fresnel.city,available,7.25,28.49,high,low,7,namesilo,,,21/09/2026 04:00
 f5ca70ba-8d26-42bb-9f21-b981efcd55f8,reflexion.city,available,5.98,37.98,high,low,9,namecheap,,,03/09/2026 11:28
@@ -318,6 +323,7 @@ c20165e1-cd47-43fe-93e3-e040cdf2bd48,explicable.city,available,5.98,37.98,medium
 4761f5e8-1758-4c43-9296-3d041e1f21da,aciculate.city,available,5.98,37.98,medium,low,9,namecheap,,,
 e7ca53d9-4ae1-472d-9fe3-c888fa2096b3,backflow.city,available,7.25,28.49,high,low,8,namesilo,,,21/09/2026 15:32
 f76f98b0-44a6-412c-8f00-89ea0dfb820a,akhenaten.city,available,5.98,37.98,medium,low,9,namecheap,,,17/09/2026 23:57
+472fbc36-586c-4b0f-9a20-c29b47895b5b,judith.city,available,7,,high,low,6,unstoppable,,,28/09/2026 05:18
 0d5f8627-6ff2-4fc3-a6c3-3e08256469a8,attempt.city,available,7.99,,high,low,7,name.com,,,
 9a398224-b65c-4b72-b3b2-b09601db1d6a,dollar.city,resell,,,high,low,6,"Spaceship, Inc.",17/02/2017 19:18,17/02/2027 19:18,26/09/2026 05:38
 b13ec003-0816-47e7-b463-18c8979f4120,pusher.city,available,7.25,28.49,high,low,6,namesilo,,,21/09/2026 13:22
@@ -350,6 +356,7 @@ ad709c1a-3987-4e70-a34a-20b3e0c62f1d,aberrance.city,available,7.25,28.49,medium,
 01c09f65-9538-42fe-a139-171343c6b3fe,swimmer.city,available,7.25,28.49,high,low,7,namesilo,,,22/09/2026 13:29
 2e80f1bf-a441-4093-a08e-4e58aed11dd5,printers.city,available,7.25,28.49,medium,low,8,namesilo,,,21/09/2026 00:30
 430f526d-67d4-4978-a76a-bbdff90d2dae,deposits.city,available,7.99,,medium,low,8,name.com,,,
+8e8ea99c-bc5a-409b-8608-4bc5dd836ffc,kaye.city,available,5.38,22.97,high,low,4,spaceship,,,28/09/2026 04:47
 713b41b9-1b3a-438e-aaf1-2494499fcd6c,riskless.city,available,5.98,37.98,medium,low,8,namecheap,,,09/09/2026 17:59
 be449468-fb1d-4322-ad13-e1c11d78c654,unwelcome.city,available,5.98,37.98,medium,low,9,namecheap,,,12/09/2026 22:38
 0c27ec70-7774-4c7a-9f4c-dcaaae0efeba,chemist.city,available,7.25,28.49,high,low,7,namesilo,,,19/09/2026 19:39
@@ -437,12 +444,14 @@ e1d1f35b-5e85-4e38-9d92-afcbff7f024b,occasionally.city,available,7.25,28.49,medi
 7ba61966-44f3-4e94-99bd-18736552aaa0,wastebin.city,available,7.99,41.99,medium,low,8,name.com,,,20/09/2026 13:38
 bb39c8cc-865a-436f-9dae-70cbb8fc1e7b,kicking.city,available,7.99,,high,low,7,name.com,,,
 f48c4d3b-5d7c-41e8-b64a-4f231a358a0b,lvi.city,premium,42.9,85.8,medium,low,3,namecheap,,,
+7d076f26-eeb3-4c32-945d-a5870350bf6d,experiments.city,available,5.38,22.97,medium,low,11,spaceship,,,28/09/2026 04:57
 1e3be976-e314-423d-a0f4-5ec564ee57e9,pedantic.city,available,5.98,37.98,medium,low,8,namecheap,,,14/08/2026 15:55
 6681caa8-a056-4125-9de3-76ae65fa1b23,lugubrious.city,available,5.98,37.98,medium,low,10,namecheap,,,24/08/2026 11:04
 2ef4db04-99f5-4ebf-b2f5-8a7a977efc38,grayish.city,available,5.98,37.98,medium,low,7,namecheap,,,20/08/2026 18:56
 97509cf3-0873-4804-9af5-492e48f6d0a4,greased.city,available,5.98,37.98,medium,low,7,namecheap,,,20/08/2026 19:33
 b8d08e83-021a-49cf-93b0-2c9c7e31624d,badly.city,available,7.25,28.49,medium,low,5,namesilo,,,22/09/2026 16:07
 99f216f4-8555-4cd9-8a9e-9bd0547e464e,plentiful.city,available,7.25,28.49,high,low,9,namesilo,,,27/09/2026 04:16
+ddb6a3ee-e257-44e3-834a-3cf933eedbe0,oberlin.city,available,7.25,28.49,medium,low,7,namesilo,,,28/09/2026 04:20
 d43cb89f-955f-4c9c-a3a2-fa90b13d1ef9,hebridean.city,available,5.98,37.98,medium,low,9,namecheap,,,21/08/2026 05:45
 2f6749f6-d168-476d-804d-2372a16b7b9b,skilful.city,available,7.99,41.99,high,low,7,name.com,,,21/09/2026 17:29
 f2cdd260-a877-41d4-a56e-62933e59c3b5,aborigine.city,available,5.98,37.98,high,low,9,namecheap,,,
@@ -462,6 +471,7 @@ ccec668f-b44d-424e-892f-76721b784f80,precursors.city,available,7.25,28.49,medium
 66471b47-d7d7-4686-bc1c-505b6a5f091b,norther.city,available,5.98,37.98,medium,low,7,namecheap,,,03/09/2026 21:34
 8e494642-32e1-4a5e-b976-c8d693d80d05,enlarged.city,available,5.98,37.98,high,low,8,namecheap,,,22/09/2026 22:37
 fc991912-a9b5-4114-9bd7-02e871787df9,endermic.city,available,5.98,37.98,medium,low,8,namecheap,,,17/08/2026 00:56
+04ced5e0-7789-468b-9972-d08431aa79f5,heather.city,available,5.38,22.97,high,low,7,spaceship,,,28/09/2026 05:22
 cd946f68-9ad7-4a4d-886a-74ec0aa1f88c,roaring.city,available,5.98,37.98,high,low,7,namecheap,,,10/08/2026 19:21
 6830e517-7e30-442d-b566-23ab7fb5b9bb,subacid.city,available,5.98,37.98,medium,low,7,namecheap,,,10/09/2026 23:22
 a9302c9e-b0b3-45b6-b1fb-084c33057f3d,capture.city,resell,,,high,low,7,"Sav.com, LLC",08/06/2026 16:41,08/06/2027 16:41,26/09/2026 04:46
@@ -583,7 +593,7 @@ ced4008e-3901-47a7-a138-c4ce8e6589b3,calculous.city,available,5.98,37.98,medium,
 6c0278f2-c659-4355-a9d5-67b485702692,jeremiah.city,available,5.98,37.98,high,low,8,namecheap,,,24/09/2026 06:54
 1d05d9d8-b700-4442-bcf8-abc546b3cb5e,asunder.city,available,5.98,37.98,medium,low,7,namecheap,,,07/08/2026 10:20
 fc32d5a4-97dd-4b28-a00d-49d83e1b0e4d,arjuna.city,available,7.25,28.49,high,low,6,namesilo,,,20/09/2026 06:08
-0b5c8523-9dfc-4435-b38b-68c67c4a017e,film.city,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),30/12/2019 01:12,30/12/2026 01:12,26/09/2026 06:04
+0b5c8523-9dfc-4435-b38b-68c67c4a017e,film.city,resell,,,high,low,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),30/12/2019 01:12,30/12/2026 01:12,28/09/2026 03:29
 ce5af912-e72e-485e-97a9-621e092242e9,slavelike.city,available,5.98,37.98,medium,low,9,namecheap,,,10/09/2026 10:32
 c9109ce3-ede0-4ff9-9e3e-4a31759b4a17,torrential.city,available,5.98,37.98,medium,low,10,namecheap,,,11/09/2026 17:57
 eb2b2c4c-58f8-4d45-bf31-f187b75de516,recaptured.city,available,5.98,37.98,medium,low,10,namecheap,,,18/09/2026 19:20
@@ -611,6 +621,7 @@ d67109d1-d765-4a22-add8-6757c8273c56,resolvable.city,available,7.25,28.49,high,l
 3f383168-f2a0-4285-b651-1608e008300d,abrader.city,available,7.25,28.49,medium,low,7,namesilo,,,16/09/2026 16:48
 af1bb705-30ac-4463-9a6e-6a6e1a65ece8,blase.city,available,5.98,37.98,medium,low,5,namecheap,,,10/08/2026 13:19
 a4ef5624-42c0-4487-8dc5-5433db7c3eee,gyroscopic.city,available,5.98,37.98,medium,low,10,namecheap,,,20/08/2026 21:21
+14e6ea3c-a66a-4338-bcfd-31c9e980f331,nasdaq.city,available,4.63,23.17,high,low,6,porkbun,,,28/09/2026 02:27
 0b15f5c1-6acd-41ba-b2f8-c7bba0a0660b,substitution.city,available,7.99,,high,low,12,name.com,,,
 577c1c06-b70a-4db2-9761-68c1120ae5c3,osmanli.city,available,5.98,37.98,medium,low,7,namecheap,,,04/09/2026 18:41
 c29ae28f-acd4-4bae-9cf9-59e59f33288c,wedged.city,available,5.98,37.98,medium,low,6,namecheap,,,21/08/2026 21:38
@@ -698,10 +709,13 @@ bbd69f0c-725e-4c51-8a8a-c7e5613ad340,untwisted.city,available,5.98,37.98,medium,
 880da5ae-72a3-4236-8bbc-a652b67c9def,manchurian.city,available,5.98,37.98,high,low,10,namecheap,,,24/08/2026 14:34
 c8c8e10f-6b8f-4828-9ccc-4024f21f3392,factitious.city,available,5.98,37.98,medium,low,10,namecheap,,,17/08/2026 20:27
 411a9718-b0b0-4d11-8949-0680a9a39508,draconian.city,available,5.98,37.98,medium,low,9,namecheap,,,14/08/2026 18:10
+d19571b9-74ba-48c5-8a50-d7880df43a38,alessandro.city,available,5.38,22.97,medium,low,10,spaceship,,,28/09/2026 05:03
+95418139-6095-4469-b82c-50d1b0e6b1d7,quercus.city,available,4.63,23.17,high,low,7,porkbun,,,28/09/2026 05:49
 af535f67-a25f-48e2-ae72-a6ab830f8926,doll.city,resell,,,high,low,4,Dynadot Inc,10/09/2026 17:00,10/09/2027 17:00,26/09/2026 05:38
 7b5c6057-7e47-4dc3-a744-f210af386d7e,promises.city,available,7.25,28.49,medium,low,8,namesilo,,,27/09/2026 03:01
 259a10e4-a9c9-48f2-a7ec-394aec2e10a1,pitfall.city,available,7.99,,medium,low,7,name.com,,,
 3a8a5bed-9782-47b3-a0bf-c5514fd4b83b,decent.city,available,5.98,37.98,high,low,6,namecheap,,,09/08/2026 06:17
+f5bb8bf9-174a-4d49-8fd4-72b7396ed577,methods.city,available,5.38,22.97,medium,low,7,spaceship,,,28/09/2026 04:33
 3571066f-feac-409f-87c4-6a1bfd75463f,nor.city,premium,14,28,high,low,3,namecheap,,,
 c4fd0614-8b82-4f0c-b1b8-17d783d388e5,echoic.city,available,5.98,37.98,medium,low,6,namecheap,,,14/08/2026 23:34
 792ebcb6-da54-4772-bb60-e40dd23306ea,fittest.city,available,7.25,28.49,medium,low,7,namesilo,,,18/09/2026 04:12
@@ -719,6 +733,7 @@ d260f9c5-31c6-4397-893e-8186e07bc595,newsstand.city,available,7.25,28.49,medium,
 f18d4f91-d650-43b8-a417-9005650f0fac,affixed.city,available,5.98,37.98,medium,low,7,namecheap,,,
 ef970270-f298-4f7a-aaad-beebf9ab7b9c,tormented.city,available,5.98,37.98,medium,low,9,namecheap,,,
 16bebfbd-3176-4b24-8195-7a11097c52af,sweptwing.city,available,5.98,37.98,medium,low,9,namecheap,,,11/09/2026 05:46
+cc3136be-ca68-45ed-910e-aebb8307e630,kerry.city,available,5.38,22.97,high,low,5,spaceship,,,28/09/2026 03:22
 e750ee1a-0e10-436e-950a-4195fb819425,prices.city,available,7.99,,medium,low,6,name.com,,,
 16f554bf-89cd-4537-838a-15b6b21f05de,acquittal.city,available,7.25,28.49,high,low,9,namesilo,,,17/09/2026 02:42
 733bb316-34e8-4f9d-b21d-c9d75b5f83f5,thunderous.city,available,7.99,41.99,medium,low,10,name.com,,,13/08/2026 19:56
@@ -752,7 +767,9 @@ da8441a9-f15b-4b22-8c12-9c80c3f71cf4,amaurosis.city,available,7.25,28.49,medium,
 a61f3b65-0adc-4031-8e85-cf13655a534a,raiment.city,available,5.98,37.98,medium,low,7,namecheap,,,19/09/2026 19:57
 807f7beb-ab55-4dde-83f7-b84b03df387f,appointive.city,available,5.98,37.98,medium,low,10,namecheap,,,06/08/2026 07:16
 210d1345-096b-4e6d-b865-32f9ad2de68c,speckless.city,available,5.98,37.98,medium,low,9,namecheap,,,21/08/2026 20:42
+16350deb-97f9-41de-bed4-f80eb5a9e316,putin.city,available,7,,medium,low,5,unstoppable,,,28/09/2026 02:59
 ac92e38c-df1e-4eae-a41f-e4f939376f65,dilatory.city,available,5.98,37.98,medium,low,8,namecheap,,,14/08/2026 07:31
+8e284637-bac5-4e36-a5eb-0d4db7e2b1c7,vicksburg.city,available,7.25,28.49,high,low,9,namesilo,,,28/09/2026 03:05
 0ef81996-bfd7-4aea-96e5-daf725cff0ba,spangly.city,available,5.98,37.98,medium,low,7,namecheap,,,18/08/2026 21:20
 29072bfb-a34b-480b-b035-d5b30956751b,algebraic.city,available,5.98,37.98,medium,low,9,namecheap,,,
 18e30c30-4026-4e3e-a7d2-71676c35afa7,aptly.city,available,5.98,37.98,medium,low,5,namecheap,,,13/09/2026 16:19
@@ -806,6 +823,7 @@ ee296636-dc8b-4fce-b007-fb1f114961e1,reserve.city,premium,42.9,85.8,high,low,7,n
 25cce36d-af32-4afe-acb3-f06799a44638,chordate.city,available,5.98,37.98,medium,low,8,namecheap,,,12/08/2026 07:12
 3c6cdc0d-ebf3-4e76-b27a-0f6cbcdfd388,designing.city,available,5.98,37.98,high,low,9,namecheap,,,14/08/2026 03:45
 fd3c5537-c5b5-4bf7-a68f-7e06464191cd,frore.city,available,5.98,37.98,low,low,5,namecheap,,,18/08/2026 16:21
+607397eb-05df-49f8-b091-96f849eedb63,spd.city,premium,17.28,34.36,high,low,3,spaceship,,,28/09/2026 03:51
 a6809320-9284-411a-b9ac-e6edbcd62d69,clunky.city,available,5.98,37.98,medium,low,6,namecheap,,,12/08/2026 13:08
 f9c84c0f-b65e-40bc-9019-b86884147719,sum.city,premium,13,26,high,low,3,namecheap,,,21/09/2026 22:52
 39671ced-b99a-444c-ba33-b072d48fe3f6,wrinkly.city,available,5.98,37.98,medium,low,7,namecheap,,,13/09/2026 13:47
@@ -820,6 +838,7 @@ de2af24e-a564-4e1c-a34a-07d3036dd213,cyclical.city,available,7.99,41.99,high,low
 9804920b-898d-496c-bbcd-fa5ade1823ef,framed.city,available,5.98,37.98,high,low,6,namecheap,,,18/08/2026 14:04
 faa33750-03a6-4996-9b00-0bd188de7fdf,satisfactory.city,available,7.99,,high,low,12,name.com,,,
 15add378-3eba-46ba-b21b-c914cc7062e3,quizzical.city,available,5.98,37.98,medium,low,9,namecheap,,,09/09/2026 08:39
+ad19fc3b-aa35-4a90-b28e-315addf01707,clues.city,available,5.38,22.97,medium,low,5,spaceship,,,28/09/2026 05:05
 6083304f-b619-40fe-a4a7-555eecd3ffd8,guffaw.city,available,7.25,28.49,high,low,6,namesilo,,,23/09/2026 06:41
 34e0dfce-8a21-41db-8fd7-c5114577d434,haley.city,available,7.25,28.49,high,low,5,namesilo,,,18/09/2026 05:45
 3974dff4-6be0-4496-9701-d43e4db7c99c,conjugal.city,available,5.98,37.98,medium,low,8,namecheap,,,12/08/2026 22:07
@@ -869,6 +888,7 @@ c5135772-b264-4ccc-83ce-b2cb3afcbd60,techno.city,resell,,,high,low,6,"Chengdu We
 12bf5869-bde1-4ec5-a66f-49f81a29d08f,spas.city,available,5.98,37.98,medium,low,4,namecheap,,,18/09/2026 21:33
 ac606261-ae52-4b78-8cc1-535299956758,tate.city,available,5.98,37.98,high,low,4,namecheap,,,18/09/2026 10:50
 5ff77183-8725-446f-a972-d3e278265826,wins.city,available,7.25,28.49,high,low,4,namesilo,,,18/09/2026 14:21
+d40f7ecc-849f-4b2a-8cc6-ab44270ad934,yelling.city,available,7,,high,low,7,unstoppable,,,28/09/2026 06:53
 4ff8e5cd-9ac4-4a34-b360-24b21a4f845e,celibate.city,available,5.98,37.98,high,low,8,namecheap,,,11/08/2026 23:25
 4c278f98-c374-411d-9a65-e0ea52053b1c,stairs.city,available,7.99,,high,low,6,name.com,,,
 53ddb87c-48fd-427d-8357-40edc30e0bfe,lightsome.city,available,5.98,37.98,high,low,9,namecheap,,,10/08/2026 14:41
@@ -912,6 +932,7 @@ a2f938e1-1b0c-4fdb-b393-4cc129ccae9f,tangible.city,available,5.98,37.98,high,low
 163ebd69-28f8-471d-83ab-a296d0640e1d,ocular.city,available,5.98,37.98,high,low,6,namecheap,,,04/09/2026 00:41
 fb8c6dcf-6b1c-42ca-8e0e-087c748a206b,citizen.city,resell,,,high,low,7,"DNSPod, Inc.",10/06/2017 03:00,10/06/2027 03:00,26/09/2026 04:57
 314963b9-9383-4e88-9b7c-86885f2531de,fights.city,available,5.98,37.98,medium,low,6,namecheap,,,20/09/2026 00:14
+7ba3ce5e-00aa-4174-ac6a-8888cd3507de,magnum.city,available,7.25,28.49,high,low,6,namesilo,,,28/09/2026 06:19
 46bb1675-74a0-415f-90cd-dffa8534603c,colossal.city,available,5.98,37.98,high,low,8,namecheap,,,12/08/2026 17:57
 14c63911-1856-489b-91d5-b645c344f78f,centuries.city,available,7.25,28.49,medium,low,9,namesilo,,,17/09/2026 04:43
 cdd5f338-af9f-48fa-8785-fc320babd270,burt.city,available,7.25,28.49,medium,low,4,namesilo,,,25/09/2026 03:54
@@ -949,6 +970,7 @@ c560ff02-743a-4cb0-aff0-aacced53e59d,gastropod.city,available,5.98,37.98,medium,
 693b45c6-a2d0-458f-9515-88bcd7b5391b,stark.city,resell,,,high,medium,5,Dynadot Inc,18/07/2026 17:00,18/07/2027 17:00,26/09/2026 09:16
 3a5fc887-86ae-4b88-bc95-92b6fc8934d8,gumptious.city,available,5.98,37.98,medium,low,9,namecheap,,,20/08/2026 20:57
 2112f3c0-bc85-4adc-9ddb-9b8512b1c9d7,deadlines.city,available,7.25,28.49,medium,low,9,namesilo,,,21/09/2026 08:50
+0a209e5b-2342-45d1-8d94-4a13b078d66a,usd.city,premium,207.2,414.2,high,low,3,spaceship,,,28/09/2026 03:31
 50a687bb-e6f2-47b9-83fe-1199e5f150e2,reached.city,available,5.98,37.98,medium,low,7,namecheap,,,17/09/2026 19:16
 9a627e2b-2cac-4252-b579-aaebd3fe3a88,costless.city,available,5.98,37.98,medium,low,8,namecheap,,,13/08/2026 03:12
 0b62d1ef-f5fe-4338-99f2-d3aed0948593,purcell.city,available,5.38,22.97,high,low,7,spaceship,,,28/09/2026 02:05
@@ -977,25 +999,3 @@ c8d2f9bb-f59d-4c68-afc5-cee2489f1f42,unchanging.city,available,5.98,37.98,medium
 14c0f634-53c8-496e-8c9a-709c1c34a196,plucky.city,available,5.98,37.98,high,low,6,namecheap,,,18/08/2026 00:47
 a71e8d14-dbb3-4255-b428-e157f2b98c16,flexuous.city,available,5.98,37.98,medium,low,8,namecheap,,,18/08/2026 08:08
 c0d241ce-43c6-4cae-96be-adba2f222531,demolished.city,available,5.98,37.98,medium,low,10,namecheap,,,14/08/2026 01:21
-bffd4154-c526-4c27-b2dc-019981ac8634,beano.city,available,5.98,37.98,high,low,5,namecheap,,,22/09/2026 20:40
-551a1287-9a0e-45db-a5ed-87e8b502786b,wealthily.city,available,7.25,28.49,medium,low,9,namesilo,,,16/09/2026 11:21
-38f83a9d-c2fa-4593-9ee4-524f342f0cfc,axletree.city,available,7.25,28.49,medium,low,8,namesilo,,,21/09/2026 10:27
-f9dea959-ef9f-4ea3-96e9-d49604151287,bazooka.city,available,5.98,37.98,high,low,7,namecheap,,,22/09/2026 18:25
-bb4e450d-a1fa-402b-aa2f-afadcb129d86,filiform.city,available,5.98,37.98,medium,low,8,namecheap,,,18/08/2026 04:04
-217799ff-97cf-4477-b617-660b67b72865,piquant.city,available,5.98,37.98,high,low,7,namecheap,,,17/08/2026 07:38
-0cfebeaf-d07f-40c0-af71-6d0315399786,fatherly.city,available,5.98,37.98,high,low,8,namecheap,,,17/08/2026 23:36
-95d57cb7-1be8-4d9c-9a21-1c12162b7b48,village.city,premium,23.6,23.6,high,low,7,namesilo,,,25/09/2026 06:43
-49d7a5e0-0474-4a64-b705-6a6593273c83,refused.city,available,5.98,37.98,medium,low,7,namecheap,,,18/09/2026 13:40
-25e2628a-c888-471a-8e2b-320f5fa63b1b,dumpy.city,available,5.98,37.98,medium,low,5,namecheap,,,14/08/2026 21:10
-9bb41132-df5d-4a25-9e23-2cfd66696733,celebrate.city,available,7.25,28.49,high,low,9,namesilo,,,25/09/2026 05:59
-18f56f86-2ba1-4909-8a91-6e0342a8cf17,sedative.city,available,7.99,41.99,high,low,8,name.com,,,22/09/2026 10:55
-0f143135-948d-4939-a5d1-1e5b6e29b71d,gory.city,available,5.98,37.98,medium,low,4,namecheap,,,10/08/2026 15:23
-2630bc97-98d7-4b3e-abf8-168f0372c805,apothecium.city,available,5.98,37.98,medium,low,10,namecheap,,,19/09/2026 19:43
-d0f9c15c-2d58-4aef-ab61-cfc36e0f4053,feelings.city,available,7.99,,high,low,8,name.com,,,
-dc2da944-7bdd-4353-a5aa-fd9208858f81,compelling.city,available,7.25,28.49,high,low,10,namesilo,,,23/09/2026 17:02
-894a98cd-23fc-444c-8074-02b03408995d,overblown.city,available,5.98,37.98,medium,low,9,namecheap,,,04/09/2026 20:19
-4a07d8a1-6dad-4720-b6a3-ebac0992ba18,confines.city,available,7.25,28.49,high,low,8,namesilo,,,24/09/2026 17:13
-2f3a9c55-6208-486f-9e77-dedfd4360715,competing.city,available,7.99,,medium,low,9,name.com,,,
-824ad200-108a-4cd7-b640-bc618718dbf3,decreased.city,available,5.98,37.98,medium,low,9,namecheap,,,13/08/2026 22:08
-7bf35291-5978-45ba-8696-b0b6edf4d9c7,delirium.city,available,5.98,37.98,high,low,8,namecheap,,,24/09/2026 21:40
-db6a60a7-852e-4d33-8ee7-17ff4bdfbdd1,terminated.city,available,7.25,28.49,high,low,10,namesilo,,,19/09/2026 16:25
